@@ -74,7 +74,7 @@ def kmeans(df, random_vip, knns):
     k = int(math.sqrt(df.shape[1]) / 2)
     silhouette_avgs = []
 
-    for n_clusters in range(k, k + 1):
+    for n_clusters in range(2, k + 2):
         logging.debug("n_clusters = {}".format(n_clusters))
         clusterer = KMeans(n_clusters=n_clusters)
         cluster_labels = clusterer.fit_predict(df.T)
