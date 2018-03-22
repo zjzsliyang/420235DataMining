@@ -60,7 +60,7 @@ def knn(df, k, coefficient):
     hash_size = int(coefficient * df.shape[1])
     lsh = LSHash(hash_size, input_dim=df.shape[0])
     for vipno in df:
-        lsh.index(df[vipno], extra_data=vipno)
+        lsh.index(df[vipno].tolist(), extra_data=vipno)
     random_column = df[df.columns.to_series().sample(1)]
     random_vip = random_column.columns.values[0]
     logging.info("random vipno: {}".format(random_vip))
@@ -178,7 +178,7 @@ def main():
     # Problem I
     coefficients = [0.01, 0.05, 0.1, 0.2, 0.3, 0.5]
     ks = [1, 2, 3, 4, 5]
-    random_vip, knns = knn(df, ks[4], coefficients[4])
+    random_vip, knns = knn(df, ks[4], coefficients[0])
 
     # Problem II
     k = kmeans(df, random_vip, knns)
