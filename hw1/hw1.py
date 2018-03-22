@@ -2,10 +2,13 @@ import csv
 import math
 import pandas
 import logging
+import numpy as np
 import matplotlib.pyplot as plt
 from lshash.lshash import LSHash
-from sklearn.cluster import KMeans
+from sklearn.cluster import KMeans, DBSCAN
 from sklearn.metrics import silhouette_score
+from sklearn.mixture import GaussianMixture
+from sklearn.preprocessing import StandardScaler
 
 ''' raw reco data info
 db_name   说明        index        example
@@ -61,8 +64,8 @@ def knn(df, k, coefficient):
     random_column = df[df.columns.to_series().sample(1)]
     random_vip = random_column.columns.values[0]
     logging.info("random vipno: {}".format(random_vip))
-    res = lsh.query(random_column.values.flatten())[1:k + 1]
-    print("vipno in ranked order using kNN(k={}):".format(k))
+    res = lsh.query(random_column.values.flatten())[1: k + 1]
+    print("vipno in ranked order using kNN(k = {}):".format(k))
     knns = []
     for item in res:
         print(item[0][1])
@@ -75,20 +78,25 @@ def kmeans(df, random_vip, knns):
     silhouette_avgs = []
 
     for n_clusters in range(2, k + 2):
-        logging.debug("n_clusters = {}".format(n_clusters))
+        logging.debug("KMeans: n_clusters = {}".format(n_clusters))
         clusterer = KMeans(n_clusters=n_clusters)
-        cluster_labels = clusterer.fit_predict(df.T)
-        silhouette_avg = silhouette_score(df.T, cluster_labels)
+        X = StandardScaler().fit_transform(df.T)
+        cluster_labels = clusterer.fit_predict(X)
+        silhouette_avg = silhouette_score(X, cluster_labels)
         silhouette_avgs.append(silhouette_avg)
         print("For n_clusters =", n_clusters,
-              "The average silhouette_score is :", silhouette_avg)
+              "The average silhouette_score in KMeans is :", silhouette_avg)
 
         res = 0
         no = cluster_labels[df.columns.get_loc(random_vip)]
         for neighbor in knns:
             if cluster_labels[df.columns.get_loc(neighbor)] == no:
                 res += 1
-        print("For k = {} in kNN, there has {} in the same cluster.".format(len(knns), res))
+            else:
+                logging.info("KMeans: vipno: {} is not in the same cluster.".format(
+                    neighbor))
+        print("For k = {} in kNN, there has {} in the same cluster in KMeans.".format(
+            len(knns), res))
 
     plt.figure(figsize=(10, 6))
     plt.xlim([2, k + 1])
@@ -100,6 +108,66 @@ def kmeans(df, random_vip, knns):
         fontsize=14, fontweight='bold')
     plt.plot(range(2, k + 2), silhouette_avgs)
     plt.show()
+
+    return silhouette_avgs.index(max(silhouette_avgs)) + 2
+
+
+def dbscan(df, random_vip, knns):
+    # TODO: fix the noisy sample bugs
+    # TODO: test
+    silhouette_avgs = []
+    for eps in np.arange(0.1, 1, 0.1):
+        logging.debug("DBSCAN: eps = {}".format(eps))
+        X = StandardScaler().fit_transform(df.T)
+        db = DBSCAN(eps=eps).fit(X)
+        core_samples_mask = np.zeros_like(db.labels_, dtype=bool)
+        core_samples_mask[db.core_sample_indices_] = True
+        cluster_labels = db.labels_
+        n_clusters = len(set(cluster_labels)) - (1 if -1 in cluster_labels else 0)
+        silhouette_avg = silhouette_score(X, db.labels_)
+        silhouette_avgs.append(silhouette_avg)
+        print("For n_clusters =", n_clusters,
+              "The average silhouette_score in DBSCAN is :", silhouette_avg)
+
+        res = 0
+        no = cluster_labels[df.columns.get_loc(random_vip)]
+        for neighbor in knns:
+            if cluster_labels[df.columns.get_loc(neighbor)] == no:
+                res += 1
+            else:
+                logging.info("DBSCAN: vipno: {} is not in the same cluster.".format(
+                    neighbor))
+        print("For k = {} in kNN, there has {} in the same cluster in DBSCAN.".format(
+            len(knns), res))
+
+    plt.figure(figsize=(10, 6))
+    plt.xlim(np.arange(0.1, 1, 0.1))
+    plt.ylim([-0.1, 1])
+    plt.xlabel("The number of clusters as well as the number of centroids")
+    plt.ylabel("The silhouette coefficient values")
+    plt.suptitle(
+        "Silhouette analysis for DBSCAN clustering on reco data",
+        fontsize=14, fontweight='bold')
+    plt.plot(silhouette_avgs)
+    plt.show()
+
+    return silhouette_avgs.index(max(silhouette_avgs)) / 10
+
+
+def gmm(df, k, eps, random_vip, knns):
+    # TODO: calculate the accuracy
+    X = StandardScaler().fit_transform(df.T)
+    # Compare with KMeans
+    gmix_kmeans = GaussianMixture(n_components=k)
+    gmix_kmeans.fit(X)
+    print(gmix_kmeans.means_)
+
+    # Compare with DBSCAN
+    gmix_dbscan = GaussianMixture(n_components=eps)
+    gmix_dbscan.fit(X)
+    print(gmix_dbscan.means_)
+
+    # Compare with kNN
 
 
 def main():
@@ -113,11 +181,13 @@ def main():
     random_vip, knns = knn(df, ks[4], coefficients[4])
 
     # Problem II
-    kmeans(df, random_vip, knns)
+    k = kmeans(df, random_vip, knns)
 
     # Problem III
+    eps = dbscan(df, random_vip, knns)
 
     # Problem IV
+    gmm(df, k, eps, random_vip, knns)
 
 
 if __name__ == '__main__':
