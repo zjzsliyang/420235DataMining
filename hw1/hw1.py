@@ -57,7 +57,7 @@ def read_data():
 
 
 def knn(df, k, coefficient):
-    hash_size = int(coefficient) * df.shape[1]
+    hash_size = int(coefficient * df.shape[1])
     lsh = LSHash(hash_size, input_dim=df.shape[0])
     for vipno in df:
         lsh.index(df[vipno], extra_data=vipno)
