@@ -28,7 +28,7 @@ def read_data():
     logging.info('DataFrame shape: {}'.format(df.shape))
     logging.debug('DataFrame info: {}'.format(df.info(verbose=False)))
 
-    # plot_raw_data(df)
+    plot_raw_data(df)
     return df
 
 
@@ -65,7 +65,7 @@ def plot_raw_data(df):
     fig.set_ylabel('reindex of vipno(increased by 1)')
     matplotlib.pyplot.title('Overview of Trade Data')
     matplotlib.pyplot.tight_layout()
-    matplotlib.pyplot.savefig('res/raw.pdf', dpi=200)
+    matplotlib.pyplot.savefig('res/raw.png', dpi=200)
     logging.info('point No. which are not zero: {}'.format(len(z)))
 
     matplotlib.pyplot.figure(figsize=(6, 6))
@@ -77,7 +77,7 @@ def plot_raw_data(df):
     matplotlib.pyplot.axis('equal')
     matplotlib.pyplot.title('Distribution of Trade Data Amount')
     matplotlib.pyplot.tight_layout()
-    matplotlib.pyplot.savefig('res/raw2.pdf', dpi=200)
+    matplotlib.pyplot.savefig('res/raw2.png', dpi=200)
     matplotlib.pyplot.show()
 
 
