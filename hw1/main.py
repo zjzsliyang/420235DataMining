@@ -3,8 +3,9 @@ import pandas
 import logging
 import matplotlib.pyplot
 from hw1.q1.knn import knn
-import palettable.colorbrewer.qualitative
+from hw1.q2.kmeans import kmeans
 from mpl_toolkits.mplot3d import Axes3D
+import palettable.colorbrewer.qualitative
 
 
 def read_data():
@@ -28,7 +29,7 @@ def read_data():
     logging.info('DataFrame shape: {}'.format(df.shape))
     logging.debug('DataFrame info: {}'.format(df.info(verbose=False)))
 
-    plot_raw_data(df)
+    # plot_raw_data(df)
     return df
 
 
@@ -92,7 +93,7 @@ def main():
     random_vip, knns = knn(df, ks[4], coefficients[0])
 
     # Problem II
-    # k = kmeans(df, random_vip, knns)
+    k = kmeans(df, random_vip, knns)
 
     # Problem III
     # eps = dbscan(df, random_vip, knns)
