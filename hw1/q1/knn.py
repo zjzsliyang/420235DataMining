@@ -1,8 +1,8 @@
 import logging
-import matplotlib
 from lshash.lshash import LSHash
 
 
+# @profile
 def knn(df, k, coefficient):
     hash_size = int(coefficient * df.shape[1])
     lsh = LSHash(hash_size, input_dim=df.shape[0])
@@ -15,6 +15,7 @@ def knn(df, k, coefficient):
     print('vipno in ranked order using kNN(k = {}):'.format(k))
     knns = []
     for item in res:
-        print(item[0][1])
-        knns.append(item[0][1])
-    return random_vip, knns
+        if item[0][1] != random_vip:
+            print(item[0][1])
+            knns.append(item[0][1])
+    return random_vip, knns[:5]
