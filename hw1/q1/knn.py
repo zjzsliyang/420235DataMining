@@ -12,10 +12,10 @@ def knn(df, k, coefficient):
     random_vip = random_column.columns.values[0]
     logging.info('random vipno: {}'.format(random_vip))
     res = lsh.query(random_column.values.flatten())[0: k + 1]
-    print('vipno in ranked order using kNN(k = {}):'.format(k))
+    logging.info('vipno in ranked order using kNN(k = {}):'.format(k))
     knns = []
     for item in res:
         if item[0][1] != random_vip:
-            print(item[0][1])
+            logging.info(item[0][1])
             knns.append(item[0][1])
     return random_vip, knns[:5]

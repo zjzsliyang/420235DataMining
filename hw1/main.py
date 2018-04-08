@@ -33,6 +33,20 @@ def read_data():
     return df
 
 
+def verification(df, k, coefficient):
+    kmeans_hits = []
+    for _ in range(100):
+        random_vip, knns = knn(df, k, coefficient)
+        cluster_no, kmeans_hit = kmeans(df, random_vip, knns)
+        kmeans_hits.append(kmeans_hit)
+
+    kmeans_correctness = list(zip(*kmeans_hits))
+    for index, cor in enumerate(kmeans_correctness):
+        logging.warning(
+            'For n_clusters = {}, the average correctness of K-means is {}'.format(
+                index + 2, sum(cor) / len(cor) / k))
+
+
 def plot_raw_data(df):
     x = []
     y = []
@@ -82,7 +96,7 @@ def plot_raw_data(df):
 
 
 def main():
-    logging.basicConfig(level=logging.DEBUG)
+    logging.basicConfig(level=logging.WARNING)
 
     df = read_data()
 
@@ -92,13 +106,15 @@ def main():
     random_vip, knns = knn(df, ks[4], coefficients[0])
 
     # Problem II
-    k = kmeans(df, random_vip, knns)
+    cluster_no, hits = kmeans(df, random_vip, knns)
 
     # Problem III
     # eps = dbscan(df, random_vip, knns)
 
     # Problem IV
     # gmm(df, k, eps, random_vip, knns)
+
+    verification(df, ks[4], coefficients[0])
 
 
 if __name__ == '__main__':

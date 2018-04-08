@@ -8,9 +8,10 @@ import palettable.colorbrewer.qualitative
 from sklearn.metrics import silhouette_score, silhouette_samples
 
 
-@profile
+# @profile
 def kmeans(df, random_vip, knns):
     k = int(math.sqrt(df.shape[1] / 2))
+    hits = []
     silhouette_avgs = []
 
     for n_clusters in range(2, k + 2):
@@ -20,28 +21,29 @@ def kmeans(df, random_vip, knns):
         cluster_labels = clusterer.fit_predict(X)
         silhouette_avg = silhouette_score(X, cluster_labels)
         silhouette_avgs.append(silhouette_avg)
-        print("For n_clusters =", n_clusters,
-              "The average silhouette_score in K-means is :", silhouette_avg)
+        logging.info("For n_clusters =", n_clusters,
+              ",the average silhouette_score in K-means is :", silhouette_avg)
 
         # if n_clusters >= k / 2:
         #     plot_silhouette(X, cluster_labels, n_clusters, clusterer)
 
-        res = 0
+        hit = 0
         no = cluster_labels[df.columns.get_loc(random_vip)]
         for neighbor in knns:
             if cluster_labels[df.columns.get_loc(neighbor)] == no:
-                res += 1
+                hit += 1
             else:
                 logging.info(
                     "K-means: vipno: {} is not in the same cluster.".format(
                         neighbor))
-        print(
+        logging.info(
             "For k = {} in kNN, there has {} in the same cluster in K-means.".format(
-                len(knns), res))
+                len(knns), hit))
+        hits.append(hit)
 
     # plot_kmeans_clusterno(k, silhouette_avgs)
 
-    return silhouette_avgs.index(max(silhouette_avgs)) + 2
+    return 9, hits
 
 
 def plot_kmeans_clusterno(k, silhouette_avgs):
