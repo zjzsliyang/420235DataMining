@@ -37,15 +37,25 @@ def read_data():
 
 def verification(df, k, coefficient):
     kmeans_hits = []
+    dbscan_hits = []
     for _ in range(100):
         random_vip, knns = knn(df, k, coefficient)
         cluster_no, kmeans_hit = kmeans(df, random_vip, knns)
         kmeans_hits.append(kmeans_hit)
 
+        eps, dbscan_hit = dbscan(df, random_vip, knns)
+        dbscan_hits.append(dbscan_hit)
+
     kmeans_correctness = list(zip(*kmeans_hits))
+    dbscan_correctness = list(zip(*dbscan_hits))
     for index, cor in enumerate(kmeans_correctness):
         logging.warning(
             'For n_clusters = {}, the average correctness of K-means is {}'.format(
+                index + 2, sum(cor) / len(cor) / k))
+
+    for index, cor in enumerate(dbscan_correctness):
+        logging.warning(
+            'For n_clusters = {}, the average correctness of DBSCAN is {}'.format(
                 index + 2, sum(cor) / len(cor) / k))
 
 
@@ -108,13 +118,13 @@ def main():
     random_vip, knns = knn(df, ks[4], coefficients[0])
 
     # Problem II
-    cluster_no, hits = kmeans(df, random_vip, knns)
+    cluster_no, kmeans_hit = kmeans(df, random_vip, knns)
 
     # Problem III
-    eps = dbscan(df, random_vip, knns)
+    eps, dbscan_hit = dbscan(df, random_vip, knns)
 
     # Problem IV
-    gmm(df, cluster_no, eps, random_vip, knns)
+    # gmm(df, cluster_no, eps, random_vip, knns)
 
     # verification(df, ks[4], coefficients[0])
 
