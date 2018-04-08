@@ -8,7 +8,7 @@ import palettable.colorbrewer.qualitative
 from sklearn.metrics import silhouette_score, silhouette_samples
 
 
-# @profile
+@profile
 def kmeans(df, random_vip, knns):
     k = int(math.sqrt(df.shape[1] / 2))
     silhouette_avgs = []
@@ -23,8 +23,8 @@ def kmeans(df, random_vip, knns):
         print("For n_clusters =", n_clusters,
               "The average silhouette_score in K-means is :", silhouette_avg)
 
-        if n_clusters >= k / 2:
-            plot_silhouette(X, cluster_labels, n_clusters, clusterer)
+        # if n_clusters >= k / 2:
+        #     plot_silhouette(X, cluster_labels, n_clusters, clusterer)
 
         res = 0
         no = cluster_labels[df.columns.get_loc(random_vip)]
@@ -39,7 +39,7 @@ def kmeans(df, random_vip, knns):
             "For k = {} in kNN, there has {} in the same cluster in K-means.".format(
                 len(knns), res))
 
-    plot_kmeans_clusterno(k, silhouette_avgs)
+    # plot_kmeans_clusterno(k, silhouette_avgs)
 
     return silhouette_avgs.index(max(silhouette_avgs)) + 2
 
