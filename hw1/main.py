@@ -3,7 +3,9 @@ import pandas
 import logging
 import matplotlib.pyplot
 from hw1.q1.knn import knn
+from hw1.q4.gmm import gmm
 from hw1.q2.kmeans import kmeans
+from hw1.q3.dbscan import dbscan
 from mpl_toolkits.mplot3d import Axes3D
 import palettable.colorbrewer.qualitative
 
@@ -109,12 +111,12 @@ def main():
     cluster_no, hits = kmeans(df, random_vip, knns)
 
     # Problem III
-    # eps = dbscan(df, random_vip, knns)
+    eps = dbscan(df, random_vip, knns)
 
     # Problem IV
-    # gmm(df, k, eps, random_vip, knns)
+    gmm(df, cluster_no, eps, random_vip, knns)
 
-    verification(df, ks[4], coefficients[0])
+    # verification(df, ks[4], coefficients[0])
 
 
 if __name__ == '__main__':
