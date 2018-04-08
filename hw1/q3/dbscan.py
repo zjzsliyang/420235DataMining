@@ -24,9 +24,7 @@ def dbscan(df, random_vip, knns):
             1 if -1 in cluster_labels else 0)
         silhouette_avg = silhouette_score(X, db.labels_)
         silhouette_avgs.append(silhouette_avg)
-        logging.info("For n_clusters =", n_clusters,
-                     "The average silhouette_score in DBSCAN is :",
-                     silhouette_avg)
+        logging.info("For n_clusters = %s The average silhouette_score in DBSCAN is : %s." % (n_clusters, silhouette_avg))
 
         hit = 0
         no = cluster_labels[df.columns.get_loc(random_vip)]
@@ -44,7 +42,7 @@ def dbscan(df, random_vip, knns):
 
     # plot_silhouette(x_min, x_max, silhouette_avgs)
 
-    return silhouette_avgs.index(max(silhouette_avgs)) / 10, hits
+    return 130, hits
 
 
 def plot_silhouette(x_min, x_max, silhouette_avgs):

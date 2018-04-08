@@ -108,7 +108,7 @@ def plot_raw_data(df):
 
 
 def main():
-    logging.basicConfig(level=logging.WARNING)
+    logging.basicConfig(level=logging.INFO)
 
     df = read_data()
 
@@ -124,7 +124,7 @@ def main():
     eps, dbscan_hit = dbscan(df, random_vip, knns)
 
     # Problem IV
-    # gmm(df, cluster_no, eps, random_vip, knns)
+    gmm(df, eps, random_vip, knns)
 
     # verification(df, ks[4], coefficients[0])
 

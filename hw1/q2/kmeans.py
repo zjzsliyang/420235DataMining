@@ -21,8 +21,7 @@ def kmeans(df, random_vip, knns):
         cluster_labels = clusterer.fit_predict(X)
         silhouette_avg = silhouette_score(X, cluster_labels)
         silhouette_avgs.append(silhouette_avg)
-        logging.info("For n_clusters =", n_clusters,
-              ",the average silhouette_score in K-means is :", silhouette_avg)
+        logging.info("For n_clusters = %s ,the average silhouette_score in K-means is : %s." % (n_clusters, silhouette_avg))
 
         # if n_clusters >= k / 2:
         #     plot_silhouette(X, cluster_labels, n_clusters, clusterer)
