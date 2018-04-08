@@ -79,7 +79,6 @@ def plot_raw_data(df):
     matplotlib.pyplot.title('Distribution of Trade Data Amount')
     matplotlib.pyplot.tight_layout()
     matplotlib.pyplot.savefig('res/raw2.png', dpi=200)
-    matplotlib.pyplot.show()
 
 
 def main():
