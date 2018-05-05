@@ -10,12 +10,16 @@ def find_frequent_patterns(combined: bool, threshold: int, item_no: str,
         '../data/reco_data/trade.csv')
     sldat = 'sldatime' if is_new else 'sldat'
     if combined:
-        pass
-    else:
         data = df[[item_no, 'vipno', sldat]].groupby('vipno').apply(
             lambda x: x.sort_values(by=sldat, ascending=True).head(
                 int(x[item_no].count() * 0.6)))[item_no].groupby('vipno').apply(
             set).as_matrix()
+    else:
+        data = df[[item_no, 'vipno', sldat]].groupby('vipno').apply(
+            lambda x: x.sort_values(by=sldat, ascending=True).head(
+                int(x[item_no].count() * 0.6))).groupby(sldat)[item_no].apply(
+            set).as_matrix()
+        print(data)
     patterns = pyfpgrowth.find_frequent_patterns(data, threshold)
     print(patterns)
     print(len(patterns))
@@ -23,7 +27,8 @@ def find_frequent_patterns(combined: bool, threshold: int, item_no: str,
 
 def main():
     logging.basicConfig(level=logging.INFO)
-    find_frequent_patterns(False, 2, 'pluno', False)
+    find_frequent_patterns(combined=False, threshold=2, item_no='pluno',
+                           is_new=True)
 
 
 if __name__ == '__main__':
