@@ -4,7 +4,6 @@ import logging
 import operator
 import pyfpgrowth
 from statistics import mean
-from itertools import chain
 from hw2.src.PrefixSpan import prefixSpan, SquencePattern, print_patterns
 
 
@@ -61,7 +60,7 @@ def verification(patterns, sequential: bool, item_no: str, is_new: bool):
         lambda x: x.tolist()).to_dict()
     newers = df[[item_no, 'vipno', sldat]].groupby('vipno').apply(
         lambda x: x.sort_values(by=sldat, ascending=False).head(
-            int(x[item_no].count() * 0.4))).groupby('vipno')[item_no].apply(
+            int(x[item_no].count() * 0.4))).groupby(['vipno', sldat])[item_no].apply(
         lambda x: x.tolist()).to_dict()
 
     if not sequential:
@@ -74,11 +73,12 @@ def verification(patterns, sequential: bool, item_no: str, is_new: bool):
             for vipno, old_tran in olders.items():
                 remaining = {*pattern[0]} - {*pattern[0]}.intersection(
                     old_tran)
-                if len(remaining) == 1:
-                    reco[vipno] = reco.get(vipno, [])
-                    reco[vipno].append(remaining)
-        for vipno, new_tran in newers.items():
-            hit = len(set(chain(*reco[vipno])).intersection(new_tran))
+                if len(remaining) == 1 and len(pattern) > 1:
+                    reco[vipno] = reco.get(vipno, set())
+                    reco[vipno].add(lambda x: x in remaining)
+        for index, new_tran in newers.items():
+            vipno = index[0]
+            hit = len(set(reco[vipno]).intersection(new_tran))
             precision[vipno] = hit / len(new_tran)
             recall[vipno] = hit / len(reco[vipno])
 
