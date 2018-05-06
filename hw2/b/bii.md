@@ -43,6 +43,10 @@ lenth of pattern in `trade_new.csv`:
 | pluno   | 285  | 440  | 826  | 2277  | 36837  |
 | bndno   | 125  | 188  | 331  | 790   | 7961   |
 
+time cost in different support:
+
+
+
 ### Performance
 
 ##### Time & Space Complexity in Theory

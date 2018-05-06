@@ -51,6 +51,7 @@ def find_frequent_patterns(sequential: bool, combined: bool, threshold: int,
         return patterns
 
 
+# @profile
 def verification(patterns, sequential: bool, item_no: str, is_new: bool):
     df = pandas.read_csv(
         '../data/reco_data/trade_new.csv') if is_new else pandas.read_csv(
