@@ -1,2 +1,4 @@
 pandas==0.21.1
 pyfpgrowth==1.0
+line-profiler==2.1.2
+memory-profiler==0.52.0

@@ -3,10 +3,13 @@ import pandas
 import logging
 import operator
 import pyfpgrowth
+import line_profiler
+import memory_profiler
 from statistics import mean
 from hw2.src.PrefixSpan import prefixSpan, SquencePattern, print_patterns
 
 
+# @profile
 def find_frequent_patterns(sequential: bool, combined: bool, threshold: int,
                            item_no: str, is_new: bool):
     df = pandas.read_csv(
@@ -88,9 +91,9 @@ def verification(patterns, sequential: bool, item_no: str, is_new: bool):
 
 def main():
     logging.basicConfig(level=logging.INFO)
-    patterns = find_frequent_patterns(sequential=False, combined=True,
+    patterns = find_frequent_patterns(sequential=True, combined=True,
                                       threshold=2, item_no='pluno', is_new=True)
-    verification(patterns=patterns, sequential=False, item_no='pluno', is_new=True)
+    # verification(patterns=patterns, sequential=False, item_no='pluno', is_new=True)
 
 
 if __name__ == '__main__':

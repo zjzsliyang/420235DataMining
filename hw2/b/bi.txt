@@ -1,0 +1,4069 @@
+pattern:[[20130090]], support:2
+pattern:[[14092017]], support:2
+pattern:[[10109021]], support:2
+pattern:[[10103003]], support:2
+pattern:[[11302007]], support:2
+pattern:[[22120044]], support:2
+pattern:[[15402019]], support:2
+pattern:[[10000007]], support:2
+pattern:[[10000007], [24101000]], support:2
+pattern:[[14723012]], support:2
+pattern:[[22602000]], support:2
+pattern:[[11304005]], support:2
+pattern:[[11500080]], support:2
+pattern:[[11300191]], support:2
+pattern:[[23133017]], support:2
+pattern:[[15402005]], support:2
+pattern:[[22830000]], support:2
+pattern:[[14844017]], support:2
+pattern:[[14906007]], support:2
+pattern:[[11220016]], support:2
+pattern:[[30161040]], support:2
+pattern:[[10112005]], support:2
+pattern:[[14054001]], support:2
+pattern:[[14054002]], support:2
+pattern:[[14101045]], support:2
+pattern:[[14723009]], support:2
+pattern:[[14831020]], support:2
+pattern:[[14911003]], support:2
+pattern:[[22040007]], support:2
+pattern:[[27002166]], support:2
+pattern:[[27002045]], support:2
+pattern:[[10116031]], support:2
+pattern:[[11221039]], support:2
+pattern:[[15115012]], support:2
+pattern:[[11220040]], support:2
+pattern:[[14013028]], support:2
+pattern:[[10201000]], support:2
+pattern:[[10200021]], support:2
+pattern:[[14900023]], support:2
+pattern:[[22621000]], support:2
+pattern:[[11522006]], support:2
+pattern:[[24100003]], support:2
+pattern:[[22603001]], support:2
+pattern:[[14060010]], support:2
+pattern:[[15202030]], support:2
+pattern:[[20121056]], support:2
+pattern:[[14844043]], support:2
+pattern:[[15110060]], support:2
+pattern:[[14033048]], support:2
+pattern:[[10116021]], support:2
+pattern:[[15121002]], support:2
+pattern:[[10113000]], support:2
+pattern:[[14132179]], support:2
+pattern:[[15243000]], support:2
+pattern:[[14812003]], support:2
+pattern:[[10435004]], support:2
+pattern:[[14932008]], support:2
+pattern:[[31003026]], support:2
+pattern:[[22710009]], support:2
+pattern:[[15421002]], support:2
+pattern:[[15120004]], support:2
+pattern:[[15202045]], support:2
+pattern:[[14644000]], support:2
+pattern:[[14916004]], support:2
+pattern:[[14015048]], support:2
+pattern:[[14082028]], support:2
+pattern:[[14820003]], support:2
+pattern:[[10201015]], support:2
+pattern:[[30514005]], support:2
+pattern:[[11240007]], support:2
+pattern:[[32917001]], support:2
+pattern:[[15321002]], support:2
+pattern:[[10152011]], support:2
+pattern:[[14722069]], support:2
+pattern:[[14722075]], support:2
+pattern:[[40000678]], support:2
+pattern:[[27300283]], support:2
+pattern:[[14000003]], support:2
+pattern:[[14342006]], support:2
+pattern:[[22710000]], support:2
+pattern:[[10119044]], support:2
+pattern:[[10501079]], support:2
+pattern:[[14401030]], support:2
+pattern:[[14842019]], support:2
+pattern:[[15120007]], support:2
+pattern:[[14802027]], support:2
+pattern:[[11230070]], support:2
+pattern:[[14846001]], support:2
+pattern:[[15140009]], support:2
+pattern:[[15140009], [14050015]], support:2
+pattern:[[10422012]], support:2
+pattern:[[22101003]], support:2
+pattern:[[24102005]], support:2
+pattern:[[22840002]], support:2
+pattern:[[14200035]], support:2
+pattern:[[15343010]], support:2
+pattern:[[15343010], [30380003]], support:2
+pattern:[[24010825]], support:2
+pattern:[[24011002]], support:2
+pattern:[[14132181]], support:2
+pattern:[[30351007]], support:2
+pattern:[[11240017]], support:2
+pattern:[[14240005]], support:2
+pattern:[[14083004]], support:2
+pattern:[[10119024]], support:2
+pattern:[[14064009]], support:2
+pattern:[[14842024]], support:2
+pattern:[[30445008]], support:2
+pattern:[[11500128]], support:2
+pattern:[[11508002]], support:2
+pattern:[[30504016]], support:2
+pattern:[[30504016], [30504022]], support:2
+pattern:[[30504022]], support:2
+pattern:[[14831005]], support:2
+pattern:[[14092068]], support:2
+pattern:[[11521011]], support:2
+pattern:[[11303081]], support:2
+pattern:[[14092046]], support:2
+pattern:[[10119074]], support:2
+pattern:[[10141023]], support:2
+pattern:[[14054012]], support:2
+pattern:[[10141002]], support:2
+pattern:[[15149003]], support:2
+pattern:[[14594017]], support:2
+pattern:[[14594017], [30380003]], support:2
+pattern:[[14145008]], support:2
+pattern:[[14596018]], support:2
+pattern:[[14594007]], support:2
+pattern:[[11111001]], support:2
+pattern:[[11011034]], support:2
+pattern:[[15100000]], support:2
+pattern:[[15005000]], support:2
+pattern:[[14525014]], support:2
+pattern:[[10300042]], support:2
+pattern:[[14834009]], support:2
+pattern:[[14834009], [14834010]], support:2
+pattern:[[14352004]], support:2
+pattern:[[14834000]], support:2
+pattern:[[14834000], [27300274]], support:2
+pattern:[[15242042]], support:2
+pattern:[[14060002]], support:2
+pattern:[[10002031]], support:2
+pattern:[[23171006]], support:2
+pattern:[[30321004]], support:2
+pattern:[[15410034]], support:2
+pattern:[[14750057]], support:2
+pattern:[[10150023]], support:2
+pattern:[[14091048]], support:2
+pattern:[[14653000]], support:2
+pattern:[[14223000]], support:2
+pattern:[[14722031]], support:2
+pattern:[[15402035]], support:2
+pattern:[[10000005]], support:2
+pattern:[[14090031]], support:2
+pattern:[[15202072]], support:2
+pattern:[[14531014]], support:2
+pattern:[[10119082]], support:2
+pattern:[[14112001]], support:2
+pattern:[[14822009]], support:2
+pattern:[[14863009]], support:2
+pattern:[[15110051]], support:2
+pattern:[[14845009]], support:2
+pattern:[[10421016]], support:2
+pattern:[[11303161]], support:2
+pattern:[[10119079]], support:2
+pattern:[[14835011]], support:2
+pattern:[[14101039]], support:2
+pattern:[[14723003]], support:2
+pattern:[[10435040]], support:2
+pattern:[[10113006]], support:2
+pattern:[[15412004]], support:2
+pattern:[[15004041]], support:2
+pattern:[[30451039]], support:2
+pattern:[[14722030]], support:2
+pattern:[[14105020]], support:2
+pattern:[[15110009]], support:2
+pattern:[[15104014]], support:2
+pattern:[[23110193]], support:2
+pattern:[[14802011]], support:2
+pattern:[[11052012]], support:2
+pattern:[[14710008]], support:2
+pattern:[[30000034]], support:2
+pattern:[[14091046]], support:2
+pattern:[[14750061]], support:2
+pattern:[[14842022]], support:2
+pattern:[[24010811]], support:2
+pattern:[[22172002]], support:2
+pattern:[[14130016]], support:2
+pattern:[[14130016], [14723019]], support:2
+pattern:[[15103000]], support:2
+pattern:[[15333005]], support:2
+pattern:[[14513009]], support:2
+pattern:[[14842012]], support:2
+pattern:[[14850005]], support:2
+pattern:[[27000575]], support:2
+pattern:[[15004049]], support:2
+pattern:[[14250003]], support:2
+pattern:[[10141019]], support:2
+pattern:[[14284000]], support:2
+pattern:[[10110000]], support:2
+pattern:[[10150017]], support:2
+pattern:[[10002030]], support:2
+pattern:[[14900017]], support:2
+pattern:[[24030065]], support:2
+pattern:[[14032021]], support:2
+pattern:[[14280008]], support:2
+pattern:[[15231002]], support:2
+pattern:[[10116027]], support:2
+pattern:[[14200038]], support:2
+pattern:[[14870001]], support:2
+pattern:[[33060006]], support:2
+pattern:[[10008007]], support:2
+pattern:[[14826012]], support:2
+pattern:[[10119083]], support:2
+pattern:[[14905004]], support:2
+pattern:[[14830016]], support:2
+pattern:[[14830032]], support:2
+pattern:[[14838002]], support:2
+pattern:[[14200034]], support:2
+pattern:[[11301076]], support:2
+pattern:[[10119028]], support:2
+pattern:[[21000001]], support:2
+pattern:[[10401025]], support:2
+pattern:[[14722021]], support:2
+pattern:[[15240006]], support:2
+pattern:[[10136000]], support:2
+pattern:[[14831017]], support:2
+pattern:[[30522045]], support:2
+pattern:[[14014012]], support:2
+pattern:[[24010886]], support:2
+pattern:[[24010886], [27300274]], support:2
+pattern:[[24010886], [27300274], [27300284]], support:2
+pattern:[[24010886], [27300284]], support:2
+pattern:[[15502002]], support:2
+pattern:[[14651000]], support:2
+pattern:[[14655001]], support:2
+pattern:[[14811027]], support:2
+pattern:[[21011010]], support:2
+pattern:[[22716003]], support:2
+pattern:[[22716003], [25120014]], support:2
+pattern:[[10501088]], support:2
+pattern:[[22100056]], support:2
+pattern:[[20110008]], support:2
+pattern:[[10135000]], support:2
+pattern:[[27000033]], support:2
+pattern:[[14076032]], support:2
+pattern:[[14092071]], support:2
+pattern:[[14203022]], support:2
+pattern:[[14091006]], support:2
+pattern:[[14721073]], support:2
+pattern:[[14830004]], support:2
+pattern:[[14906002]], support:2
+pattern:[[14650003]], support:2
+pattern:[[14650003], [15115034]], support:2
+pattern:[[14721044]], support:2
+pattern:[[11303089]], support:2
+pattern:[[10141070]], support:2
+pattern:[[10112014]], support:2
+pattern:[[14833008]], support:2
+pattern:[[25130014]], support:2
+pattern:[[14131008]], support:2
+pattern:[[14843019]], support:2
+pattern:[[22120017]], support:2
+pattern:[[15410012]], support:2
+pattern:[[15110068]], support:2
+pattern:[[22715004]], support:2
+pattern:[[23110145]], support:2
+pattern:[[23110145], [23110009]], support:2
+pattern:[[11305010]], support:2
+pattern:[[11022022]], support:2
+pattern:[[15419013]], support:2
+pattern:[[14843027]], support:2
+pattern:[[20101014]], support:2
+pattern:[[14846021]], support:2
+pattern:[[15320000]], support:2
+pattern:[[11502025]], support:2
+pattern:[[11502025], [14722074]], support:2
+pattern:[[14033054]], support:2
+pattern:[[14525015]], support:2
+pattern:[[24000335]], support:2
+pattern:[[14835005]], support:2
+pattern:[[14830029]], support:2
+pattern:[[14851013]], support:2
+pattern:[[15211004]], support:2
+pattern:[[14905009]], support:2
+pattern:[[14905009], [27300282]], support:2
+pattern:[[31042017]], support:2
+pattern:[[15110035]], support:2
+pattern:[[11231150]], support:2
+pattern:[[15022002]], support:2
+pattern:[[14835060]], support:2
+pattern:[[22013005]], support:2
+pattern:[[22120003]], support:2
+pattern:[[22631004]], support:2
+pattern:[[14836007]], support:2
+pattern:[[11004003]], support:2
+pattern:[[14583003]], support:2
+pattern:[[11521063]], support:2
+pattern:[[11303165]], support:2
+pattern:[[11110046]], support:2
+pattern:[[14064007]], support:2
+pattern:[[15242037]], support:2
+pattern:[[14722015]], support:2
+pattern:[[15604010]], support:2
+pattern:[[14830018]], support:2
+pattern:[[22120016]], support:2
+pattern:[[11303051]], support:2
+pattern:[[14112010]], support:2
+pattern:[[14260007]], support:2
+pattern:[[14022002]], support:2
+pattern:[[11231152]], support:2
+pattern:[[30010026]], support:2
+pattern:[[11500112]], support:2
+pattern:[[14130049]], support:2
+pattern:[[30320001]], support:2
+pattern:[[14271000]], support:2
+pattern:[[14271000], [15131001]], support:2
+pattern:[[15209021]], support:2
+pattern:[[10116026]], support:2
+pattern:[[15114004]], support:2
+pattern:[[15114004], [15114005]], support:2
+pattern:[[15202069]], support:2
+pattern:[[14722050]], support:2
+pattern:[[14722050], [14722051]], support:2
+pattern:[[14722050], [14722051], [30380002]], support:2
+pattern:[[14722050], [30380002]], support:2
+pattern:[[14722051]], support:2
+pattern:[[14722051], [30380002]], support:2
+pattern:[[10150020]], support:2
+pattern:[[10130006]], support:2
+pattern:[[14015065]], support:2
+pattern:[[14022004]], support:2
+pattern:[[14010006]], support:2
+pattern:[[14515001]], support:2
+pattern:[[25112008]], support:2
+pattern:[[10002003]], support:2
+pattern:[[10002006]], support:2
+pattern:[[21700003]], support:2
+pattern:[[24403017]], support:2
+pattern:[[24403017], [23110009]], support:2
+pattern:[[34240027]], support:2
+pattern:[[14112012]], support:2
+pattern:[[15209007]], support:2
+pattern:[[11220003]], support:2
+pattern:[[11220057]], support:2
+pattern:[[30832012]], support:2
+pattern:[[10000012]], support:2
+pattern:[[14200041]], support:2
+pattern:[[15404010]], support:2
+pattern:[[10114005]], support:2
+pattern:[[10114005], [27000574]], support:2
+pattern:[[14593008]], support:2
+pattern:[[10150046]], support:2
+pattern:[[22034006]], support:2
+pattern:[[11303187]], support:2
+pattern:[[11241028]], support:2
+pattern:[[15004077]], support:2
+pattern:[[14800009]], support:2
+pattern:[[14828017]], support:2
+pattern:[[15120005]], support:2
+pattern:[[14140048]], support:2
+pattern:[[32316027]], support:2
+pattern:[[14573010]], support:2
+pattern:[[14750043]], support:2
+pattern:[[14916000]], support:2
+pattern:[[14916000], [15231004]], support:2
+pattern:[[14916000], [15231004], [15231005]], support:2
+pattern:[[14916000], [15231005]], support:2
+pattern:[[15433003]], support:2
+pattern:[[10501093]], support:2
+pattern:[[14082026]], support:2
+pattern:[[15115035]], support:2
+pattern:[[14052027]], support:2
+pattern:[[27002176]], support:2
+pattern:[[27002630]], support:2
+pattern:[[11222045]], support:2
+pattern:[[15004033]], support:2
+pattern:[[14513025]], support:2
+pattern:[[14851005]], support:2
+pattern:[[11501070]], support:2
+pattern:[[23110192]], support:2
+pattern:[[11301004]], support:2
+pattern:[[21400019]], support:2
+pattern:[[11240006]], support:2
+pattern:[[14830021]], support:2
+pattern:[[14900019]], support:2
+pattern:[[27401715]], support:2
+pattern:[[22630004]], support:2
+pattern:[[10435036]], support:2
+pattern:[[14515002]], support:2
+pattern:[[30321020]], support:2
+pattern:[[15130026]], support:2
+pattern:[[15130026], [23110009]], support:2
+pattern:[[15130026], [23110009], [15131001]], support:2
+pattern:[[15130026], [15131001]], support:2
+pattern:[[15139023]], support:2
+pattern:[[15202006]], support:2
+pattern:[[10002027]], support:2
+pattern:[[14075021]], support:2
+pattern:[[14075021], [22130000]], support:2
+pattern:[[10002017]], support:2
+pattern:[[10002017], [30380002]], support:2
+pattern:[[10000016]], support:2
+pattern:[[15219000]], support:2
+pattern:[[36030033]], support:2
+pattern:[[22110005]], support:2
+pattern:[[14906009]], support:2
+pattern:[[15120002]], support:2
+pattern:[[15502061]], support:2
+pattern:[[15004003]], support:2
+pattern:[[11230201]], support:2
+pattern:[[14012004]], support:2
+pattern:[[22130029]], support:2
+pattern:[[11230052]], support:2
+pattern:[[14843015]], support:2
+pattern:[[14843015], [23131002]], support:2
+pattern:[[14573000]], support:2
+pattern:[[15114033]], support:2
+pattern:[[10200036]], support:2
+pattern:[[15139008]], support:2
+pattern:[[14091011]], support:2
+pattern:[[10150012]], support:2
+pattern:[[14072001]], support:2
+pattern:[[22870001]], support:2
+pattern:[[22870001], [22701014]], support:2
+pattern:[[14903002]], support:2
+pattern:[[14956014]], support:2
+pattern:[[14822001]], support:2
+pattern:[[14831002]], support:2
+pattern:[[11303084]], support:2
+pattern:[[15250003]], support:2
+pattern:[[14231003]], support:2
+pattern:[[22701011]], support:2
+pattern:[[22701011], [23110009]], support:2
+pattern:[[15200005]], support:2
+pattern:[[11220024]], support:2
+pattern:[[22021010]], support:2
+pattern:[[23130079]], support:2
+pattern:[[14050026]], support:2
+pattern:[[14841003]], support:2
+pattern:[[14811024]], support:2
+pattern:[[11303105]], support:2
+pattern:[[11300054]], support:2
+pattern:[[14260008]], support:2
+pattern:[[15110075]], support:2
+pattern:[[30634005]], support:2
+pattern:[[14844035]], support:2
+pattern:[[14721043]], support:2
+pattern:[[14043031]], support:2
+pattern:[[10141021]], support:2
+pattern:[[11530008]], support:2
+pattern:[[10141049]], support:2
+pattern:[[14585004]], support:2
+pattern:[[32821005]], support:2
+pattern:[[14814000]], support:2
+pattern:[[14814000], [22103004]], support:2
+pattern:[[14092047]], support:2
+pattern:[[14092047], [30380002]], support:2
+pattern:[[14721069]], support:2
+pattern:[[14020015]], support:2
+pattern:[[14020015], [14722017]], support:2
+pattern:[[14020015], [14722017], [30380002]], support:2
+pattern:[[14020015], [30380002]], support:2
+pattern:[[10116023]], support:2
+pattern:[[14722017]], support:2
+pattern:[[14722017], [30380002]], support:2
+pattern:[[10002026]], support:2
+pattern:[[14956008]], support:2
+pattern:[[22702004]], support:2
+pattern:[[11500066]], support:2
+pattern:[[10002009]], support:2
+pattern:[[10002009], [23110009]], support:2
+pattern:[[10141007]], support:2
+pattern:[[30420003]], support:2
+pattern:[[15200009]], support:2
+pattern:[[10137011]], support:2
+pattern:[[14061006]], support:2
+pattern:[[30634017]], support:2
+pattern:[[15202053]], support:2
+pattern:[[14082000]], support:2
+pattern:[[15104025]], support:2
+pattern:[[14275007]], support:2
+pattern:[[14281001]], support:2
+pattern:[[23130075]], support:2
+pattern:[[11011028]], support:2
+pattern:[[14200059]], support:2
+pattern:[[14594014]], support:2
+pattern:[[30169004]], support:2
+pattern:[[14082011]], support:2
+pattern:[[14050037]], support:2
+pattern:[[10141047]], support:2
+pattern:[[14241005]], support:2
+pattern:[[27002573]], support:2
+pattern:[[11110157]], support:2
+pattern:[[11502024]], support:2
+pattern:[[11531010]], support:2
+pattern:[[11532038]], support:2
+pattern:[[14090000]], support:2
+pattern:[[22830007]], support:2
+pattern:[[30010005]], support:2
+pattern:[[10130007]], support:2
+pattern:[[14013009]], support:2
+pattern:[[14000002]], support:2
+pattern:[[11303178]], support:2
+pattern:[[14721041]], support:2
+pattern:[[15240010]], support:2
+pattern:[[14701035]], support:2
+pattern:[[22131005]], support:2
+pattern:[[15502049]], support:2
+pattern:[[14839048]], support:2
+pattern:[[15110029]], support:2
+pattern:[[15320002]], support:2
+pattern:[[15320002], [27201062]], support:2
+pattern:[[30365017]], support:2
+pattern:[[15502022]], support:2
+pattern:[[23110189]], support:2
+pattern:[[23110189], [23110009]], support:2
+pattern:[[14100072]], support:2
+pattern:[[14105014]], support:2
+pattern:[[14723002]], support:2
+pattern:[[22630008]], support:2
+pattern:[[15202008]], support:2
+pattern:[[10119078]], support:2
+pattern:[[24011110]], support:2
+pattern:[[24011098]], support:2
+pattern:[[14720005]], support:2
+pattern:[[14000004]], support:2
+pattern:[[11533029]], support:2
+pattern:[[14750003]], support:2
+pattern:[[10141014]], support:2
+pattern:[[10132005]], support:2
+pattern:[[15343007]], support:2
+pattern:[[15320001]], support:2
+pattern:[[15320001], [30380002]], support:2
+pattern:[[15139011]], support:2
+pattern:[[22520002]], support:2
+pattern:[[14721077]], support:2
+pattern:[[14802051]], support:2
+pattern:[[14596013]], support:2
+pattern:[[14113000]], support:2
+pattern:[[14142040]], support:2
+pattern:[[14275036]], support:2
+pattern:[[11300130]], support:2
+pattern:[[14101028]], support:2
+pattern:[[14525018]], support:2
+pattern:[[14051003]], support:2
+pattern:[[14051004]], support:2
+pattern:[[15605013]], support:2
+pattern:[[14513016]], support:2
+pattern:[[15110049]], support:2
+pattern:[[27002264]], support:2
+pattern:[[24403028]], support:2
+pattern:[[14710019]], support:2
+pattern:[[22671070]], support:2
+pattern:[[14700032]], support:2
+pattern:[[14130019]], support:2
+pattern:[[15115004]], support:2
+pattern:[[14072005]], support:2
+pattern:[[14080019]], support:2
+pattern:[[14130060]], support:2
+pattern:[[21200008]], support:2
+pattern:[[14835022]], support:2
+pattern:[[10300037]], support:2
+pattern:[[14636005]], support:2
+pattern:[[14232009]], support:2
+pattern:[[14232009], [14241008]], support:2
+pattern:[[14241008]], support:2
+pattern:[[24101076]], support:2
+pattern:[[14594004]], support:2
+pattern:[[24403022]], support:2
+pattern:[[10109009]], support:2
+pattern:[[10002005]], support:2
+pattern:[[14722047]], support:2
+pattern:[[14580010]], support:2
+pattern:[[14132107]], support:2
+pattern:[[14132107], [14203024]], support:2
+pattern:[[14132107], [14203024], [14076030]], support:2
+pattern:[[14132107], [14076030]], support:2
+pattern:[[14043012]], support:2
+pattern:[[10119086]], support:2
+pattern:[[10300021]], support:2
+pattern:[[14091047]], support:2
+pattern:[[14052002]], support:2
+pattern:[[15104026]], support:2
+pattern:[[14052005]], support:2
+pattern:[[15139018]], support:2
+pattern:[[14050013]], support:2
+pattern:[[11110121]], support:2
+pattern:[[14121010]], support:2
+pattern:[[14050022]], support:2
+pattern:[[15019026]], support:2
+pattern:[[15149006]], support:2
+pattern:[[15202078]], support:2
+pattern:[[14107003]], support:2
+pattern:[[14091032]], support:2
+pattern:[[10116015]], support:2
+pattern:[[11532036]], support:2
+pattern:[[14130030]], support:2
+pattern:[[22901000]], support:2
+pattern:[[14092059]], support:2
+pattern:[[11533057]], support:2
+pattern:[[11533057], [30380003]], support:2
+pattern:[[14814026]], support:2
+pattern:[[14814026], [15231005]], support:2
+pattern:[[24220021]], support:2
+pattern:[[14833011]], support:2
+pattern:[[34121002]], support:2
+pattern:[[27400052]], support:2
+pattern:[[11502022]], support:2
+pattern:[[15605059]], support:2
+pattern:[[23110185]], support:2
+pattern:[[14594013]], support:2
+pattern:[[15110012]], support:2
+pattern:[[27200170]], support:2
+pattern:[[11303101]], support:2
+pattern:[[30231003]], support:2
+pattern:[[22171002]], support:2
+pattern:[[10002020]], support:2
+pattern:[[14530014]], support:2
+pattern:[[23110124]], support:2
+pattern:[[14021014]], support:2
+pattern:[[10300019]], support:2
+pattern:[[11056012]], support:2
+pattern:[[15000051]], support:2
+pattern:[[22020010]], support:2
+pattern:[[15115009]], support:2
+pattern:[[10008012]], support:2
+pattern:[[14131005]], support:2
+pattern:[[14209020]], support:2
+pattern:[[11022065]], support:2
+pattern:[[11500091]], support:2
+pattern:[[10441016]], support:2
+pattern:[[14142007]], support:2
+pattern:[[14142007], [30380002]], support:2
+pattern:[[14050034]], support:2
+pattern:[[22500001]], support:2
+pattern:[[14844027]], support:2
+pattern:[[10150038]], support:2
+pattern:[[11303134]], support:2
+pattern:[[15110083]], support:2
+pattern:[[10008003]], support:2
+pattern:[[15111012]], support:2
+pattern:[[10119051]], support:2
+pattern:[[22821000]], support:2
+pattern:[[14077001]], support:2
+pattern:[[34220017]], support:2
+pattern:[[14560001]], support:2
+pattern:[[30510012]], support:2
+pattern:[[10152012]], support:2
+pattern:[[14275019]], support:2
+pattern:[[14802009]], support:2
+pattern:[[14000009]], support:2
+pattern:[[14041002]], support:2
+pattern:[[14041002], [14203024]], support:2
+pattern:[[14826019]], support:2
+pattern:[[15503029]], support:2
+pattern:[[24011146]], support:2
+pattern:[[30820030]], support:2
+pattern:[[10132000]], support:2
+pattern:[[15433002]], support:2
+pattern:[[15433002], [15004012]], support:2
+pattern:[[14252013]], support:2
+pattern:[[14754005]], support:2
+pattern:[[30448017]], support:2
+pattern:[[14202011]], support:2
+pattern:[[14521027]], support:2
+pattern:[[14130013]], support:2
+pattern:[[15139025]], support:2
+pattern:[[14091031]], support:2
+pattern:[[14521025]], support:2
+pattern:[[11044009]], support:2
+pattern:[[27002590]], support:2
+pattern:[[34101152]], support:2
+pattern:[[14000010]], support:2
+pattern:[[15140018]], support:2
+pattern:[[15123000]], support:2
+pattern:[[11522023]], support:2
+pattern:[[27002436]], support:2
+pattern:[[15105001]], support:2
+pattern:[[14083000]], support:2
+pattern:[[10132003]], support:2
+pattern:[[30332007]], support:2
+pattern:[[14404002]], support:2
+pattern:[[10141069]], support:2
+pattern:[[15240001]], support:2
+pattern:[[14407018]], support:2
+pattern:[[11022054]], support:2
+pattern:[[14092061]], support:2
+pattern:[[15112000]], support:2
+pattern:[[15503040]], support:2
+pattern:[[14409000]], support:2
+pattern:[[34363011]], support:2
+pattern:[[22100002]], support:2
+pattern:[[14844010]], support:2
+pattern:[[15250004]], support:2
+pattern:[[14722073]], support:2
+pattern:[[11533034]], support:2
+pattern:[[15202041]], support:2
+pattern:[[10150013]], support:2
+pattern:[[30335006]], support:2
+pattern:[[11500095]], support:2
+pattern:[[15110003]], support:2
+pattern:[[27400119]], support:2
+pattern:[[14903003]], support:2
+pattern:[[14813001]], support:2
+pattern:[[22671056]], support:2
+pattern:[[24012008]], support:2
+pattern:[[34225051]], support:2
+pattern:[[14243001]], support:2
+pattern:[[10135011]], support:2
+pattern:[[15004064]], support:2
+pattern:[[15004064], [15004066]], support:2
+pattern:[[14520008]], support:2
+pattern:[[27300275]], support:2
+pattern:[[15110032]], support:2
+pattern:[[22008009]], support:2
+pattern:[[15004017]], support:2
+pattern:[[15004017], [15004058]], support:2
+pattern:[[15004017], [15004058], [15502043]], support:2
+pattern:[[15004017], [15502043]], support:2
+pattern:[[14092026]], support:2
+pattern:[[25111045]], support:2
+pattern:[[14101009]], support:2
+pattern:[[14092021]], support:2
+pattern:[[22860001]], support:2
+pattern:[[11531053]], support:2
+pattern:[[14281000]], support:2
+pattern:[[11233038]], support:2
+pattern:[[10150048]], support:2
+pattern:[[10132002]], support:2
+pattern:[[15262002]], support:2
+pattern:[[14241001]], support:2
+pattern:[[14010008]], support:2
+pattern:[[11500065]], support:2
+pattern:[[10401049]], support:2
+pattern:[[14090018]], support:2
+pattern:[[14081006]], support:2
+pattern:[[11221037]], support:2
+pattern:[[10000025]], support:2
+pattern:[[20014001]], support:2
+pattern:[[14222013]], support:2
+pattern:[[10310051]], support:2
+pattern:[[22032012]], support:2
+pattern:[[15140008]], support:2
+pattern:[[14900007]], support:2
+pattern:[[10141028]], support:2
+pattern:[[22030005]], support:2
+pattern:[[14770018]], support:3
+pattern:[[14932002]], support:3
+pattern:[[14091023]], support:3
+pattern:[[10102002]], support:3
+pattern:[[15113001]], support:3
+pattern:[[14811002]], support:3
+pattern:[[15104020]], support:3
+pattern:[[24000137]], support:3
+pattern:[[15401007]], support:3
+pattern:[[10401051]], support:3
+pattern:[[14710026]], support:3
+pattern:[[10201007]], support:3
+pattern:[[14073020]], support:3
+pattern:[[24030062]], support:3
+pattern:[[14200040]], support:3
+pattern:[[22713004]], support:3
+pattern:[[14121013]], support:3
+pattern:[[14200032]], support:3
+pattern:[[14200032], [30380002]], support:2
+pattern:[[14091043]], support:3
+pattern:[[15402007]], support:3
+pattern:[[14130050]], support:3
+pattern:[[27002165]], support:3
+pattern:[[11540000]], support:3
+pattern:[[11540000], [30380002]], support:2
+pattern:[[11220041]], support:3
+pattern:[[11531011]], support:3
+pattern:[[22630049]], support:3
+pattern:[[14900022]], support:3
+pattern:[[11500137]], support:3
+pattern:[[14092013]], support:3
+pattern:[[14092016]], support:3
+pattern:[[11112019]], support:3
+pattern:[[15605016]], support:3
+pattern:[[25150001]], support:3
+pattern:[[14034017]], support:3
+pattern:[[14034017], [30380002]], support:2
+pattern:[[21200006]], support:3
+pattern:[[21200006], [22190000]], support:2
+pattern:[[10113007]], support:3
+pattern:[[11532008]], support:3
+pattern:[[15004066]], support:3
+pattern:[[14093001]], support:3
+pattern:[[14830013]], support:3
+pattern:[[22020001]], support:3
+pattern:[[24101005]], support:3
+pattern:[[14401013]], support:3
+pattern:[[27002163]], support:3
+pattern:[[27002163], [22102014]], support:2
+pattern:[[27200941]], support:3
+pattern:[[27000037]], support:3
+pattern:[[27000037], [27410000]], support:2
+pattern:[[22701008]], support:3
+pattern:[[24012009]], support:3
+pattern:[[10109004]], support:3
+pattern:[[27200940]], support:3
+pattern:[[14000001]], support:3
+pattern:[[22503000]], support:3
+pattern:[[22610002]], support:3
+pattern:[[15200010]], support:3
+pattern:[[14710024]], support:3
+pattern:[[14721070]], support:3
+pattern:[[14120007]], support:3
+pattern:[[24100000]], support:3
+pattern:[[24010016]], support:3
+pattern:[[14801002]], support:3
+pattern:[[22010032]], support:3
+pattern:[[14131017]], support:3
+pattern:[[15202012]], support:3
+pattern:[[27000012]], support:3
+pattern:[[15115024]], support:3
+pattern:[[14831014]], support:3
+pattern:[[27002042]], support:3
+pattern:[[14100120]], support:3
+pattern:[[10141080]], support:3
+pattern:[[30356005]], support:3
+pattern:[[21011008]], support:3
+pattern:[[14802057]], support:3
+pattern:[[14092074]], support:3
+pattern:[[15019015]], support:3
+pattern:[[32416010]], support:3
+pattern:[[15149011]], support:3
+pattern:[[14834007]], support:3
+pattern:[[15110008]], support:3
+pattern:[[11301089]], support:3
+pattern:[[22020005]], support:3
+pattern:[[14013024]], support:3
+pattern:[[10111000]], support:3
+pattern:[[10112003]], support:3
+pattern:[[14090005]], support:3
+pattern:[[14090006]], support:3
+pattern:[[14080022]], support:3
+pattern:[[14080022], [30380002]], support:2
+pattern:[[14092056]], support:3
+pattern:[[14060006]], support:3
+pattern:[[14661002]], support:3
+pattern:[[15149005]], support:3
+pattern:[[14750040]], support:3
+pattern:[[22701020]], support:3
+pattern:[[11022030]], support:3
+pattern:[[23120059]], support:3
+pattern:[[14836012]], support:3
+pattern:[[14111002]], support:3
+pattern:[[14834010]], support:3
+pattern:[[14091005]], support:3
+pattern:[[15415020]], support:3
+pattern:[[14750062]], support:3
+pattern:[[24000334]], support:3
+pattern:[[22111028]], support:3
+pattern:[[27401709]], support:3
+pattern:[[27401709], [23110009]], support:2
+pattern:[[30514028]], support:3
+pattern:[[20012188]], support:3
+pattern:[[15343006]], support:3
+pattern:[[10136001]], support:3
+pattern:[[14200022]], support:3
+pattern:[[14823000]], support:3
+pattern:[[14846026]], support:3
+pattern:[[15410015]], support:3
+pattern:[[14093002]], support:3
+pattern:[[15432003]], support:3
+pattern:[[10119081]], support:3
+pattern:[[14121043]], support:3
+pattern:[[14861003]], support:3
+pattern:[[14275023]], support:3
+pattern:[[14275023], [14250015]], support:2
+pattern:[[14250015]], support:3
+pattern:[[10119012]], support:3
+pattern:[[30304027]], support:3
+pattern:[[15242033]], support:3
+pattern:[[10008001]], support:3
+pattern:[[14101026]], support:3
+pattern:[[14060008]], support:3
+pattern:[[22101005]], support:3
+pattern:[[22101005], [22102013]], support:2
+pattern:[[11511051]], support:3
+pattern:[[14284001]], support:3
+pattern:[[14284001], [30380002]], support:2
+pattern:[[14010015]], support:3
+pattern:[[14812005]], support:3
+pattern:[[22714001]], support:3
+pattern:[[22714001], [22714002]], support:2
+pattern:[[15410016]], support:3
+pattern:[[14900013]], support:3
+pattern:[[14900013], [15503022]], support:2
+pattern:[[15503022]], support:3
+pattern:[[15503022], [27300274]], support:2
+pattern:[[15502036]], support:3
+pattern:[[27400061]], support:3
+pattern:[[33060007]], support:3
+pattern:[[10000004]], support:3
+pattern:[[10119013]], support:3
+pattern:[[15405002]], support:3
+pattern:[[15405002], [15231005]], support:2
+pattern:[[20103016]], support:3
+pattern:[[20103016], [25120016]], support:2
+pattern:[[10300030]], support:3
+pattern:[[14845010]], support:3
+pattern:[[14845010], [23110009]], support:2
+pattern:[[14845010], [14750012]], support:2
+pattern:[[14750012]], support:3
+pattern:[[15219005]], support:3
+pattern:[[15410033]], support:3
+pattern:[[14723011]], support:3
+pattern:[[14723011], [23110009]], support:2
+pattern:[[23121051]], support:3
+pattern:[[14261017]], support:3
+pattern:[[15110063]], support:3
+pattern:[[22101008]], support:3
+pattern:[[14722074]], support:3
+pattern:[[14810001]], support:3
+pattern:[[22715007]], support:3
+pattern:[[14513031]], support:3
+pattern:[[14513031], [14513007]], support:2
+pattern:[[15242028]], support:3
+pattern:[[14513007]], support:3
+pattern:[[14092078]], support:3
+pattern:[[27401758]], support:3
+pattern:[[15201005]], support:3
+pattern:[[15211000]], support:3
+pattern:[[30500027]], support:3
+pattern:[[22716005]], support:3
+pattern:[[40000667]], support:3
+pattern:[[23142012]], support:3
+pattern:[[22110004]], support:3
+pattern:[[14831001]], support:3
+pattern:[[15110010]], support:3
+pattern:[[14800003]], support:3
+pattern:[[14064003]], support:3
+pattern:[[11502035]], support:3
+pattern:[[14275018]], support:3
+pattern:[[14275018], [15131001]], support:2
+pattern:[[15131001]], support:3
+pattern:[[15131001], [14010011]], support:2
+pattern:[[15202074]], support:3
+pattern:[[32316009]], support:3
+pattern:[[15004032]], support:3
+pattern:[[14020003]], support:3
+pattern:[[21400001]], support:3
+pattern:[[15114001]], support:3
+pattern:[[15004051]], support:3
+pattern:[[15004051], [15004058]], support:2
+pattern:[[11501048]], support:3
+pattern:[[10000000]], support:3
+pattern:[[10141005]], support:3
+pattern:[[10141005], [10131007]], support:2
+pattern:[[10141005], [27000574]], support:2
+pattern:[[10141005], [15110079]], support:2
+pattern:[[10135002]], support:3
+pattern:[[15130016]], support:3
+pattern:[[14721071]], support:3
+pattern:[[14721078]], support:3
+pattern:[[15115013]], support:3
+pattern:[[15115013], [14112011]], support:2
+pattern:[[11533016]], support:3
+pattern:[[14033055]], support:3
+pattern:[[14090033]], support:3
+pattern:[[15114006]], support:3
+pattern:[[11531047]], support:3
+pattern:[[15130006]], support:3
+pattern:[[14720004]], support:3
+pattern:[[14260016]], support:3
+pattern:[[14300085]], support:3
+pattern:[[23121053]], support:3
+pattern:[[24011018]], support:3
+pattern:[[27002182]], support:3
+pattern:[[27002561]], support:3
+pattern:[[27000020]], support:3
+pattern:[[15120006]], support:3
+pattern:[[10113011]], support:3
+pattern:[[11500094]], support:3
+pattern:[[23113003]], support:3
+pattern:[[23113003], [23110009]], support:2
+pattern:[[24012114]], support:3
+pattern:[[14900016]], support:3
+pattern:[[11504011]], support:3
+pattern:[[11504011], [15130027]], support:2
+pattern:[[30321007]], support:3
+pattern:[[11500027]], support:3
+pattern:[[15110022]], support:3
+pattern:[[15110022], [15115031]], support:2
+pattern:[[15110022], [15115031], [15131001]], support:2
+pattern:[[15110022], [15130026]], support:2
+pattern:[[15110022], [15130026], [23110009]], support:2
+pattern:[[15110022], [15130026], [23110009], [15131001]], support:2
+pattern:[[15110022], [15130026], [15131001]], support:2
+pattern:[[15110022], [15131001]], support:2
+pattern:[[15110022], [23110009]], support:3
+pattern:[[15110022], [23110009], [15131001]], support:2
+pattern:[[14861007]], support:3
+pattern:[[10116032]], support:3
+pattern:[[14112008]], support:3
+pattern:[[14010021]], support:3
+pattern:[[14846013]], support:3
+pattern:[[14091008]], support:3
+pattern:[[22172004]], support:3
+pattern:[[14072002]], support:3
+pattern:[[11501020]], support:3
+pattern:[[14900006]], support:3
+pattern:[[14900006], [14900008]], support:2
+pattern:[[15502063]], support:3
+pattern:[[15139013]], support:3
+pattern:[[15139013], [15130027]], support:2
+pattern:[[27300279]], support:3
+pattern:[[24100023]], support:3
+pattern:[[14200020]], support:3
+pattern:[[14750011]], support:3
+pattern:[[15202003]], support:3
+pattern:[[24010812]], support:3
+pattern:[[14750041]], support:3
+pattern:[[14120013]], support:3
+pattern:[[25100113]], support:3
+pattern:[[25100113], [22102014]], support:2
+pattern:[[30444029]], support:3
+pattern:[[14132105]], support:3
+pattern:[[14132105], [10201016]], support:2
+pattern:[[14132105], [10201016], [23110009]], support:2
+pattern:[[14132105], [23110009]], support:2
+pattern:[[11533012]], support:3
+pattern:[[11300119]], support:3
+pattern:[[33060009]], support:3
+pattern:[[14090007]], support:3
+pattern:[[15232002]], support:3
+pattern:[[15232002], [20110019]], support:2
+pattern:[[15232002], [20110019], [27200924]], support:2
+pattern:[[15232002], [27200924]], support:2
+pattern:[[14872001]], support:3
+pattern:[[10137012]], support:3
+pattern:[[10137012], [23110009]], support:2
+pattern:[[14052003]], support:3
+pattern:[[15605051]], support:3
+pattern:[[15201002]], support:3
+pattern:[[30634014]], support:3
+pattern:[[10002004]], support:3
+pattern:[[10002004], [23110009]], support:2
+pattern:[[15202077]], support:3
+pattern:[[15202077], [27000574]], support:2
+pattern:[[11300180]], support:3
+pattern:[[30334046]], support:3
+pattern:[[22603000]], support:3
+pattern:[[15242044]], support:3
+pattern:[[14092023]], support:3
+pattern:[[15339001]], support:3
+pattern:[[10200004]], support:3
+pattern:[[11300157]], support:3
+pattern:[[14243002]], support:3
+pattern:[[15115027]], support:3
+pattern:[[22131004]], support:3
+pattern:[[11303098]], support:3
+pattern:[[10141071]], support:3
+pattern:[[10141072]], support:3
+pattern:[[15004053]], support:3
+pattern:[[15263006]], support:3
+pattern:[[14091069]], support:3
+pattern:[[10119033]], support:3
+pattern:[[15202020]], support:3
+pattern:[[14090012]], support:3
+pattern:[[14090008]], support:3
+pattern:[[15502062]], support:3
+pattern:[[15004048]], support:3
+pattern:[[11300060]], support:3
+pattern:[[10002015]], support:3
+pattern:[[23113005]], support:3
+pattern:[[22130003]], support:3
+pattern:[[31004003]], support:3
+pattern:[[14402009]], support:3
+pattern:[[22801000]], support:3
+pattern:[[15110005]], support:3
+pattern:[[14831007]], support:3
+pattern:[[14075022]], support:3
+pattern:[[14596015]], support:3
+pattern:[[15115044]], support:3
+pattern:[[14300010]], support:3
+pattern:[[14203024]], support:3
+pattern:[[14203024], [14076030]], support:2
+pattern:[[14076030]], support:3
+pattern:[[14092010]], support:3
+pattern:[[14831008]], support:3
+pattern:[[10150003]], support:3
+pattern:[[15004062]], support:3
+pattern:[[15004062], [14091007]], support:2
+pattern:[[15110073]], support:3
+pattern:[[15131002]], support:3
+pattern:[[24010829]], support:3
+pattern:[[24010829], [22130003]], support:2
+pattern:[[27002594]], support:3
+pattern:[[27002594], [27400708]], support:2
+pattern:[[27002594], [27400708], [27400126]], support:2
+pattern:[[27002594], [27400708], [27400118]], support:2
+pattern:[[27002594], [27002595]], support:2
+pattern:[[27002594], [27002595], [27400126]], support:2
+pattern:[[27002594], [27002595], [27400118]], support:2
+pattern:[[27002594], [27400126]], support:2
+pattern:[[27002594], [27400118]], support:2
+pattern:[[27002594], [27400052]], support:2
+pattern:[[14092064]], support:3
+pattern:[[10140006]], support:3
+pattern:[[11533028]], support:3
+pattern:[[15110041]], support:3
+pattern:[[14121011]], support:3
+pattern:[[10501054]], support:3
+pattern:[[15114012]], support:3
+pattern:[[27000556]], support:3
+pattern:[[22021008]], support:3
+pattern:[[22021008], [23110009]], support:2
+pattern:[[14750064]], support:3
+pattern:[[14750064], [27002194]], support:2
+pattern:[[10002000]], support:3
+pattern:[[22021002]], support:3
+pattern:[[21120007]], support:3
+pattern:[[22850004]], support:3
+pattern:[[14091021]], support:3
+pattern:[[14837005]], support:3
+pattern:[[14833009]], support:3
+pattern:[[22501003]], support:3
+pattern:[[15000008]], support:3
+pattern:[[15000008], [15115003]], support:2
+pattern:[[15263001]], support:3
+pattern:[[15419001]], support:3
+pattern:[[34220016]], support:3
+pattern:[[22630010]], support:3
+pattern:[[21021045]], support:3
+pattern:[[10141063]], support:3
+pattern:[[14585005]], support:3
+pattern:[[20130039]], support:3
+pattern:[[14091073]], support:3
+pattern:[[15004079]], support:3
+pattern:[[10300018]], support:3
+pattern:[[14275013]], support:3
+pattern:[[10100003]], support:3
+pattern:[[10002022]], support:3
+pattern:[[22002239]], support:3
+pattern:[[27002558]], support:3
+pattern:[[15262000]], support:3
+pattern:[[15262000], [15262002]], support:2
+pattern:[[24010816]], support:4
+pattern:[[24010816], [22120039]], support:2
+pattern:[[24010816], [24000333]], support:2
+pattern:[[22120015]], support:4
+pattern:[[20202009]], support:4
+pattern:[[32143000]], support:4
+pattern:[[32143000], [10150004]], support:2
+pattern:[[14073007]], support:4
+pattern:[[22710003]], support:4
+pattern:[[14846016]], support:4
+pattern:[[14846016], [30380003]], support:2
+pattern:[[22830003]], support:4
+pattern:[[14871000]], support:4
+pattern:[[14082022]], support:4
+pattern:[[14860014]], support:4
+pattern:[[14593013]], support:4
+pattern:[[31425087]], support:4
+pattern:[[14721026]], support:4
+pattern:[[14900010]], support:4
+pattern:[[14900010], [22830002]], support:2
+pattern:[[22604000]], support:4
+pattern:[[22604000], [30380002]], support:2
+pattern:[[15200001]], support:4
+pattern:[[14082023]], support:4
+pattern:[[10119101]], support:4
+pattern:[[15111000]], support:4
+pattern:[[27002167]], support:4
+pattern:[[27002177]], support:4
+pattern:[[27002177], [22190000]], support:2
+pattern:[[27002177], [22190000], [22190002]], support:2
+pattern:[[27002177], [22190002]], support:2
+pattern:[[27002177], [25101011]], support:2
+pattern:[[27002177], [25101011], [27002169]], support:2
+pattern:[[27002177], [25101011], [27002169], [22102014]], support:2
+pattern:[[27002177], [25101011], [22102014]], support:2
+pattern:[[27002177], [27002169]], support:2
+pattern:[[27002177], [27002169], [22102014]], support:2
+pattern:[[27002177], [22102014]], support:2
+pattern:[[27002177], [27410000]], support:2
+pattern:[[22160001]], support:4
+pattern:[[22160001], [14900011]], support:2
+pattern:[[11531038]], support:4
+pattern:[[25121013]], support:4
+pattern:[[25121013], [23110009]], support:2
+pattern:[[15113002]], support:4
+pattern:[[14837003]], support:4
+pattern:[[15130002]], support:4
+pattern:[[15119009]], support:4
+pattern:[[15119009], [30380002]], support:2
+pattern:[[15502039]], support:4
+pattern:[[14142039]], support:4
+pattern:[[25110012]], support:4
+pattern:[[15410036]], support:4
+pattern:[[10119020]], support:4
+pattern:[[10119020], [22102005]], support:2
+pattern:[[32416009]], support:4
+pattern:[[10141040]], support:4
+pattern:[[14723019]], support:4
+pattern:[[23135028]], support:4
+pattern:[[23135028], [23110009]], support:2
+pattern:[[10114000]], support:4
+pattern:[[10114000], [27000574]], support:2
+pattern:[[11532019]], support:4
+pattern:[[14054013]], support:4
+pattern:[[10201030]], support:4
+pattern:[[27002186]], support:4
+pattern:[[27002186], [27002169]], support:2
+pattern:[[15101003]], support:4
+pattern:[[15605055]], support:4
+pattern:[[24000370]], support:4
+pattern:[[24000370], [22102014]], support:2
+pattern:[[15110002]], support:4
+pattern:[[14900009]], support:4
+pattern:[[14900009], [24000333]], support:2
+pattern:[[14900009], [24000333], [27300274]], support:2
+pattern:[[14900009], [27300274]], support:2
+pattern:[[14900009], [14900013]], support:2
+pattern:[[14900009], [14900013], [15503022]], support:2
+pattern:[[14900009], [15503022]], support:2
+pattern:[[14722066]], support:4
+pattern:[[14200037]], support:4
+pattern:[[14200037], [14200022]], support:2
+pattern:[[10141025]], support:4
+pattern:[[15200000]], support:4
+pattern:[[15200000], [30380003]], support:3
+pattern:[[15104012]], support:4
+pattern:[[22800000]], support:4
+pattern:[[10000010]], support:4
+pattern:[[14250016]], support:4
+pattern:[[14250016], [30380003]], support:2
+pattern:[[14082008]], support:4
+pattern:[[14082008], [14082009]], support:2
+pattern:[[22702006]], support:4
+pattern:[[10008011]], support:4
+pattern:[[14080020]], support:4
+pattern:[[15111005]], support:4
+pattern:[[14082009]], support:4
+pattern:[[14900014]], support:4
+pattern:[[14032018]], support:4
+pattern:[[22111006]], support:4
+pattern:[[24401009]], support:4
+pattern:[[14020011]], support:4
+pattern:[[10309001]], support:4
+pattern:[[14932016]], support:4
+pattern:[[22830005]], support:4
+pattern:[[14091012]], support:4
+pattern:[[14091012], [14091028]], support:2
+pattern:[[14861002]], support:4
+pattern:[[15110042]], support:4
+pattern:[[15114005]], support:4
+pattern:[[14839012]], support:4
+pattern:[[14750042]], support:4
+pattern:[[14830014]], support:4
+pattern:[[22020008]], support:4
+pattern:[[22020008], [27410000]], support:2
+pattern:[[24011108]], support:4
+pattern:[[24011108], [15110031]], support:2
+pattern:[[21011027]], support:4
+pattern:[[21011027], [22102005]], support:2
+pattern:[[15402032]], support:4
+pattern:[[14107009]], support:4
+pattern:[[14107009], [27002595]], support:2
+pattern:[[14107009], [27002595], [27400118]], support:2
+pattern:[[14107009], [27002595], [27400118], [15130013]], support:2
+pattern:[[14107009], [27002595], [15130013]], support:2
+pattern:[[14107009], [27002595], [27400126]], support:2
+pattern:[[14107009], [30380003]], support:2
+pattern:[[14107009], [30380003], [27400118]], support:2
+pattern:[[14107009], [30380003], [27400118], [15130013]], support:2
+pattern:[[14107009], [30380003], [15130013]], support:2
+pattern:[[14107009], [30380003], [27400126]], support:2
+pattern:[[14107009], [27400118]], support:2
+pattern:[[14107009], [27400118], [15130013]], support:2
+pattern:[[14107009], [15130013]], support:2
+pattern:[[14107009], [27400126]], support:2
+pattern:[[10141012]], support:4
+pattern:[[10141012], [14630006]], support:2
+pattern:[[15114032]], support:4
+pattern:[[15115030]], support:4
+pattern:[[15115030], [14271000]], support:2
+pattern:[[15115030], [14271000], [15131001]], support:2
+pattern:[[15115030], [15131001]], support:2
+pattern:[[15115030], [15231007]], support:2
+pattern:[[15115030], [15115031]], support:4
+pattern:[[15115030], [15115031], [14271000]], support:2
+pattern:[[15115030], [15115031], [14271000], [15131001]], support:2
+pattern:[[15115030], [15115031], [15131001]], support:2
+pattern:[[15115030], [15115031], [15231007]], support:2
+pattern:[[14083002]], support:4
+pattern:[[15004058]], support:4
+pattern:[[15004058], [15502043]], support:2
+pattern:[[10131007]], support:4
+pattern:[[15110079]], support:4
+pattern:[[22671055]], support:4
+pattern:[[25121022]], support:4
+pattern:[[15209009]], support:4
+pattern:[[22111034]], support:4
+pattern:[[14010020]], support:4
+pattern:[[24012002]], support:4
+pattern:[[10116039]], support:4
+pattern:[[14721080]], support:4
+pattern:[[20012187]], support:4
+pattern:[[27000583]], support:4
+pattern:[[27000583], [27000573]], support:2
+pattern:[[27000583], [27200938]], support:2
+pattern:[[14142041]], support:4
+pattern:[[27300278]], support:4
+pattern:[[27300278], [27300284]], support:2
+pattern:[[22007031]], support:4
+pattern:[[30365021]], support:4
+pattern:[[14863003]], support:4
+pattern:[[22111025]], support:4
+pattern:[[22111025], [22102014]], support:2
+pattern:[[14076017]], support:4
+pattern:[[14802006]], support:4
+pattern:[[14722072]], support:4
+pattern:[[14722072], [14722074]], support:2
+pattern:[[14813003]], support:4
+pattern:[[14513017]], support:4
+pattern:[[14076019]], support:4
+pattern:[[11057049]], support:4
+pattern:[[14833003]], support:4
+pattern:[[22021009]], support:4
+pattern:[[14092014]], support:4
+pattern:[[15110027]], support:4
+pattern:[[22701021]], support:4
+pattern:[[27000007]], support:4
+pattern:[[27000007], [27410000]], support:2
+pattern:[[21012004]], support:4
+pattern:[[14956002]], support:4
+pattern:[[14956002], [23131002]], support:2
+pattern:[[11303097]], support:4
+pattern:[[10116022]], support:4
+pattern:[[22671079]], support:4
+pattern:[[11532011]], support:4
+pattern:[[27201062]], support:4
+pattern:[[11533021]], support:4
+pattern:[[15004045]], support:4
+pattern:[[15120015]], support:4
+pattern:[[14721020]], support:4
+pattern:[[10200006]], support:4
+pattern:[[10200006], [22034000]], support:2
+pattern:[[15242005]], support:4
+pattern:[[14091000]], support:4
+pattern:[[27400047]], support:4
+pattern:[[27400047], [27400118]], support:2
+pattern:[[27400047], [27400118], [27400126]], support:2
+pattern:[[27400047], [27400126]], support:2
+pattern:[[22671058]], support:4
+pattern:[[22630009]], support:4
+pattern:[[14091022]], support:4
+pattern:[[14091022], [30380002]], support:2
+pattern:[[10141006]], support:4
+pattern:[[15502043]], support:4
+pattern:[[14633003]], support:4
+pattern:[[14633003], [23110001]], support:2
+pattern:[[10130009]], support:4
+pattern:[[15202017]], support:4
+pattern:[[15202017], [15000007]], support:2
+pattern:[[22004008]], support:4
+pattern:[[22004008], [22100010]], support:2
+pattern:[[15200012]], support:4
+pattern:[[10117000]], support:4
+pattern:[[14111004]], support:4
+pattern:[[22800001]], support:4
+pattern:[[11056017]], support:4
+pattern:[[30701033]], support:4
+pattern:[[15202080]], support:4
+pattern:[[15202080], [24401008]], support:2
+pattern:[[15202080], [24401008], [27002173]], support:2
+pattern:[[15202080], [27002173]], support:3
+pattern:[[15202080], [23110009]], support:4
+pattern:[[15202080], [23110009], [27002173]], support:3
+pattern:[[10133001]], support:4
+pattern:[[10201020]], support:4
+pattern:[[34225082]], support:4
+pattern:[[34225082], [34225051]], support:2
+pattern:[[15440002]], support:4
+pattern:[[15440002], [30380003]], support:2
+pattern:[[22671073]], support:4
+pattern:[[22021276]], support:4
+pattern:[[22005000]], support:4
+pattern:[[22005000], [22102014]], support:2
+pattern:[[22702003]], support:4
+pattern:[[10310042]], support:4
+pattern:[[22511000]], support:5
+pattern:[[14834016]], support:5
+pattern:[[14834016], [30380002]], support:2
+pattern:[[14834016], [30380002], [24000333]], support:2
+pattern:[[14834016], [22120039]], support:2
+pattern:[[14834016], [22120039], [22120015]], support:2
+pattern:[[14834016], [24000333]], support:2
+pattern:[[14834016], [22120015]], support:2
+pattern:[[14834016], [24000334]], support:2
+pattern:[[14722022]], support:5
+pattern:[[14722022], [14722030]], support:2
+pattern:[[10001003]], support:5
+pattern:[[24102002]], support:5
+pattern:[[11054033]], support:5
+pattern:[[11054033], [14013011]], support:2
+pattern:[[10136008]], support:5
+pattern:[[27002560]], support:5
+pattern:[[27002560], [23110009]], support:2
+pattern:[[14083003]], support:5
+pattern:[[14112009]], support:5
+pattern:[[15115014]], support:5
+pattern:[[10110016]], support:5
+pattern:[[15411000]], support:5
+pattern:[[22702005]], support:5
+pattern:[[14092067]], support:5
+pattern:[[14092067], [10137009]], support:2
+pattern:[[10137009]], support:5
+pattern:[[22713002]], support:5
+pattern:[[14837006]], support:5
+pattern:[[22180003]], support:5
+pattern:[[22180003], [22190000]], support:2
+pattern:[[20121061]], support:5
+pattern:[[15119007]], support:5
+pattern:[[14917010]], support:5
+pattern:[[14836013]], support:5
+pattern:[[14916005]], support:5
+pattern:[[14802055]], support:5
+pattern:[[24012001]], support:5
+pattern:[[24012001], [24012009]], support:2
+pattern:[[24012001], [30380003]], support:3
+pattern:[[22172013]], support:5
+pattern:[[22172013], [22130000]], support:2
+pattern:[[22172013], [22130000], [22130007]], support:2
+pattern:[[22172013], [22130007]], support:2
+pattern:[[27400158]], support:5
+pattern:[[40000675]], support:5
+pattern:[[27300280]], support:5
+pattern:[[27300280], [23110009]], support:4
+pattern:[[14845008]], support:5
+pattern:[[14845008], [15231004]], support:2
+pattern:[[14845008], [23110009]], support:2
+pattern:[[14050015]], support:5
+pattern:[[14900011]], support:5
+pattern:[[14900011], [14900014]], support:2
+pattern:[[14860021]], support:5
+pattern:[[14091007]], support:5
+pattern:[[14841008]], support:5
+pattern:[[10116025]], support:5
+pattern:[[11110052]], support:5
+pattern:[[15502031]], support:5
+pattern:[[15115026]], support:5
+pattern:[[15115026], [27200924]], support:2
+pattern:[[10001006]], support:5
+pattern:[[10001006], [27000573]], support:2
+pattern:[[24010380]], support:5
+pattern:[[24010380], [22102005]], support:2
+pattern:[[14052029]], support:5
+pattern:[[14750029]], support:5
+pattern:[[25005060]], support:5
+pattern:[[25005060], [23110009]], support:2
+pattern:[[10141041]], support:5
+pattern:[[15130015]], support:5
+pattern:[[23113023]], support:5
+pattern:[[14812007]], support:5
+pattern:[[15115007]], support:5
+pattern:[[27002173]], support:5
+pattern:[[14010012]], support:5
+pattern:[[22716004]], support:5
+pattern:[[15410002]], support:5
+pattern:[[22631005]], support:5
+pattern:[[22716000]], support:5
+pattern:[[27300284]], support:5
+pattern:[[14901002]], support:5
+pattern:[[14901002], [14900016]], support:2
+pattern:[[24011017]], support:5
+pattern:[[24011017], [30380003]], support:2
+pattern:[[24011017], [15235001]], support:2
+pattern:[[23112029]], support:5
+pattern:[[27400048]], support:5
+pattern:[[15004012]], support:5
+pattern:[[15004012], [15231007]], support:2
+pattern:[[15121001]], support:5
+pattern:[[14802054]], support:5
+pattern:[[15110018]], support:5
+pattern:[[14720001]], support:5
+pattern:[[22701009]], support:5
+pattern:[[22701009], [22701014]], support:3
+pattern:[[15209023]], support:5
+pattern:[[15200002]], support:5
+pattern:[[15200002], [30380003]], support:4
+pattern:[[10150019]], support:5
+pattern:[[20110019]], support:5
+pattern:[[20110019], [27200924]], support:3
+pattern:[[15120003]], support:5
+pattern:[[14403013]], support:5
+pattern:[[14403013], [14409000]], support:2
+pattern:[[15231006]], support:5
+pattern:[[15116002]], support:5
+pattern:[[15116002], [23110009]], support:2
+pattern:[[22180002]], support:5
+pattern:[[15130010]], support:5
+pattern:[[14900015]], support:5
+pattern:[[15110038]], support:5
+pattern:[[22000029]], support:5
+pattern:[[23110187]], support:5
+pattern:[[23110187], [15110069]], support:2
+pattern:[[11057040]], support:5
+pattern:[[11057040], [27410003]], support:2
+pattern:[[27400118]], support:5
+pattern:[[27400118], [15130013]], support:2
+pattern:[[27400118], [27400126]], support:2
+pattern:[[27400118], [27400158]], support:2
+pattern:[[15202039]], support:5
+pattern:[[10152013]], support:5
+pattern:[[14121012]], support:5
+pattern:[[14916007]], support:5
+pattern:[[15230002]], support:5
+pattern:[[15230002], [15231005]], support:2
+pattern:[[23110144]], support:5
+pattern:[[14403083]], support:5
+pattern:[[22021005]], support:5
+pattern:[[14401025]], support:6
+pattern:[[14401025], [27300274]], support:2
+pattern:[[25111021]], support:6
+pattern:[[25111021], [27300282]], support:2
+pattern:[[10000009]], support:6
+pattern:[[22103007]], support:6
+pattern:[[15104009]], support:6
+pattern:[[15104009], [22008021]], support:2
+pattern:[[15104009], [15115030]], support:2
+pattern:[[15104009], [15115030], [15115031]], support:2
+pattern:[[15104009], [15115030], [15115031], [15231007]], support:2
+pattern:[[15104009], [15115030], [15231007]], support:2
+pattern:[[15104009], [15115031]], support:2
+pattern:[[15104009], [15115031], [15231007]], support:2
+pattern:[[15104009], [15231007]], support:2
+pattern:[[15104009], [23110009]], support:2
+pattern:[[15605048]], support:6
+pattern:[[22712001]], support:6
+pattern:[[14131016]], support:6
+pattern:[[14131016], [27300276]], support:2
+pattern:[[10110017]], support:6
+pattern:[[10110017], [30380002]], support:2
+pattern:[[10110017], [30380003]], support:2
+pattern:[[10110017], [10201020]], support:2
+pattern:[[10110017], [10201016]], support:2
+pattern:[[14054014]], support:6
+pattern:[[15113004]], support:6
+pattern:[[10141046]], support:6
+pattern:[[22711000]], support:6
+pattern:[[14721022]], support:6
+pattern:[[10116000]], support:6
+pattern:[[10116000], [30380002]], support:2
+pattern:[[10116000], [30380003]], support:2
+pattern:[[22713001]], support:6
+pattern:[[22103013]], support:6
+pattern:[[22103013], [23110001]], support:2
+pattern:[[22103013], [15230001]], support:2
+pattern:[[22103013], [15230001], [22102014]], support:2
+pattern:[[22103013], [22102006]], support:2
+pattern:[[22103013], [23110006]], support:2
+pattern:[[22103013], [22102014]], support:2
+pattern:[[22103013], [22130007]], support:2
+pattern:[[14082018]], support:6
+pattern:[[14082018], [23110009]], support:3
+pattern:[[15114010]], support:6
+pattern:[[15502030]], support:6
+pattern:[[15012007]], support:6
+pattern:[[15012007], [23110009]], support:2
+pattern:[[15012007], [25012012]], support:2
+pattern:[[15012007], [22190000]], support:2
+pattern:[[25120035]], support:6
+pattern:[[15110033]], support:6
+pattern:[[15110033], [23110007]], support:2
+pattern:[[22100025]], support:6
+pattern:[[10150006]], support:6
+pattern:[[10116034]], support:6
+pattern:[[10116034], [30380003]], support:3
+pattern:[[15202028]], support:6
+pattern:[[14084003]], support:6
+pattern:[[23113026]], support:6
+pattern:[[23113026], [23110001]], support:2
+pattern:[[23113026], [27410003]], support:2
+pattern:[[24012151]], support:6
+pattern:[[14300086]], support:6
+pattern:[[10141039]], support:6
+pattern:[[10141039], [23110009]], support:2
+pattern:[[15230004]], support:6
+pattern:[[21110004]], support:6
+pattern:[[21801116]], support:6
+pattern:[[14815001]], support:6
+pattern:[[15110028]], support:6
+pattern:[[11110050]], support:6
+pattern:[[15115008]], support:6
+pattern:[[15115008], [30380003]], support:2
+pattern:[[22130018]], support:6
+pattern:[[22130018], [30380002]], support:2
+pattern:[[22130018], [30380002], [22171000]], support:2
+pattern:[[22130018], [22111031]], support:2
+pattern:[[22130018], [22171000]], support:2
+pattern:[[22130018], [22102014]], support:2
+pattern:[[22130018], [22132010]], support:3
+pattern:[[22130018], [22132010], [22111031]], support:2
+pattern:[[22714002]], support:6
+pattern:[[14091028]], support:6
+pattern:[[10201014]], support:6
+pattern:[[20130000]], support:6
+pattern:[[20130000], [27000582]], support:2
+pattern:[[14873001]], support:6
+pattern:[[15230003]], support:6
+pattern:[[22040011]], support:6
+pattern:[[10000015]], support:6
+pattern:[[10132001]], support:6
+pattern:[[10132001], [30380003]], support:2
+pattern:[[10132001], [27200924]], support:3
+pattern:[[23110190]], support:6
+pattern:[[23110190], [23112029]], support:2
+pattern:[[23110190], [23110007]], support:2
+pattern:[[22010033]], support:6
+pattern:[[14112011]], support:6
+pattern:[[22034004]], support:6
+pattern:[[27400708]], support:6
+pattern:[[27400708], [27400158]], support:2
+pattern:[[27400708], [27400126]], support:3
+pattern:[[27400708], [27400126], [27400118]], support:2
+pattern:[[27400708], [27400126], [27400118], [27400158]], support:2
+pattern:[[27400708], [27400126], [27400158]], support:2
+pattern:[[27400708], [27400118]], support:3
+pattern:[[27400708], [27400118], [27400158]], support:2
+pattern:[[10001007]], support:6
+pattern:[[10001007], [27200924]], support:2
+pattern:[[10001007], [27200924], [14092061]], support:2
+pattern:[[10001007], [14092061]], support:2
+pattern:[[14815007]], support:6
+pattern:[[23110028]], support:6
+pattern:[[22170003]], support:6
+pattern:[[10141044]], support:6
+pattern:[[10141044], [23110009]], support:2
+pattern:[[15110013]], support:6
+pattern:[[27002595]], support:6
+pattern:[[27002595], [27400047]], support:2
+pattern:[[27002595], [27400047], [27400118]], support:2
+pattern:[[27002595], [27400047], [27400118], [27400126]], support:2
+pattern:[[27002595], [27400047], [27400126]], support:2
+pattern:[[27002595], [15130013]], support:2
+pattern:[[27002595], [27400048]], support:2
+pattern:[[27002595], [27400118]], support:3
+pattern:[[27002595], [27400118], [15130013]], support:2
+pattern:[[27002595], [27400118], [27400126]], support:2
+pattern:[[27002595], [27400126]], support:3
+pattern:[[23113025]], support:6
+pattern:[[23113025], [30380003]], support:2
+pattern:[[23113025], [30380002]], support:2
+pattern:[[23113025], [30380002], [23110009]], support:2
+pattern:[[23113025], [30380002], [23110009], [15114015]], support:2
+pattern:[[23113025], [30380002], [15114015]], support:2
+pattern:[[23113025], [23110009]], support:2
+pattern:[[23113025], [23110009], [15114015]], support:2
+pattern:[[23113025], [15114015]], support:2
+pattern:[[14630006]], support:6
+pattern:[[22010034]], support:6
+pattern:[[14750038]], support:6
+pattern:[[22111001]], support:6
+pattern:[[22111001], [22102014]], support:2
+pattern:[[22020002]], support:6
+pattern:[[30323001]], support:7
+pattern:[[10119019]], support:7
+pattern:[[10119019], [10119020]], support:3
+pattern:[[15231008]], support:7
+pattern:[[15231008], [30380003]], support:2
+pattern:[[15231008], [30380003], [27200924]], support:2
+pattern:[[15231008], [27200924]], support:2
+pattern:[[15231008], [30380002]], support:3
+pattern:[[22040009]], support:7
+pattern:[[22040009], [22631002]], support:2
+pattern:[[22040009], [22007031]], support:2
+pattern:[[22172006]], support:7
+pattern:[[22172006], [22172008]], support:2
+pattern:[[22172006], [22102001]], support:2
+pattern:[[22172006], [23110009]], support:3
+pattern:[[22103000]], support:7
+pattern:[[22103006]], support:7
+pattern:[[14630008]], support:7
+pattern:[[14630008], [15110015]], support:2
+pattern:[[22630000]], support:7
+pattern:[[14092075]], support:7
+pattern:[[14092075], [22802001]], support:2
+pattern:[[14092075], [15230001]], support:2
+pattern:[[14092075], [15230001], [23135028]], support:2
+pattern:[[14092075], [23135028]], support:2
+pattern:[[22111029]], support:7
+pattern:[[22111029], [23131002]], support:2
+pattern:[[22111029], [22120028]], support:2
+pattern:[[15110030]], support:7
+pattern:[[15110030], [15119001]], support:2
+pattern:[[14082017]], support:7
+pattern:[[14082017], [23132068]], support:2
+pattern:[[14082017], [14082018]], support:2
+pattern:[[14082017], [30380002]], support:2
+pattern:[[14082017], [14082023]], support:2
+pattern:[[14082017], [14082022]], support:2
+pattern:[[22030011]], support:7
+pattern:[[14076012]], support:7
+pattern:[[23132072]], support:7
+pattern:[[23132072], [23110009]], support:2
+pattern:[[10150016]], support:7
+pattern:[[10150016], [30380003]], support:3
+pattern:[[22600002]], support:7
+pattern:[[22600002], [22111004]], support:2
+pattern:[[22600002], [22008019]], support:2
+pattern:[[22600002], [23110001]], support:2
+pattern:[[40000673]], support:7
+pattern:[[21400005]], support:7
+pattern:[[22500072]], support:7
+pattern:[[24000388]], support:7
+pattern:[[15232004]], support:7
+pattern:[[11141002]], support:7
+pattern:[[11141002], [30820030]], support:2
+pattern:[[22008001]], support:7
+pattern:[[15111002]], support:7
+pattern:[[14076009]], support:7
+pattern:[[14076009], [25101002]], support:2
+pattern:[[14076009], [25012012]], support:2
+pattern:[[14013011]], support:7
+pattern:[[14013011], [10151002]], support:2
+pattern:[[14802056]], support:7
+pattern:[[14802056], [27100542]], support:2
+pattern:[[15115031]], support:7
+pattern:[[15115031], [14271000]], support:2
+pattern:[[15115031], [14271000], [15131001]], support:2
+pattern:[[15115031], [14010011]], support:2
+pattern:[[15115031], [15231007]], support:2
+pattern:[[15115031], [15131001]], support:3
+pattern:[[15115031], [15131001], [14010011]], support:2
+pattern:[[14900008]], support:7
+pattern:[[20103019]], support:7
+pattern:[[20103019], [25101044]], support:2
+pattern:[[20103019], [22701014]], support:2
+pattern:[[20103019], [20121037]], support:3
+pattern:[[27002440]], support:7
+pattern:[[27002440], [25101044]], support:2
+pattern:[[27002440], [27410000]], support:2
+pattern:[[27002440], [22102005]], support:2
+pattern:[[14822002]], support:7
+pattern:[[24101003]], support:7
+pattern:[[14130054]], support:7
+pattern:[[14130055]], support:7
+pattern:[[22000010]], support:7
+pattern:[[22000010], [23110009]], support:2
+pattern:[[22000010], [23121052]], support:2
+pattern:[[22610103]], support:7
+pattern:[[24000333]], support:8
+pattern:[[24000333], [22103007]], support:2
+pattern:[[24000333], [14834000]], support:2
+pattern:[[24000333], [14834000], [27300274]], support:2
+pattern:[[24000333], [24000334]], support:2
+pattern:[[24000333], [22130000]], support:2
+pattern:[[24000333], [22130000], [22111004]], support:2
+pattern:[[24000333], [14835005]], support:2
+pattern:[[24000333], [22111004]], support:3
+pattern:[[24000333], [27300274]], support:4
+pattern:[[24000333], [27300274], [22103007]], support:2
+pattern:[[10150004]], support:8
+pattern:[[10119102]], support:8
+pattern:[[10119102], [30380002]], support:2
+pattern:[[10119102], [30380002], [23131002]], support:2
+pattern:[[10119102], [23131002]], support:2
+pattern:[[22032000]], support:8
+pattern:[[22032000], [27300274]], support:2
+pattern:[[22032000], [27300274], [23110009]], support:2
+pattern:[[22032000], [22111004]], support:2
+pattern:[[22032000], [22036000]], support:2
+pattern:[[22032000], [23110009]], support:3
+pattern:[[22701003]], support:8
+pattern:[[22830002]], support:8
+pattern:[[22830002], [23132063]], support:2
+pattern:[[27400302]], support:8
+pattern:[[22010001]], support:8
+pattern:[[15110076]], support:8
+pattern:[[15111010]], support:8
+pattern:[[15111010], [15119007]], support:2
+pattern:[[15111010], [30380003]], support:3
+pattern:[[15111010], [30380003], [15119007]], support:2
+pattern:[[15202001]], support:8
+pattern:[[22110003]], support:8
+pattern:[[22110003], [27100542]], support:2
+pattern:[[22110003], [22130007]], support:3
+pattern:[[22110003], [22130007], [27100542]], support:2
+pattern:[[15202037]], support:8
+pattern:[[27002188]], support:8
+pattern:[[27002188], [23110001]], support:2
+pattern:[[22008011]], support:8
+pattern:[[22008011], [22013008]], support:2
+pattern:[[22008011], [23110174]], support:2
+pattern:[[22020000]], support:8
+pattern:[[22020000], [22171000]], support:2
+pattern:[[22020000], [22102004]], support:2
+pattern:[[22020000], [30380003]], support:4
+pattern:[[22020000], [30380002]], support:4
+pattern:[[22020000], [30380002], [22171000]], support:2
+pattern:[[22171000]], support:8
+pattern:[[22171000], [22171004]], support:2
+pattern:[[22171000], [22102014]], support:4
+pattern:[[15111001]], support:8
+pattern:[[15111001], [15110014]], support:3
+pattern:[[15115034]], support:8
+pattern:[[15115034], [15231004]], support:2
+pattern:[[14721021]], support:8
+pattern:[[15116001]], support:8
+pattern:[[15116001], [30380003]], support:3
+pattern:[[23113024]], support:8
+pattern:[[23113024], [24010809]], support:2
+pattern:[[23113024], [30380003]], support:3
+pattern:[[14863008]], support:8
+pattern:[[14863008], [30380003]], support:2
+pattern:[[14863008], [30380003], [27300281]], support:2
+pattern:[[14863008], [27300281]], support:2
+pattern:[[10141030]], support:8
+pattern:[[14661007]], support:8
+pattern:[[14661007], [15231007]], support:2
+pattern:[[14661007], [30380002]], support:2
+pattern:[[22715006]], support:8
+pattern:[[11300206]], support:8
+pattern:[[15115015]], support:8
+pattern:[[14010011]], support:8
+pattern:[[15004036]], support:8
+pattern:[[15004036], [22102005]], support:2
+pattern:[[15004036], [22013022]], support:2
+pattern:[[15004036], [23110006]], support:2
+pattern:[[15004036], [23110009]], support:2
+pattern:[[15113000]], support:8
+pattern:[[15113000], [21021043]], support:2
+pattern:[[15113000], [22035000]], support:2
+pattern:[[10130002]], support:8
+pattern:[[22007011]], support:8
+pattern:[[22007011], [27000574]], support:2
+pattern:[[22007011], [25120036]], support:2
+pattern:[[22007011], [27300273]], support:2
+pattern:[[22001001]], support:8
+pattern:[[22001001], [15115031]], support:2
+pattern:[[22001001], [23110009]], support:2
+pattern:[[22021268]], support:8
+pattern:[[22500094]], support:8
+pattern:[[22007026]], support:8
+pattern:[[22007026], [22102014]], support:2
+pattern:[[15004024]], support:8
+pattern:[[14860017]], support:9
+pattern:[[15235001]], support:9
+pattern:[[15235001], [15000021]], support:3
+pattern:[[24010819]], support:9
+pattern:[[27002194]], support:9
+pattern:[[27002194], [27300276]], support:2
+pattern:[[27002194], [22701014]], support:2
+pattern:[[27002194], [27002169]], support:3
+pattern:[[15000006]], support:9
+pattern:[[15000006], [23110009]], support:3
+pattern:[[32917000]], support:9
+pattern:[[32917000], [32917001]], support:2
+pattern:[[32917000], [15113002]], support:2
+pattern:[[22012011]], support:9
+pattern:[[15231004]], support:9
+pattern:[[15231004], [15231005]], support:3
+pattern:[[15114013]], support:9
+pattern:[[10000011]], support:9
+pattern:[[10000011], [23110009]], support:2
+pattern:[[15130024]], support:9
+pattern:[[15130024], [15405002]], support:2
+pattern:[[15130024], [15405002], [15231005]], support:2
+pattern:[[15130024], [15231004]], support:2
+pattern:[[15130024], [15231005]], support:3
+pattern:[[22012000]], support:9
+pattern:[[22012000], [30380002]], support:2
+pattern:[[22012000], [15115007]], support:2
+pattern:[[22012000], [30380003]], support:3
+pattern:[[10151002]], support:9
+pattern:[[10141042]], support:9
+pattern:[[22103010]], support:9
+pattern:[[22103010], [22190000]], support:2
+pattern:[[22103010], [22190000], [22111004]], support:2
+pattern:[[22103010], [30380003]], support:2
+pattern:[[22103010], [22102014]], support:2
+pattern:[[22103010], [23110009]], support:2
+pattern:[[22103010], [22103011]], support:2
+pattern:[[22103010], [30380002]], support:3
+pattern:[[22103010], [30380002], [22190000]], support:2
+pattern:[[22103010], [30380002], [22190000], [22111004]], support:2
+pattern:[[22103010], [30380002], [22111004]], support:3
+pattern:[[22103010], [22111004]], support:4
+pattern:[[27000578]], support:9
+pattern:[[27000578], [30380003]], support:2
+pattern:[[22172012]], support:9
+pattern:[[15115028]], support:9
+pattern:[[22102009]], support:9
+pattern:[[22102009], [22102014]], support:2
+pattern:[[22102009], [22020002]], support:2
+pattern:[[15110000]], support:9
+pattern:[[15110046]], support:9
+pattern:[[15232003]], support:9
+pattern:[[15232003], [27300274]], support:2
+pattern:[[15232003], [15104009]], support:2
+pattern:[[15232003], [15104009], [15115030]], support:2
+pattern:[[15232003], [15104009], [15115030], [15115031]], support:2
+pattern:[[15232003], [15104009], [15115030], [15115031], [15231007]], support:2
+pattern:[[15232003], [15104009], [15115030], [15231007]], support:2
+pattern:[[15232003], [15104009], [15115031]], support:2
+pattern:[[15232003], [15104009], [15115031], [15231007]], support:2
+pattern:[[15232003], [15104009], [15231007]], support:2
+pattern:[[15232003], [15115030]], support:2
+pattern:[[15232003], [15115030], [15115031]], support:2
+pattern:[[15232003], [15115030], [15115031], [15231007]], support:2
+pattern:[[15232003], [15115030], [15231007]], support:2
+pattern:[[15232003], [15115031]], support:2
+pattern:[[15232003], [15115031], [15231007]], support:2
+pattern:[[15232003], [15231007]], support:2
+pattern:[[15232003], [23110009]], support:2
+pattern:[[15232003], [30380003]], support:2
+pattern:[[15130013]], support:9
+pattern:[[14860025]], support:9
+pattern:[[24010000]], support:9
+pattern:[[24010000], [22500022]], support:2
+pattern:[[22002240]], support:9
+pattern:[[22002240], [23110009]], support:2
+pattern:[[22002240], [30380003]], support:3
+pattern:[[22111008]], support:10
+pattern:[[22111008], [24030062]], support:2
+pattern:[[22111008], [14010012]], support:2
+pattern:[[22111008], [22103004]], support:3
+pattern:[[22111008], [27300274]], support:3
+pattern:[[15114000]], support:10
+pattern:[[15114000], [15110038]], support:2
+pattern:[[22631002]], support:10
+pattern:[[22007027]], support:10
+pattern:[[22007027], [22007005]], support:2
+pattern:[[10201016]], support:10
+pattern:[[10201016], [23110009]], support:3
+pattern:[[15114031]], support:10
+pattern:[[15114031], [23110009]], support:2
+pattern:[[15114031], [27410000]], support:3
+pattern:[[23112032]], support:10
+pattern:[[23112032], [30380003]], support:2
+pattern:[[23112032], [23110174]], support:2
+pattern:[[23112032], [23110028]], support:2
+pattern:[[23112032], [25101044]], support:2
+pattern:[[27002174]], support:10
+pattern:[[22171004]], support:10
+pattern:[[22171004], [22102014]], support:2
+pattern:[[22102013]], support:10
+pattern:[[22102013], [22102014]], support:2
+pattern:[[22600000]], support:10
+pattern:[[22600000], [30380003]], support:2
+pattern:[[22600000], [22701014]], support:2
+pattern:[[22600000], [23110007]], support:2
+pattern:[[22600000], [30380002]], support:3
+pattern:[[22600000], [30380002], [23110009]], support:2
+pattern:[[22600000], [22172005]], support:3
+pattern:[[22600000], [22172005], [22601000]], support:2
+pattern:[[22600000], [22601000]], support:3
+pattern:[[22600000], [23110009]], support:3
+pattern:[[24401008]], support:10
+pattern:[[24401008], [27002173]], support:2
+pattern:[[14860022]], support:10
+pattern:[[27200939]], support:10
+pattern:[[22103003]], support:10
+pattern:[[15116003]], support:10
+pattern:[[15116003], [15115001]], support:2
+pattern:[[15110043]], support:10
+pattern:[[24101000]], support:11
+pattern:[[15110014]], support:11
+pattern:[[15110014], [22102014]], support:2
+pattern:[[15000007]], support:11
+pattern:[[15000007], [23133017]], support:2
+pattern:[[15000007], [23110009]], support:2
+pattern:[[15000007], [22101000]], support:2
+pattern:[[10140002]], support:11
+pattern:[[10140002], [27410000]], support:2
+pattern:[[10140002], [30380003]], support:3
+pattern:[[27002169]], support:11
+pattern:[[27002169], [22103005]], support:3
+pattern:[[27002169], [22103005], [22102014]], support:2
+pattern:[[27002169], [22102014]], support:3
+pattern:[[27400145]], support:11
+pattern:[[27400145], [27400126]], support:2
+pattern:[[27400145], [27400052]], support:2
+pattern:[[27400145], [23110009]], support:4
+pattern:[[22120028]], support:11
+pattern:[[25101002]], support:11
+pattern:[[25101002], [25012012]], support:2
+pattern:[[25101002], [27200924]], support:2
+pattern:[[25101002], [22103001]], support:3
+pattern:[[22100010]], support:11
+pattern:[[22100010], [22100025]], support:2
+pattern:[[22100010], [27410000]], support:2
+pattern:[[22100010], [22103001]], support:2
+pattern:[[22100010], [23110001]], support:2
+pattern:[[22100010], [23110001], [22111029]], support:2
+pattern:[[22100010], [22008019]], support:2
+pattern:[[22100010], [22111029]], support:2
+pattern:[[22100010], [24010000]], support:2
+pattern:[[22100010], [22102005]], support:2
+pattern:[[22100010], [22500022]], support:2
+pattern:[[22100010], [23131002]], support:2
+pattern:[[25100108]], support:11
+pattern:[[25100108], [22013008]], support:2
+pattern:[[25100108], [27410000]], support:2
+pattern:[[10141038]], support:11
+pattern:[[27002555]], support:11
+pattern:[[24101002]], support:11
+pattern:[[24101002], [23131002]], support:2
+pattern:[[24101002], [10000011]], support:2
+pattern:[[24101002], [23110009]], support:2
+pattern:[[22102006]], support:11
+pattern:[[22102006], [23110009]], support:2
+pattern:[[22102006], [22103005]], support:2
+pattern:[[22102006], [22103005], [22102014]], support:2
+pattern:[[22102006], [22103001]], support:2
+pattern:[[22102006], [22102014]], support:3
+pattern:[[22001008]], support:11
+pattern:[[25120014]], support:11
+pattern:[[25120014], [22111004]], support:2
+pattern:[[25120014], [22130007]], support:2
+pattern:[[15115000]], support:11
+pattern:[[15115000], [15115001]], support:5
+pattern:[[22071000]], support:11
+pattern:[[25111051]], support:11
+pattern:[[11056085]], support:11
+pattern:[[11056085], [22111004]], support:2
+pattern:[[22021003]], support:11
+pattern:[[22021003], [23110009]], support:2
+pattern:[[22021003], [22021008]], support:2
+pattern:[[22021003], [22103001]], support:2
+pattern:[[22021003], [22102004]], support:2
+pattern:[[22021003], [22102005]], support:2
+pattern:[[22021003], [27000574]], support:2
+pattern:[[22021003], [27410000]], support:3
+pattern:[[22190002]], support:12
+pattern:[[22190002], [27300274]], support:2
+pattern:[[22190002], [22103005]], support:2
+pattern:[[22190002], [22111004]], support:2
+pattern:[[22190002], [22103007]], support:3
+pattern:[[15120000]], support:12
+pattern:[[15000021]], support:12
+pattern:[[22132010]], support:12
+pattern:[[22132010], [22170001]], support:2
+pattern:[[22132010], [22102014]], support:2
+pattern:[[22132010], [22102004]], support:2
+pattern:[[22132010], [22111031]], support:2
+pattern:[[22132010], [22130007]], support:2
+pattern:[[22132010], [27300276]], support:2
+pattern:[[22132010], [22172008]], support:2
+pattern:[[22132010], [22008019]], support:2
+pattern:[[22132010], [22008019], [22102005]], support:2
+pattern:[[22132010], [22102005]], support:2
+pattern:[[22132010], [22190000]], support:3
+pattern:[[22130011]], support:12
+pattern:[[15110069]], support:12
+pattern:[[15110069], [15110071]], support:2
+pattern:[[22111015]], support:12
+pattern:[[22111015], [27300281]], support:2
+pattern:[[22111015], [22102004]], support:2
+pattern:[[22111015], [27300274]], support:3
+pattern:[[22111015], [27300274], [27300281]], support:2
+pattern:[[22111015], [23110009]], support:3
+pattern:[[22111015], [22130000]], support:3
+pattern:[[15130009]], support:12
+pattern:[[15130009], [27200924]], support:2
+pattern:[[15130009], [27400126]], support:2
+pattern:[[15110044]], support:12
+pattern:[[27200925]], support:12
+pattern:[[27200925], [15231007]], support:2
+pattern:[[24010017]], support:12
+pattern:[[24010017], [30514028]], support:2
+pattern:[[24010017], [27300274]], support:2
+pattern:[[24010017], [30380003]], support:3
+pattern:[[11110004]], support:12
+pattern:[[25130010]], support:12
+pattern:[[25130010], [25101044]], support:2
+pattern:[[25130010], [25101011]], support:2
+pattern:[[22102001]], support:12
+pattern:[[22102001], [23110009]], support:2
+pattern:[[22102001], [22102004]], support:2
+pattern:[[22102001], [22102014]], support:2
+pattern:[[22102001], [22102005]], support:2
+pattern:[[27400126]], support:12
+pattern:[[27400126], [27400118]], support:2
+pattern:[[27400126], [27400118], [27400158]], support:2
+pattern:[[27400126], [27400158]], support:2
+pattern:[[22802001]], support:12
+pattern:[[25101046]], support:12
+pattern:[[23110174]], support:12
+pattern:[[23110174], [23110175]], support:2
+pattern:[[15130035]], support:12
+pattern:[[15130035], [23110009]], support:2
+pattern:[[10131002]], support:12
+pattern:[[10131002], [15116003]], support:2
+pattern:[[15115002]], support:13
+pattern:[[15115002], [15110013]], support:3
+pattern:[[15115002], [27200924]], support:4
+pattern:[[15115002], [27200924], [15110013]], support:2
+pattern:[[27300276]], support:13
+pattern:[[27300276], [22111004]], support:2
+pattern:[[27300276], [22102005]], support:2
+pattern:[[27300276], [23110009]], support:3
+pattern:[[15110031]], support:13
+pattern:[[15110031], [23110009]], support:2
+pattern:[[22111012]], support:13
+pattern:[[22111012], [22170001]], support:2
+pattern:[[22111012], [22170001], [22111031]], support:2
+pattern:[[22111012], [22170001], [22111031], [22102014]], support:2
+pattern:[[22111012], [22170001], [22102014]], support:2
+pattern:[[22111012], [15110033]], support:2
+pattern:[[22111012], [22101001]], support:2
+pattern:[[22111012], [22101001], [22102014]], support:2
+pattern:[[22111012], [22102005]], support:2
+pattern:[[22111012], [22102006]], support:2
+pattern:[[22111012], [22102014]], support:3
+pattern:[[22111012], [22111031]], support:4
+pattern:[[22111012], [22111031], [22102014]], support:2
+pattern:[[10000006]], support:13
+pattern:[[10000006], [14090031]], support:2
+pattern:[[10000006], [10116025]], support:2
+pattern:[[10000006], [14513016]], support:2
+pattern:[[22130010]], support:13
+pattern:[[22130010], [22102005]], support:3
+pattern:[[21200004]], support:13
+pattern:[[21200004], [27410045]], support:2
+pattern:[[21200004], [22190000]], support:3
+pattern:[[15200004]], support:13
+pattern:[[15200004], [22102014]], support:2
+pattern:[[15200004], [15114001]], support:2
+pattern:[[27401714]], support:13
+pattern:[[27401714], [27410044]], support:2
+pattern:[[24010384]], support:13
+pattern:[[24010384], [22170001]], support:2
+pattern:[[15110004]], support:13
+pattern:[[27410005]], support:13
+pattern:[[27410005], [27000573]], support:2
+pattern:[[27410005], [27400855]], support:2
+pattern:[[24010823]], support:14
+pattern:[[24010823], [14091023]], support:2
+pattern:[[24010823], [27300274]], support:2
+pattern:[[24010823], [22102014]], support:2
+pattern:[[24010823], [22034000]], support:2
+pattern:[[25012012]], support:14
+pattern:[[25012012], [27300274]], support:2
+pattern:[[25012012], [27300274], [27300280]], support:2
+pattern:[[25012012], [27300274], [27300280], [23110009]], support:2
+pattern:[[25012012], [27300274], [23110009]], support:2
+pattern:[[25012012], [27300280]], support:2
+pattern:[[25012012], [27300280], [23110009]], support:2
+pattern:[[25012012], [23110009]], support:3
+pattern:[[15110080]], support:14
+pattern:[[15110080], [15605048]], support:2
+pattern:[[15110080], [30380003]], support:4
+pattern:[[22120005]], support:14
+pattern:[[22120005], [22103004]], support:2
+pattern:[[23134002]], support:14
+pattern:[[23134002], [23110009]], support:2
+pattern:[[15119000]], support:14
+pattern:[[15119000], [27002555]], support:2
+pattern:[[15119000], [27410002]], support:2
+pattern:[[23110175]], support:14
+pattern:[[15130034]], support:14
+pattern:[[15130034], [23110006]], support:2
+pattern:[[15130034], [23131002]], support:2
+pattern:[[15130034], [21021043]], support:2
+pattern:[[14860020]], support:14
+pattern:[[22172008]], support:14
+pattern:[[22172008], [22170001]], support:2
+pattern:[[22172008], [24010809]], support:2
+pattern:[[22172008], [22102001]], support:2
+pattern:[[22172008], [22008019]], support:2
+pattern:[[22172008], [22103001]], support:2
+pattern:[[22172008], [22102014]], support:3
+pattern:[[22172008], [22102005]], support:4
+pattern:[[22100000]], support:14
+pattern:[[22100000], [30380003]], support:2
+pattern:[[22100000], [22111004]], support:2
+pattern:[[22100000], [22172007]], support:2
+pattern:[[22100000], [22500022]], support:2
+pattern:[[22100000], [23132068]], support:2
+pattern:[[22100000], [22102005]], support:2
+pattern:[[22100000], [22101000]], support:3
+pattern:[[22100000], [22103004]], support:3
+pattern:[[27400855]], support:15
+pattern:[[27400289]], support:15
+pattern:[[27400289], [23110009]], support:2
+pattern:[[27400289], [22007005]], support:2
+pattern:[[27400289], [22111004]], support:2
+pattern:[[27400289], [22120039]], support:2
+pattern:[[27400289], [27300274]], support:2
+pattern:[[27400289], [27100542]], support:4
+pattern:[[27400289], [30380002]], support:5
+pattern:[[27400289], [30380002], [30380003]], support:3
+pattern:[[27400289], [30380003]], support:5
+pattern:[[23113027]], support:15
+pattern:[[23113027], [23110001]], support:2
+pattern:[[23113027], [15115028]], support:2
+pattern:[[23113027], [24101006]], support:2
+pattern:[[23113027], [30380003]], support:3
+pattern:[[22172005]], support:15
+pattern:[[22172005], [22102005]], support:2
+pattern:[[22172005], [27002169]], support:2
+pattern:[[22172005], [27002169], [22103005]], support:2
+pattern:[[22172005], [22103005]], support:2
+pattern:[[22172005], [22102014]], support:2
+pattern:[[22172005], [25120016]], support:2
+pattern:[[22172005], [22034000]], support:2
+pattern:[[22172005], [22601000]], support:2
+pattern:[[22172005], [22100010]], support:2
+pattern:[[22172005], [22170001]], support:3
+pattern:[[22172005], [22008019]], support:3
+pattern:[[25121003]], support:15
+pattern:[[25121003], [23110009]], support:2
+pattern:[[25121003], [23132063]], support:2
+pattern:[[25121003], [23110007]], support:2
+pattern:[[25121003], [22103001]], support:2
+pattern:[[25121003], [22102014]], support:2
+pattern:[[25121003], [22102005]], support:2
+pattern:[[25121003], [22013008]], support:3
+pattern:[[24000373]], support:15
+pattern:[[27300281]], support:16
+pattern:[[27300281], [15343006]], support:2
+pattern:[[27300281], [23131002]], support:2
+pattern:[[24010817]], support:16
+pattern:[[24010817], [22102014]], support:2
+pattern:[[24010817], [27300282]], support:2
+pattern:[[24010817], [30380002]], support:3
+pattern:[[24010817], [27000574]], support:4
+pattern:[[24010817], [30380003]], support:9
+pattern:[[24010817], [30380003], [22102014]], support:2
+pattern:[[15200008]], support:16
+pattern:[[15200008], [23110007]], support:2
+pattern:[[15200008], [23110007], [23110009]], support:2
+pattern:[[15200008], [22130007]], support:2
+pattern:[[15200008], [23110009]], support:3
+pattern:[[22103011]], support:16
+pattern:[[22103011], [27300274]], support:2
+pattern:[[22103011], [22102014]], support:2
+pattern:[[22103011], [21801125]], support:2
+pattern:[[22103011], [22170001]], support:2
+pattern:[[22103011], [22170001], [23110009]], support:2
+pattern:[[22103011], [22102004]], support:2
+pattern:[[22103011], [30380003]], support:3
+pattern:[[22103011], [22102005]], support:3
+pattern:[[22103011], [23110009]], support:4
+pattern:[[22111026]], support:16
+pattern:[[22111026], [22102014]], support:2
+pattern:[[22111026], [22110003]], support:3
+pattern:[[22111026], [22102005]], support:3
+pattern:[[22111026], [22102005], [22111004]], support:2
+pattern:[[22111026], [22111004]], support:3
+pattern:[[15115001]], support:16
+pattern:[[15115001], [15114015]], support:2
+pattern:[[15115001], [15231007]], support:3
+pattern:[[22020006]], support:16
+pattern:[[22020006], [22103004]], support:2
+pattern:[[22020006], [25120016]], support:2
+pattern:[[22035000]], support:16
+pattern:[[22035000], [23110009]], support:2
+pattern:[[27240000]], support:17
+pattern:[[27240000], [22120039]], support:2
+pattern:[[27240000], [27410002]], support:2
+pattern:[[27240000], [22120005]], support:2
+pattern:[[27240000], [10001006]], support:2
+pattern:[[27240000], [27000573]], support:2
+pattern:[[27240000], [27100542]], support:2
+pattern:[[27240000], [22102014]], support:2
+pattern:[[27240000], [30380003]], support:4
+pattern:[[27240000], [30380003], [27410002]], support:2
+pattern:[[27240000], [30380002]], support:4
+pattern:[[27300282]], support:17
+pattern:[[15230001]], support:17
+pattern:[[15230001], [22102014]], support:2
+pattern:[[15230001], [22103004]], support:2
+pattern:[[15230001], [23110007]], support:2
+pattern:[[15230001], [23135028]], support:2
+pattern:[[15230001], [23110009]], support:3
+pattern:[[15231007]], support:17
+pattern:[[15231007], [23110009]], support:2
+pattern:[[15231005]], support:17
+pattern:[[20110014]], support:18
+pattern:[[24010809]], support:18
+pattern:[[27410042]], support:18
+pattern:[[27410042], [22102014]], support:2
+pattern:[[22111031]], support:18
+pattern:[[22111031], [22171000]], support:2
+pattern:[[22111031], [22130007]], support:2
+pattern:[[22111031], [22103005]], support:3
+pattern:[[22111031], [22103005], [22102014]], support:2
+pattern:[[22111031], [22102014]], support:4
+pattern:[[22000049]], support:18
+pattern:[[22000049], [23110009]], support:2
+pattern:[[22000049], [22102005]], support:2
+pattern:[[25120036]], support:18
+pattern:[[25120036], [22671058]], support:2
+pattern:[[25120036], [27000573]], support:2
+pattern:[[25120036], [21021043]], support:2
+pattern:[[25120036], [22102005]], support:2
+pattern:[[25120036], [27200938]], support:2
+pattern:[[25120036], [27200938], [23110009]], support:2
+pattern:[[25120036], [22100010]], support:2
+pattern:[[25120036], [25101044]], support:2
+pattern:[[25120036], [25101044], [23110009]], support:2
+pattern:[[25120036], [23110009]], support:6
+pattern:[[22120039]], support:19
+pattern:[[22120039], [25111048]], support:2
+pattern:[[22120039], [25111048], [24000333]], support:2
+pattern:[[22120039], [25111048], [24000333], [27300274]], support:2
+pattern:[[22120039], [25111048], [24000333], [27300274], [22103007]], support:2
+pattern:[[22120039], [25111048], [24000333], [22103007]], support:2
+pattern:[[22120039], [25111048], [27300274]], support:2
+pattern:[[22120039], [25111048], [27300274], [22103007]], support:2
+pattern:[[22120039], [25111048], [22103007]], support:2
+pattern:[[22120039], [24000333]], support:2
+pattern:[[22120039], [24000333], [27300274]], support:2
+pattern:[[22120039], [24000333], [27300274], [22103007]], support:2
+pattern:[[22120039], [24000333], [22103007]], support:2
+pattern:[[22120039], [22120015]], support:2
+pattern:[[22120039], [22103007]], support:2
+pattern:[[22120039], [22132010]], support:2
+pattern:[[22120039], [25121003]], support:2
+pattern:[[22120039], [22034000]], support:2
+pattern:[[22120039], [22111004]], support:2
+pattern:[[22120039], [24030062]], support:2
+pattern:[[22120039], [27300274]], support:3
+pattern:[[22120039], [27300274], [22103007]], support:2
+pattern:[[22120039], [27300274], [22111004]], support:2
+pattern:[[22120039], [22190000]], support:4
+pattern:[[15115003]], support:19
+pattern:[[20121037]], support:19
+pattern:[[20121037], [23110174]], support:2
+pattern:[[20121037], [23110009]], support:2
+pattern:[[20121037], [15110014]], support:2
+pattern:[[20121037], [23110001]], support:2
+pattern:[[20121037], [22102005]], support:2
+pattern:[[20121037], [15114015]], support:2
+pattern:[[22007005]], support:19
+pattern:[[22007005], [22013022]], support:2
+pattern:[[22007005], [22102014]], support:2
+pattern:[[27410045]], support:19
+pattern:[[27410045], [27000574]], support:2
+pattern:[[22130007]], support:19
+pattern:[[22130007], [22103004]], support:2
+pattern:[[22130007], [27100542]], support:2
+pattern:[[22130007], [15111001]], support:2
+pattern:[[22130007], [22103003]], support:2
+pattern:[[22130007], [22102014]], support:3
+pattern:[[22001038]], support:19
+pattern:[[22001038], [27300274]], support:2
+pattern:[[22001038], [23110009]], support:2
+pattern:[[22001038], [22110003]], support:2
+pattern:[[22001038], [22701014]], support:2
+pattern:[[22130016]], support:19
+pattern:[[22130016], [22120005]], support:2
+pattern:[[22130016], [22170001]], support:2
+pattern:[[22130016], [30380003]], support:2
+pattern:[[22130016], [25120016]], support:2
+pattern:[[22130016], [25111009]], support:2
+pattern:[[22130016], [25111051]], support:2
+pattern:[[22130016], [22102005]], support:2
+pattern:[[22130016], [23110009]], support:3
+pattern:[[22130016], [22130017]], support:5
+pattern:[[22130016], [22130017], [25120016]], support:2
+pattern:[[22130016], [22130017], [23110009]], support:2
+pattern:[[15232001]], support:19
+pattern:[[15232001], [27200938]], support:2
+pattern:[[15232001], [27410000]], support:2
+pattern:[[15232001], [15232004]], support:2
+pattern:[[15232001], [23113027]], support:2
+pattern:[[15232001], [23132068]], support:2
+pattern:[[15232001], [10310051]], support:2
+pattern:[[15232001], [30380003]], support:3
+pattern:[[15232001], [30380003], [15114031]], support:2
+pattern:[[15232001], [15114031]], support:3
+pattern:[[15232001], [15231007]], support:3
+pattern:[[15232001], [30380002]], support:4
+pattern:[[15119001]], support:20
+pattern:[[15119001], [15115003]], support:2
+pattern:[[15119001], [23110009]], support:2
+pattern:[[27410002]], support:20
+pattern:[[22172007]], support:20
+pattern:[[22172007], [22101000]], support:2
+pattern:[[22172007], [25121003]], support:2
+pattern:[[22172007], [25121003], [22103001]], support:2
+pattern:[[22172007], [22103001]], support:2
+pattern:[[22172007], [22172013]], support:2
+pattern:[[22172007], [22102005]], support:2
+pattern:[[22172007], [22102004]], support:3
+pattern:[[22172007], [22130007]], support:3
+pattern:[[15114015]], support:20
+pattern:[[22172000]], support:21
+pattern:[[22172000], [25120016]], support:2
+pattern:[[22172000], [22103004]], support:2
+pattern:[[22172000], [23110009]], support:2
+pattern:[[22172000], [22120028]], support:2
+pattern:[[22172000], [22101000]], support:2
+pattern:[[22172000], [10119020]], support:2
+pattern:[[22172000], [10119020], [22102005]], support:2
+pattern:[[22172000], [22102000]], support:2
+pattern:[[22172000], [11110004]], support:2
+pattern:[[22172000], [15110001]], support:2
+pattern:[[22172000], [27410000]], support:2
+pattern:[[22172000], [15232001]], support:2
+pattern:[[22172000], [15232001], [30380002]], support:2
+pattern:[[22172000], [22101001]], support:3
+pattern:[[22172000], [22102005]], support:3
+pattern:[[22172000], [22102014]], support:3
+pattern:[[22172000], [22103001]], support:3
+pattern:[[22172000], [22132010]], support:3
+pattern:[[22172000], [22132010], [22172008]], support:2
+pattern:[[22172000], [30380003]], support:4
+pattern:[[22172000], [22172008]], support:4
+pattern:[[22172000], [22172008], [22102014]], support:2
+pattern:[[22172000], [30380002]], support:5
+pattern:[[22172000], [30380002], [22102014]], support:2
+pattern:[[22172000], [30380002], [22132010]], support:2
+pattern:[[22172000], [30380002], [22132010], [22172008]], support:2
+pattern:[[22172000], [30380002], [22172008]], support:3
+pattern:[[22172000], [30380002], [22172008], [22102014]], support:2
+pattern:[[22120004]], support:21
+pattern:[[22120004], [22120005]], support:2
+pattern:[[22120004], [22172007]], support:2
+pattern:[[22120004], [22102000]], support:2
+pattern:[[22120004], [22102005]], support:2
+pattern:[[22120004], [22111004]], support:2
+pattern:[[22120004], [22190000]], support:3
+pattern:[[22120004], [22190000], [22111004]], support:2
+pattern:[[22120004], [22013008]], support:3
+pattern:[[21801125]], support:21
+pattern:[[21801125], [23110009]], support:2
+pattern:[[21801125], [27400158]], support:2
+pattern:[[21801125], [22111004]], support:2
+pattern:[[21801125], [27410000]], support:2
+pattern:[[21801125], [27200938]], support:2
+pattern:[[21801125], [22102004]], support:2
+pattern:[[21801125], [22102005]], support:2
+pattern:[[21801125], [22013022]], support:2
+pattern:[[21801125], [27400126]], support:2
+pattern:[[21801125], [27100542]], support:2
+pattern:[[25111009]], support:21
+pattern:[[25111009], [25111051]], support:2
+pattern:[[25111009], [27000582]], support:2
+pattern:[[25111009], [25120016]], support:2
+pattern:[[25111009], [25120016], [23110009]], support:2
+pattern:[[25111009], [30380003]], support:2
+pattern:[[25111009], [27000573]], support:3
+pattern:[[25111009], [23110009]], support:3
+pattern:[[25111009], [27000581]], support:4
+pattern:[[25111009], [27000581], [27000582]], support:2
+pattern:[[22034026]], support:21
+pattern:[[22034026], [30380003]], support:2
+pattern:[[22034026], [23110009]], support:2
+pattern:[[22034026], [10113011]], support:2
+pattern:[[22034026], [22103005]], support:2
+pattern:[[22034026], [22001006]], support:2
+pattern:[[22034026], [22001006], [22008020]], support:2
+pattern:[[22034026], [22102014]], support:2
+pattern:[[22034026], [22008012]], support:2
+pattern:[[22034026], [22008020]], support:3
+pattern:[[22103005]], support:22
+pattern:[[22103005], [22111004]], support:2
+pattern:[[22103005], [22102014]], support:7
+pattern:[[22130017]], support:23
+pattern:[[22130017], [22103004]], support:2
+pattern:[[22130017], [22172008]], support:2
+pattern:[[22130017], [22170001]], support:2
+pattern:[[22130017], [22102001]], support:2
+pattern:[[22130017], [22102005]], support:2
+pattern:[[22130017], [22101000]], support:2
+pattern:[[22130017], [23110174]], support:2
+pattern:[[22130017], [27300274]], support:3
+pattern:[[22130017], [27300274], [22111004]], support:2
+pattern:[[22130017], [22102014]], support:3
+pattern:[[22130017], [22111004]], support:3
+pattern:[[22130017], [22172007]], support:3
+pattern:[[22130017], [22130010]], support:3
+pattern:[[22130017], [22130000]], support:4
+pattern:[[22130017], [22130000], [23110174]], support:2
+pattern:[[22130017], [23110009]], support:4
+pattern:[[22130017], [25120016]], support:4
+pattern:[[22130017], [25120016], [23110009]], support:2
+pattern:[[22130017], [30380002]], support:5
+pattern:[[22130017], [30380003]], support:5
+pattern:[[22130017], [30380003], [22111004]], support:2
+pattern:[[22130017], [30380003], [22102014]], support:2
+pattern:[[22130017], [30380003], [22102001]], support:2
+pattern:[[22130017], [30380003], [22101000]], support:2
+pattern:[[27410044]], support:23
+pattern:[[27410044], [15110014]], support:2
+pattern:[[15202044]], support:24
+pattern:[[15202044], [15130013]], support:2
+pattern:[[24101006]], support:24
+pattern:[[24101006], [23134003]], support:2
+pattern:[[24101006], [27000574]], support:2
+pattern:[[24101006], [24102002]], support:2
+pattern:[[24101006], [21021043]], support:2
+pattern:[[24101006], [25101044]], support:2
+pattern:[[24101006], [23132063]], support:3
+pattern:[[21021043]], support:25
+pattern:[[21021043], [22103005]], support:2
+pattern:[[21021043], [22008021]], support:2
+pattern:[[21021043], [15110014]], support:2
+pattern:[[21021043], [22103004]], support:4
+pattern:[[15110015]], support:25
+pattern:[[22008012]], support:25
+pattern:[[22008012], [23110009]], support:2
+pattern:[[22008012], [14091028]], support:2
+pattern:[[22008012], [15115003]], support:2
+pattern:[[22008012], [15110015]], support:2
+pattern:[[22008012], [22001006]], support:2
+pattern:[[22008012], [15114015]], support:2
+pattern:[[22130000]], support:25
+pattern:[[22130000], [22103004]], support:2
+pattern:[[22130000], [22111004]], support:2
+pattern:[[22130000], [22190000]], support:2
+pattern:[[22130000], [22171000]], support:2
+pattern:[[22130000], [22170001]], support:2
+pattern:[[22130000], [21021043]], support:2
+pattern:[[22130000], [22008019]], support:2
+pattern:[[22130000], [23110174]], support:2
+pattern:[[22130000], [22130007]], support:3
+pattern:[[22130000], [22013022]], support:3
+pattern:[[22130000], [22130011]], support:3
+pattern:[[22130000], [22102014]], support:3
+pattern:[[22130000], [27300274]], support:4
+pattern:[[22130000], [22102004]], support:4
+pattern:[[22103001]], support:25
+pattern:[[22103001], [27100542]], support:2
+pattern:[[22103001], [22102014]], support:2
+pattern:[[22001006]], support:25
+pattern:[[22001006], [15202044]], support:2
+pattern:[[22001006], [22008019]], support:2
+pattern:[[22001006], [22111026]], support:2
+pattern:[[22001006], [22008020]], support:2
+pattern:[[22001006], [22000049]], support:3
+pattern:[[22102000]], support:26
+pattern:[[22102000], [22103004]], support:2
+pattern:[[22102000], [22120004]], support:2
+pattern:[[22102000], [22130010]], support:2
+pattern:[[22102000], [27300274]], support:2
+pattern:[[22102000], [27300274], [27300276]], support:2
+pattern:[[22102000], [27300276]], support:2
+pattern:[[22102000], [22102013]], support:2
+pattern:[[22102000], [22102004]], support:3
+pattern:[[22102000], [22103005]], support:3
+pattern:[[22102000], [22103005], [22102014]], support:2
+pattern:[[22102000], [22500022]], support:3
+pattern:[[22102000], [22500022], [22102014]], support:2
+pattern:[[22102000], [22103001]], support:4
+pattern:[[22102000], [22102014]], support:4
+pattern:[[22102000], [22102005]], support:5
+pattern:[[23132063]], support:26
+pattern:[[30380001]], support:26
+pattern:[[30380001], [23134003]], support:2
+pattern:[[30380001], [23132063]], support:2
+pattern:[[30380001], [23131002]], support:2
+pattern:[[30380001], [30380003]], support:4
+pattern:[[30380001], [30380003], [23131002]], support:2
+pattern:[[22013008]], support:27
+pattern:[[22013008], [22008021]], support:2
+pattern:[[22013008], [22710003]], support:2
+pattern:[[22013008], [23131002]], support:2
+pattern:[[22013008], [22103001]], support:2
+pattern:[[22013008], [15110015]], support:2
+pattern:[[22013008], [22102000]], support:2
+pattern:[[22013008], [22008020]], support:3
+pattern:[[22013008], [27300274]], support:4
+pattern:[[23110006]], support:27
+pattern:[[23110006], [15110071]], support:2
+pattern:[[23110006], [23110009]], support:4
+pattern:[[27410001]], support:27
+pattern:[[27410001], [22500022]], support:2
+pattern:[[27410001], [22102014]], support:2
+pattern:[[27410001], [22102005]], support:2
+pattern:[[27410001], [27410044]], support:2
+pattern:[[27410001], [27410044], [15110014]], support:2
+pattern:[[27410001], [15110014]], support:2
+pattern:[[27410001], [27410003]], support:2
+pattern:[[27200938]], support:27
+pattern:[[27200938], [27410003]], support:2
+pattern:[[27200938], [23110174]], support:2
+pattern:[[27200938], [22701014]], support:2
+pattern:[[27200938], [27000574]], support:2
+pattern:[[27200938], [23132061]], support:2
+pattern:[[27200938], [27000573]], support:2
+pattern:[[27200938], [20121037]], support:2
+pattern:[[27200938], [25120016]], support:2
+pattern:[[27200938], [27300274]], support:2
+pattern:[[27200938], [23110009]], support:2
+pattern:[[27200938], [27410000]], support:3
+pattern:[[27200938], [22008019]], support:3
+pattern:[[22701014]], support:27
+pattern:[[22701014], [15114015]], support:2
+pattern:[[22701014], [23110009]], support:2
+pattern:[[22701014], [23110007]], support:2
+pattern:[[22021260]], support:28
+pattern:[[22021260], [22013008]], support:2
+pattern:[[22021260], [22008020]], support:2
+pattern:[[22021260], [22008021]], support:2
+pattern:[[22021260], [15110015]], support:2
+pattern:[[22021260], [15110076]], support:2
+pattern:[[22021260], [23110009]], support:4
+pattern:[[22013022]], support:28
+pattern:[[15110071]], support:28
+pattern:[[15110071], [23132063]], support:2
+pattern:[[15110071], [23110009]], support:2
+pattern:[[15110071], [22111004]], support:2
+pattern:[[25111048]], support:29
+pattern:[[25111048], [24000333]], support:2
+pattern:[[25111048], [24000333], [27300274]], support:2
+pattern:[[25111048], [24000333], [27300274], [22103007]], support:2
+pattern:[[25111048], [24000333], [22103007]], support:2
+pattern:[[25111048], [22103007]], support:2
+pattern:[[25111048], [22102014]], support:2
+pattern:[[25111048], [25111021]], support:2
+pattern:[[25111048], [27410045]], support:2
+pattern:[[25111048], [27300273]], support:2
+pattern:[[25111048], [27000573]], support:2
+pattern:[[25111048], [27000582]], support:2
+pattern:[[25111048], [22103004]], support:2
+pattern:[[25111048], [27100542]], support:2
+pattern:[[25111048], [30380003]], support:2
+pattern:[[25111048], [27300274]], support:3
+pattern:[[25111048], [27300274], [22103007]], support:2
+pattern:[[25111048], [25111051]], support:3
+pattern:[[25111048], [25101044]], support:4
+pattern:[[22103004]], support:29
+pattern:[[22103004], [22120028]], support:2
+pattern:[[22103004], [27300274]], support:2
+pattern:[[22103004], [22102014]], support:2
+pattern:[[22103004], [22013022]], support:2
+pattern:[[22103004], [22103005]], support:3
+pattern:[[22101000]], support:29
+pattern:[[22101000], [22101001]], support:2
+pattern:[[22101000], [22103000]], support:2
+pattern:[[22101000], [22111029]], support:2
+pattern:[[22101000], [22120028]], support:2
+pattern:[[22101000], [22103005]], support:2
+pattern:[[22101000], [27002174]], support:2
+pattern:[[22101000], [15111001]], support:2
+pattern:[[22101000], [24010000]], support:2
+pattern:[[22101000], [22500022]], support:2
+pattern:[[22101000], [27410000]], support:2
+pattern:[[22101000], [27410000], [22102014]], support:2
+pattern:[[22101000], [22171004]], support:2
+pattern:[[22101000], [22021003]], support:2
+pattern:[[22101000], [25101044]], support:2
+pattern:[[22101000], [15110071]], support:2
+pattern:[[22101000], [15110071], [22111004]], support:2
+pattern:[[22101000], [25120016]], support:3
+pattern:[[22101000], [22170001]], support:3
+pattern:[[22101000], [22111004]], support:3
+pattern:[[22101000], [23110009]], support:4
+pattern:[[22101000], [23110009], [22102014]], support:2
+pattern:[[22101000], [22103001]], support:4
+pattern:[[22101000], [22102005]], support:4
+pattern:[[22101000], [22102005], [22102014]], support:2
+pattern:[[22101000], [22102004]], support:6
+pattern:[[22101000], [22102014]], support:7
+pattern:[[23132061]], support:29
+pattern:[[23132061], [22111004]], support:2
+pattern:[[23132061], [27000573]], support:2
+pattern:[[22008021]], support:30
+pattern:[[22008021], [25110012]], support:2
+pattern:[[22008021], [22102005]], support:2
+pattern:[[22008021], [23132063]], support:2
+pattern:[[23121052]], support:30
+pattern:[[23121052], [27410045]], support:2
+pattern:[[22102004]], support:30
+pattern:[[22102004], [22111029]], support:2
+pattern:[[22102004], [22120028]], support:2
+pattern:[[22102004], [27300276]], support:2
+pattern:[[22102004], [22103005]], support:2
+pattern:[[22102004], [22103005], [22102014]], support:2
+pattern:[[22102004], [22111031]], support:3
+pattern:[[22102004], [23110009]], support:3
+pattern:[[22102004], [23110009], [22102014]], support:2
+pattern:[[22102004], [22102014]], support:5
+pattern:[[22102004], [22102005]], support:5
+pattern:[[22170001]], support:30
+pattern:[[22170001], [24012151]], support:2
+pattern:[[22170001], [22102013]], support:2
+pattern:[[22170001], [27300274]], support:2
+pattern:[[22170001], [27300274], [23110009]], support:2
+pattern:[[22170001], [22171004]], support:2
+pattern:[[22170001], [22008021]], support:2
+pattern:[[22170001], [22111031]], support:2
+pattern:[[22170001], [22111031], [22102014]], support:2
+pattern:[[22170001], [27100542]], support:2
+pattern:[[22170001], [22102004]], support:3
+pattern:[[22170001], [23110009]], support:3
+pattern:[[22170001], [22111004]], support:3
+pattern:[[22170001], [22103004]], support:3
+pattern:[[22170001], [27300276]], support:4
+pattern:[[22170001], [27300276], [23110009]], support:2
+pattern:[[22170001], [22171000]], support:5
+pattern:[[22170001], [22171000], [22102014]], support:4
+pattern:[[22170001], [22102005]], support:7
+pattern:[[22170001], [22102005], [27100542]], support:2
+pattern:[[22170001], [22102005], [22102014]], support:3
+pattern:[[22170001], [22102014]], support:10
+pattern:[[27000574]], support:33
+pattern:[[22601000]], support:34
+pattern:[[22601000], [27300274]], support:2
+pattern:[[22601000], [22013022]], support:2
+pattern:[[22601000], [22103005]], support:2
+pattern:[[22601000], [22008020]], support:2
+pattern:[[22601000], [22701014]], support:2
+pattern:[[22601000], [23131002]], support:2
+pattern:[[22601000], [27100542]], support:2
+pattern:[[22601000], [23110009]], support:3
+pattern:[[22601000], [22102014]], support:3
+pattern:[[22601000], [22001006]], support:3
+pattern:[[27000581]], support:34
+pattern:[[27000581], [21200006]], support:2
+pattern:[[27000581], [21200006], [22190000]], support:2
+pattern:[[27000581], [22120039]], support:2
+pattern:[[27000581], [22190000]], support:2
+pattern:[[27000581], [22101001]], support:2
+pattern:[[27000581], [22101001], [27300276]], support:2
+pattern:[[27000581], [22101001], [22111004]], support:2
+pattern:[[27000581], [27002194]], support:2
+pattern:[[27000581], [22111004]], support:2
+pattern:[[27000581], [25120014]], support:2
+pattern:[[27000581], [23121052]], support:2
+pattern:[[27000581], [27000574]], support:2
+pattern:[[27000581], [27000583]], support:2
+pattern:[[27000581], [27000583], [27200938]], support:2
+pattern:[[27000581], [27200938]], support:2
+pattern:[[27000581], [22170001]], support:2
+pattern:[[27000581], [10001006]], support:2
+pattern:[[27000581], [22008020]], support:2
+pattern:[[27000581], [27300276]], support:3
+pattern:[[27000581], [22102005]], support:3
+pattern:[[27000581], [25101044]], support:3
+pattern:[[27000581], [25120016]], support:7
+pattern:[[27000581], [27000582]], support:10
+pattern:[[22190000]], support:36
+pattern:[[22190000], [22102014]], support:2
+pattern:[[22190000], [22500022]], support:2
+pattern:[[22190000], [25101011]], support:2
+pattern:[[22190000], [27100542]], support:2
+pattern:[[22190000], [22102000]], support:2
+pattern:[[22190000], [22102004]], support:2
+pattern:[[22190000], [22111031]], support:2
+pattern:[[22190000], [23110009]], support:2
+pattern:[[22190000], [22007011]], support:2
+pattern:[[22190000], [22103007]], support:2
+pattern:[[22190000], [24010809]], support:2
+pattern:[[22190000], [11056085]], support:2
+pattern:[[22190000], [15110043]], support:2
+pattern:[[22190000], [22102005]], support:3
+pattern:[[22190000], [22103005]], support:3
+pattern:[[22190000], [27300273]], support:3
+pattern:[[22190000], [22111004]], support:4
+pattern:[[22190000], [22190002]], support:5
+pattern:[[23132068]], support:37
+pattern:[[23132068], [14073020]], support:2
+pattern:[[23132068], [22103004]], support:2
+pattern:[[23132068], [21021043]], support:2
+pattern:[[23132068], [21021043], [22008021]], support:2
+pattern:[[23132068], [22008021]], support:2
+pattern:[[23132068], [27002174]], support:2
+pattern:[[23132068], [14275013]], support:2
+pattern:[[23132068], [22102000]], support:2
+pattern:[[23132068], [23134002]], support:3
+pattern:[[23132068], [22111004]], support:3
+pattern:[[23132068], [22102005]], support:3
+pattern:[[27000576]], support:37
+pattern:[[27000576], [30380002]], support:2
+pattern:[[27000576], [27400855]], support:2
+pattern:[[27000576], [24000373]], support:2
+pattern:[[27000576], [27000573]], support:2
+pattern:[[27000576], [27200924]], support:3
+pattern:[[27000576], [30380003]], support:4
+pattern:[[27000576], [27410003]], support:5
+pattern:[[27000576], [27300273]], support:6
+pattern:[[22034000]], support:37
+pattern:[[22034000], [22008021]], support:2
+pattern:[[22034000], [22190000]], support:2
+pattern:[[22034000], [22102004]], support:2
+pattern:[[22034000], [22102004], [22111031]], support:2
+pattern:[[22034000], [22111031]], support:2
+pattern:[[22034000], [15115003]], support:2
+pattern:[[22034000], [22103005]], support:2
+pattern:[[22034000], [22013022]], support:2
+pattern:[[22034000], [22008001]], support:2
+pattern:[[22034000], [22010034]], support:2
+pattern:[[22034000], [22102014]], support:3
+pattern:[[22034000], [23110009]], support:4
+pattern:[[15200007]], support:37
+pattern:[[15200007], [15130027]], support:2
+pattern:[[15200007], [22601000]], support:2
+pattern:[[15200007], [22008020]], support:2
+pattern:[[15200007], [23110009]], support:2
+pattern:[[15200007], [27000574]], support:2
+pattern:[[15200007], [15114015]], support:2
+pattern:[[15200007], [27002188]], support:2
+pattern:[[15200007], [22500022]], support:3
+pattern:[[15200007], [22103004]], support:3
+pattern:[[15200007], [22102014]], support:4
+pattern:[[25101011]], support:38
+pattern:[[25101011], [22102005]], support:2
+pattern:[[25101011], [22102005], [22102014]], support:2
+pattern:[[25101011], [27002169]], support:2
+pattern:[[25101011], [27002169], [22102014]], support:2
+pattern:[[25101011], [22103005]], support:2
+pattern:[[25101011], [25101044]], support:2
+pattern:[[25101011], [23110007]], support:2
+pattern:[[25101011], [27000573]], support:2
+pattern:[[25101011], [15110044]], support:2
+pattern:[[25101011], [22102014]], support:3
+pattern:[[27000573]], support:38
+pattern:[[27000573], [27000582]], support:2
+pattern:[[22500022]], support:39
+pattern:[[22500022], [22103004]], support:2
+pattern:[[22500022], [23132061]], support:2
+pattern:[[22500022], [27300281]], support:2
+pattern:[[22500022], [22631002]], support:2
+pattern:[[22500022], [23110009]], support:3
+pattern:[[22500022], [22102014]], support:5
+pattern:[[22008020]], support:39
+pattern:[[22008020], [22007005]], support:2
+pattern:[[22008020], [30380002]], support:2
+pattern:[[22008020], [23131002]], support:2
+pattern:[[22008020], [23132061]], support:2
+pattern:[[22008020], [27002169]], support:2
+pattern:[[22008020], [22102005]], support:3
+pattern:[[22008020], [22102014]], support:4
+pattern:[[23134003]], support:39
+pattern:[[23134003], [14142039]], support:2
+pattern:[[23134003], [23121052]], support:2
+pattern:[[23134003], [27200924]], support:2
+pattern:[[23134003], [22008021]], support:2
+pattern:[[23134003], [27100542]], support:2
+pattern:[[23134003], [15110071]], support:2
+pattern:[[23134003], [15115003]], support:2
+pattern:[[23134003], [22013022]], support:2
+pattern:[[23134003], [14300085]], support:2
+pattern:[[23134003], [24010809]], support:2
+pattern:[[23134003], [27000574]], support:3
+pattern:[[23134003], [23110009]], support:4
+pattern:[[23134003], [23110009], [23132063]], support:2
+pattern:[[23134003], [23110006]], support:5
+pattern:[[23134003], [23131002]], support:5
+pattern:[[23134003], [23132063]], support:6
+pattern:[[22111004]], support:40
+pattern:[[22111004], [22013022]], support:2
+pattern:[[22111004], [22103007]], support:2
+pattern:[[22111004], [27000573]], support:2
+pattern:[[22111004], [22101001]], support:2
+pattern:[[22111004], [22101001], [22102014]], support:2
+pattern:[[22111004], [22036000]], support:2
+pattern:[[22111004], [30380002]], support:2
+pattern:[[22111004], [27000574]], support:2
+pattern:[[22111004], [22101000]], support:2
+pattern:[[22111004], [22172007]], support:2
+pattern:[[22111004], [22111031]], support:2
+pattern:[[22111004], [15200007]], support:4
+pattern:[[22111004], [15200007], [22103004]], support:3
+pattern:[[22111004], [22103004]], support:5
+pattern:[[22111004], [22102014]], support:6
+pattern:[[22101001]], support:41
+pattern:[[22101001], [22008012]], support:2
+pattern:[[22101001], [23110009]], support:2
+pattern:[[22101001], [22102005]], support:2
+pattern:[[22101001], [22102005], [22102014]], support:2
+pattern:[[22101001], [22036000]], support:2
+pattern:[[22101001], [22036000], [30380002]], support:2
+pattern:[[22101001], [14905004]], support:2
+pattern:[[22101001], [30380002]], support:2
+pattern:[[22101001], [27002194]], support:2
+pattern:[[22101001], [27300276]], support:2
+pattern:[[22101001], [25120014]], support:2
+pattern:[[22101001], [23121052]], support:2
+pattern:[[22101001], [22132010]], support:2
+pattern:[[22101001], [25101046]], support:2
+pattern:[[22101001], [22130000]], support:2
+pattern:[[22101001], [22000010]], support:2
+pattern:[[22101001], [15110071]], support:2
+pattern:[[22101001], [24010809]], support:2
+pattern:[[22101001], [22102006]], support:2
+pattern:[[22101001], [22102006], [22103005]], support:2
+pattern:[[22101001], [22102006], [22103005], [22102014]], support:2
+pattern:[[22101001], [22102006], [22102014]], support:2
+pattern:[[22101001], [22103000]], support:3
+pattern:[[22101001], [15110001]], support:3
+pattern:[[22101001], [15110001], [22102005]], support:2
+pattern:[[22101001], [15110001], [22102005], [22102014]], support:2
+pattern:[[22101001], [15110001], [22102014]], support:2
+pattern:[[22101001], [22111004]], support:3
+pattern:[[22101001], [22103004]], support:3
+pattern:[[22101001], [22102004]], support:3
+pattern:[[22101001], [22170001]], support:3
+pattern:[[22101001], [22170001], [22102014]], support:2
+pattern:[[22101001], [22103005]], support:4
+pattern:[[22101001], [22103005], [22102014]], support:2
+pattern:[[22101001], [27410000]], support:4
+pattern:[[22101001], [27300274]], support:5
+pattern:[[22101001], [22102014]], support:9
+pattern:[[23120001]], support:41
+pattern:[[23120001], [27300281]], support:2
+pattern:[[23120001], [23110175]], support:2
+pattern:[[23120001], [23110009]], support:2
+pattern:[[23120001], [23132063]], support:2
+pattern:[[23120001], [15232003]], support:2
+pattern:[[23120001], [22034026]], support:2
+pattern:[[23120001], [23132068]], support:2
+pattern:[[23120001], [15200004]], support:2
+pattern:[[23120001], [22111012]], support:2
+pattern:[[23120001], [27100542]], support:2
+pattern:[[23120001], [22103001]], support:2
+pattern:[[23120001], [22035000]], support:2
+pattern:[[23120001], [27300274]], support:3
+pattern:[[23120001], [27300274], [27300281]], support:2
+pattern:[[23120001], [23110001]], support:3
+pattern:[[23120001], [23131002]], support:4
+pattern:[[23120001], [30380003]], support:5
+pattern:[[23120001], [30380003], [23131002]], support:2
+pattern:[[23120001], [30380002]], support:6
+pattern:[[23120001], [30380002], [23131002]], support:2
+pattern:[[15130027]], support:41
+pattern:[[15130027], [22008020]], support:2
+pattern:[[15130027], [22008020], [30380002]], support:2
+pattern:[[15130027], [30380002]], support:2
+pattern:[[15130027], [23131002]], support:2
+pattern:[[15130027], [23132063]], support:2
+pattern:[[15130027], [23110001]], support:2
+pattern:[[15130027], [22170001]], support:2
+pattern:[[15130027], [10435036]], support:2
+pattern:[[15130027], [27300274]], support:2
+pattern:[[15130027], [22013022]], support:2
+pattern:[[15130027], [23110007]], support:2
+pattern:[[15130027], [15110071]], support:2
+pattern:[[15130027], [15114015]], support:2
+pattern:[[15130027], [23134003]], support:3
+pattern:[[15130027], [23110009]], support:4
+pattern:[[15110001]], support:41
+pattern:[[15110001], [22130007]], support:2
+pattern:[[15110001], [30380003]], support:2
+pattern:[[15110001], [27300274]], support:2
+pattern:[[15110001], [22102005]], support:3
+pattern:[[15110001], [22102005], [22102014]], support:2
+pattern:[[15110001], [22102014]], support:3
+pattern:[[15110001], [25101044]], support:3
+pattern:[[22008019]], support:42
+pattern:[[22008019], [23110009]], support:2
+pattern:[[22008019], [22102014]], support:2
+pattern:[[22008019], [22111004]], support:2
+pattern:[[22008019], [22102005]], support:3
+pattern:[[22008019], [22008021]], support:3
+pattern:[[22008019], [22008020]], support:5
+pattern:[[23110007]], support:43
+pattern:[[23110007], [15115034]], support:2
+pattern:[[23110007], [23132063]], support:4
+pattern:[[23110007], [23110009]], support:6
+pattern:[[23110007], [23110009], [23132063]], support:2
+pattern:[[27410003]], support:45
+pattern:[[27410003], [27400126]], support:2
+pattern:[[27410003], [23132063]], support:2
+pattern:[[27410003], [27200924]], support:2
+pattern:[[27410003], [23110009]], support:2
+pattern:[[27410003], [23110009], [23131002]], support:2
+pattern:[[27410003], [23131002]], support:2
+pattern:[[27410003], [15202039]], support:2
+pattern:[[27410003], [27000574]], support:3
+pattern:[[27410003], [27000573]], support:4
+pattern:[[23131002]], support:45
+pattern:[[23131002], [23121052]], support:2
+pattern:[[23131002], [27000574]], support:2
+pattern:[[23131002], [22111004]], support:2
+pattern:[[23131002], [22102014]], support:2
+pattern:[[23131002], [23132063]], support:2
+pattern:[[23131002], [22013022]], support:2
+pattern:[[27100542]], support:49
+pattern:[[27100542], [30380003]], support:2
+pattern:[[27300273]], support:51
+pattern:[[27300273], [27400855]], support:2
+pattern:[[27300273], [25101046]], support:2
+pattern:[[27300273], [23110006]], support:2
+pattern:[[27300273], [11056085]], support:2
+pattern:[[27300273], [11056085], [22111004]], support:2
+pattern:[[27300273], [22111004]], support:2
+pattern:[[27300273], [27000574]], support:2
+pattern:[[27300273], [25130010]], support:2
+pattern:[[27300273], [27410003]], support:4
+pattern:[[27300273], [27200924]], support:4
+pattern:[[27300273], [27000573]], support:4
+pattern:[[27300273], [27410002]], support:4
+pattern:[[27300273], [25101011]], support:5
+pattern:[[27300273], [27000582]], support:7
+pattern:[[27200924]], support:51
+pattern:[[27200924], [27200925]], support:2
+pattern:[[27200924], [15110013]], support:2
+pattern:[[27200924], [27400126]], support:2
+pattern:[[27200924], [14092061]], support:2
+pattern:[[25101044]], support:57
+pattern:[[25101044], [22120004]], support:2
+pattern:[[25101044], [22701014]], support:2
+pattern:[[25101044], [22102014]], support:2
+pattern:[[25101044], [23110009]], support:2
+pattern:[[25101044], [21021045]], support:2
+pattern:[[25101044], [27200924]], support:3
+pattern:[[25101044], [22102005]], support:3
+pattern:[[25101044], [27000573]], support:5
+pattern:[[22102005]], support:63
+pattern:[[22102005], [27002169]], support:2
+pattern:[[22102005], [22102004]], support:2
+pattern:[[22102005], [22102006]], support:2
+pattern:[[22102005], [22111004]], support:2
+pattern:[[22102005], [22007005]], support:2
+pattern:[[22102005], [27000573]], support:2
+pattern:[[22102005], [23110006]], support:2
+pattern:[[22102005], [15114012]], support:2
+pattern:[[22102005], [22500022]], support:3
+pattern:[[22102005], [22103005]], support:3
+pattern:[[22102005], [22103005], [22102014]], support:3
+pattern:[[22102005], [22130007]], support:3
+pattern:[[22102005], [22103004]], support:3
+pattern:[[22102005], [22111031]], support:3
+pattern:[[22102005], [22111031], [22103005]], support:2
+pattern:[[22102005], [22111031], [22103005], [22102014]], support:2
+pattern:[[22102005], [22111031], [22102014]], support:2
+pattern:[[22102005], [23110009]], support:3
+pattern:[[22102005], [27100542]], support:4
+pattern:[[22102005], [22102014]], support:10
+pattern:[[25120016]], support:71
+pattern:[[25120016], [22190002]], support:2
+pattern:[[25120016], [22103004]], support:2
+pattern:[[25120016], [22013008]], support:2
+pattern:[[25120016], [27002169]], support:2
+pattern:[[25120016], [27400855]], support:2
+pattern:[[25120016], [25101011]], support:2
+pattern:[[25120016], [22102005]], support:2
+pattern:[[25120016], [25120036]], support:2
+pattern:[[25120016], [25120036], [27000573]], support:2
+pattern:[[25120016], [30380003]], support:2
+pattern:[[25120016], [23110006]], support:2
+pattern:[[25120016], [27300276]], support:2
+pattern:[[25120016], [22008019]], support:2
+pattern:[[25120016], [22103001]], support:2
+pattern:[[25120016], [22035000]], support:2
+pattern:[[25120016], [22103005]], support:3
+pattern:[[25120016], [22111004]], support:3
+pattern:[[25120016], [27002174]], support:3
+pattern:[[25120016], [27300274]], support:4
+pattern:[[25120016], [22102014]], support:4
+pattern:[[25120016], [27100542]], support:4
+pattern:[[25120016], [25101044]], support:4
+pattern:[[25120016], [27000573]], support:8
+pattern:[[25120016], [23110009]], support:8
+pattern:[[23110001]], support:72
+pattern:[[23110001], [15115003]], support:2
+pattern:[[23110001], [22007005]], support:2
+pattern:[[23110001], [22111004]], support:2
+pattern:[[23110001], [22103006]], support:2
+pattern:[[23110001], [23110006]], support:2
+pattern:[[23110001], [15110071]], support:2
+pattern:[[23110001], [14815001]], support:2
+pattern:[[23110001], [14721020]], support:2
+pattern:[[23110001], [25101044]], support:2
+pattern:[[23110001], [15114015]], support:2
+pattern:[[23110001], [22000049]], support:2
+pattern:[[23110001], [22102005]], support:2
+pattern:[[23110001], [22111029]], support:2
+pattern:[[23110001], [23121052]], support:3
+pattern:[[23110001], [27002194]], support:3
+pattern:[[23110001], [27002194], [22701014]], support:2
+pattern:[[23110001], [23110174]], support:3
+pattern:[[23110001], [22701014]], support:3
+pattern:[[23110001], [27000574]], support:3
+pattern:[[23110001], [27200924]], support:3
+pattern:[[23110001], [27300276]], support:3
+pattern:[[23110001], [27410003]], support:4
+pattern:[[23110001], [27410003], [27000574]], support:2
+pattern:[[23110001], [23110007]], support:4
+pattern:[[23110001], [23110007], [23110009]], support:2
+pattern:[[23110001], [23110007], [23110009], [23132063]], support:2
+pattern:[[23110001], [23110007], [23132063]], support:3
+pattern:[[23110001], [23110009]], support:5
+pattern:[[23110001], [23110009], [23132063]], support:2
+pattern:[[23110001], [23134003]], support:5
+pattern:[[23110001], [23134003], [23132063]], support:2
+pattern:[[23110001], [23131002]], support:7
+pattern:[[23110001], [23132063]], support:8
+pattern:[[27300274]], support:77
+pattern:[[27300274], [22103001]], support:2
+pattern:[[27300274], [27410044]], support:2
+pattern:[[27300274], [15110015]], support:2
+pattern:[[27300274], [15202044]], support:2
+pattern:[[27300274], [22102004]], support:2
+pattern:[[27300274], [23131002]], support:2
+pattern:[[27300274], [10300030]], support:2
+pattern:[[27300274], [22110004]], support:2
+pattern:[[27300274], [24012151]], support:2
+pattern:[[27300274], [23110006]], support:2
+pattern:[[27300274], [21021043]], support:2
+pattern:[[27300274], [15200007]], support:2
+pattern:[[27300274], [30380003]], support:2
+pattern:[[27300274], [22500022]], support:2
+pattern:[[27300274], [22103007]], support:3
+pattern:[[27300274], [23132061]], support:3
+pattern:[[27300274], [27300280]], support:3
+pattern:[[27300274], [27300280], [23110009]], support:3
+pattern:[[27300274], [22120028]], support:3
+pattern:[[27300274], [22102014]], support:3
+pattern:[[27300274], [27300284]], support:3
+pattern:[[27300274], [27410042]], support:3
+pattern:[[27300274], [22103004]], support:3
+pattern:[[27300274], [15110071]], support:3
+pattern:[[27300274], [25101044]], support:4
+pattern:[[27300274], [22111004]], support:4
+pattern:[[27300274], [22120004]], support:4
+pattern:[[27300274], [27300276]], support:5
+pattern:[[27300274], [27300276], [22111004]], support:2
+pattern:[[27300274], [27300281]], support:5
+pattern:[[27300274], [23110009]], support:7
+pattern:[[22102014]], support:79
+pattern:[[27000582]], support:88
+pattern:[[27000582], [22034000]], support:2
+pattern:[[27000582], [23110009]], support:2
+pattern:[[27000582], [15114015]], support:2
+pattern:[[27410000]], support:90
+pattern:[[27410000], [23121052]], support:2
+pattern:[[27410000], [15110015]], support:2
+pattern:[[27410000], [14300086]], support:2
+pattern:[[27410000], [15111001]], support:2
+pattern:[[27410000], [23110007]], support:2
+pattern:[[27410000], [23134003]], support:2
+pattern:[[27410000], [23110006]], support:2
+pattern:[[27410000], [15230003]], support:2
+pattern:[[27410000], [15502036]], support:2
+pattern:[[27410000], [27002165]], support:2
+pattern:[[27410000], [22008019]], support:2
+pattern:[[27410000], [22008020]], support:2
+pattern:[[27410000], [15115000]], support:2
+pattern:[[27410000], [27401758]], support:2
+pattern:[[27410000], [22000049]], support:2
+pattern:[[27410000], [15202006]], support:2
+pattern:[[27410000], [25101046]], support:2
+pattern:[[27410000], [15110014]], support:2
+pattern:[[27410000], [27410003]], support:2
+pattern:[[27410000], [15130009]], support:2
+pattern:[[27410000], [27300276]], support:2
+pattern:[[27410000], [23110009]], support:2
+pattern:[[27410000], [22170001]], support:2
+pattern:[[27410000], [22170001], [22102005]], support:2
+pattern:[[27410000], [27000582]], support:2
+pattern:[[27410000], [15110071]], support:2
+pattern:[[27410000], [27410002]], support:2
+pattern:[[27410000], [27300274]], support:3
+pattern:[[27410000], [22103001]], support:3
+pattern:[[27410000], [27410044]], support:3
+pattern:[[27410000], [27410044], [15110014]], support:2
+pattern:[[27410000], [27200924]], support:3
+pattern:[[27410000], [25130010]], support:3
+pattern:[[27410000], [27300282]], support:3
+pattern:[[27410000], [25101044]], support:3
+pattern:[[27410000], [22102014]], support:3
+pattern:[[27410000], [27410001]], support:3
+pattern:[[27410000], [27410001], [27410044]], support:2
+pattern:[[27410000], [27410001], [27410044], [15110014]], support:2
+pattern:[[27410000], [27410001], [15110014]], support:2
+pattern:[[27410000], [27200925]], support:3
+pattern:[[27410000], [15115001]], support:4
+pattern:[[27410000], [27300273]], support:5
+pattern:[[27410000], [22102005]], support:5
+pattern:[[22036000]], support:117
+pattern:[[22036000], [22103006]], support:2
+pattern:[[22036000], [23110007]], support:2
+pattern:[[22036000], [22172013]], support:2
+pattern:[[22036000], [22130007]], support:2
+pattern:[[22036000], [27100542]], support:2
+pattern:[[22036000], [22010001]], support:2
+pattern:[[22036000], [22008012]], support:2
+pattern:[[22036000], [22120039]], support:2
+pattern:[[22036000], [22101003]], support:2
+pattern:[[22036000], [22120028]], support:2
+pattern:[[22036000], [22100010]], support:2
+pattern:[[22036000], [22103001]], support:2
+pattern:[[22036000], [21021043]], support:2
+pattern:[[22036000], [24101006]], support:2
+pattern:[[22036000], [22171000]], support:2
+pattern:[[22036000], [22171000], [22102014]], support:2
+pattern:[[22036000], [24010809]], support:2
+pattern:[[22036000], [22132010]], support:2
+pattern:[[22036000], [27002555]], support:2
+pattern:[[22036000], [22102013]], support:2
+pattern:[[22036000], [15231007]], support:2
+pattern:[[22036000], [14860022]], support:2
+pattern:[[22036000], [21801125]], support:2
+pattern:[[22036000], [23132061]], support:2
+pattern:[[22036000], [22190002]], support:2
+pattern:[[22036000], [22190002], [22111004]], support:2
+pattern:[[22036000], [27200939]], support:2
+pattern:[[22036000], [22001008]], support:2
+pattern:[[22036000], [22716005]], support:2
+pattern:[[22036000], [15115028]], support:2
+pattern:[[22036000], [25120016]], support:2
+pattern:[[22036000], [22040011]], support:2
+pattern:[[22036000], [22007011]], support:2
+pattern:[[22036000], [22007011], [27000574]], support:2
+pattern:[[22036000], [27410045]], support:2
+pattern:[[22036000], [27000574]], support:2
+pattern:[[22036000], [22034026]], support:2
+pattern:[[22036000], [22172006]], support:2
+pattern:[[22036000], [22172007]], support:2
+pattern:[[22036000], [15116002]], support:2
+pattern:[[22036000], [15116002], [23110009]], support:2
+pattern:[[22036000], [15004036]], support:2
+pattern:[[22036000], [23132072]], support:2
+pattern:[[22036000], [15004045]], support:2
+pattern:[[22036000], [27410042]], support:2
+pattern:[[22036000], [15114000]], support:2
+pattern:[[22036000], [15114000], [15110038]], support:2
+pattern:[[22036000], [23132063]], support:2
+pattern:[[22036000], [15110043]], support:2
+pattern:[[22036000], [15130002]], support:2
+pattern:[[22036000], [27000582]], support:2
+pattern:[[22036000], [22500001]], support:2
+pattern:[[22036000], [15116003]], support:2
+pattern:[[22036000], [22601000]], support:2
+pattern:[[22036000], [15114015]], support:2
+pattern:[[22036000], [23132068]], support:2
+pattern:[[22036000], [20110014]], support:3
+pattern:[[22036000], [15200007]], support:3
+pattern:[[22036000], [15200007], [22500022]], support:2
+pattern:[[22036000], [22500022]], support:3
+pattern:[[22036000], [27300273]], support:3
+pattern:[[22036000], [25101002]], support:3
+pattern:[[22036000], [22001038]], support:3
+pattern:[[22036000], [27410044]], support:3
+pattern:[[22036000], [22172000]], support:3
+pattern:[[22036000], [22172000], [22101000]], support:2
+pattern:[[22036000], [22172008]], support:3
+pattern:[[22036000], [22008020]], support:3
+pattern:[[22036000], [15110001]], support:3
+pattern:[[22036000], [15110001], [22102005]], support:2
+pattern:[[22036000], [15110001], [22102005], [22102014]], support:2
+pattern:[[22036000], [15110001], [22102014]], support:2
+pattern:[[22036000], [22102004]], support:3
+pattern:[[22036000], [22102004], [22102014]], support:2
+pattern:[[22036000], [22103011]], support:3
+pattern:[[22036000], [23121052]], support:3
+pattern:[[22036000], [21200004]], support:3
+pattern:[[22036000], [22034000]], support:3
+pattern:[[22036000], [22130010]], support:3
+pattern:[[22036000], [15110038]], support:3
+pattern:[[22036000], [22007005]], support:3
+pattern:[[22036000], [22001006]], support:3
+pattern:[[22036000], [22102006]], support:3
+pattern:[[22036000], [22102006], [22103005]], support:2
+pattern:[[22036000], [22102006], [22103005], [22102014]], support:2
+pattern:[[22036000], [22102006], [22102014]], support:2
+pattern:[[22036000], [22130017]], support:4
+pattern:[[22036000], [22130017], [22130000]], support:2
+pattern:[[22036000], [22130000]], support:4
+pattern:[[22036000], [22103004]], support:4
+pattern:[[22036000], [27410000]], support:4
+pattern:[[22036000], [27410000], [22102005]], support:2
+pattern:[[22036000], [22102005]], support:4
+pattern:[[22036000], [22102005], [22102014]], support:2
+pattern:[[22036000], [22120004]], support:4
+pattern:[[22036000], [22190000]], support:4
+pattern:[[22036000], [22190000], [15110043]], support:2
+pattern:[[22036000], [22008019]], support:4
+pattern:[[22036000], [22103005]], support:4
+pattern:[[22036000], [22103005], [22102014]], support:2
+pattern:[[22036000], [27300274]], support:5
+pattern:[[22036000], [22101001]], support:5
+pattern:[[22036000], [22101001], [15110001]], support:2
+pattern:[[22036000], [22101001], [15110001], [22102005]], support:2
+pattern:[[22036000], [22101001], [15110001], [22102005], [22102014]], support:2
+pattern:[[22036000], [22101001], [15110001], [22102014]], support:2
+pattern:[[22036000], [22101001], [22102005]], support:2
+pattern:[[22036000], [22101001], [22102005], [22102014]], support:2
+pattern:[[22036000], [22101001], [22102006]], support:2
+pattern:[[22036000], [22101001], [22102006], [22103005]], support:2
+pattern:[[22036000], [22101001], [22102006], [22103005], [22102014]], support:2
+pattern:[[22036000], [22101001], [22102006], [22102014]], support:2
+pattern:[[22036000], [22101001], [22103005]], support:2
+pattern:[[22036000], [22101001], [22103005], [22102014]], support:2
+pattern:[[22036000], [22101001], [22102014]], support:4
+pattern:[[22036000], [22021260]], support:5
+pattern:[[22036000], [22170001]], support:5
+pattern:[[22036000], [22170001], [22171000]], support:2
+pattern:[[22036000], [22170001], [22171000], [22102014]], support:2
+pattern:[[22036000], [22170001], [22102014]], support:4
+pattern:[[22036000], [22111004]], support:6
+pattern:[[22036000], [22111004], [22101001]], support:2
+pattern:[[22036000], [22111004], [22101001], [22102014]], support:2
+pattern:[[22036000], [22111004], [22102014]], support:2
+pattern:[[22036000], [22101000]], support:7
+pattern:[[22036000], [22101000], [22170001]], support:2
+pattern:[[22036000], [22101000], [22102014]], support:3
+pattern:[[22036000], [23110009]], support:10
+pattern:[[22036000], [22102014]], support:12
+pattern:[[22036000], [30380002]], support:13
+pattern:[[22036000], [30380002], [22102013]], support:2
+pattern:[[22036000], [30380002], [27200939]], support:2
+pattern:[[22036000], [30380002], [23110009]], support:2
+pattern:[[22036000], [30380002], [22102014]], support:3
+pattern:[[22036000], [30380003]], support:17
+pattern:[[22036000], [30380003], [22008012]], support:2
+pattern:[[22036000], [30380003], [27300273]], support:2
+pattern:[[22036000], [30380003], [15114000]], support:2
+pattern:[[22036000], [30380003], [15114000], [15110038]], support:2
+pattern:[[22036000], [30380003], [15110038]], support:2
+pattern:[[23110009]], support:172
+pattern:[[23110009], [30380003]], support:2
+pattern:[[23110009], [27300281]], support:2
+pattern:[[23110009], [22008021]], support:2
+pattern:[[23110009], [15115003]], support:2
+pattern:[[23110009], [22103004]], support:2
+pattern:[[23110009], [15202044]], support:2
+pattern:[[23110009], [27410045]], support:2
+pattern:[[23110009], [15114010]], support:2
+pattern:[[23110009], [15410012]], support:2
+pattern:[[23110009], [23112029]], support:2
+pattern:[[23110009], [15131001]], support:2
+pattern:[[23110009], [15111002]], support:2
+pattern:[[23110009], [22500094]], support:2
+pattern:[[23110009], [22701014]], support:2
+pattern:[[23110009], [15231005]], support:2
+pattern:[[23110009], [15114015]], support:2
+pattern:[[23110009], [15110046]], support:2
+pattern:[[23110009], [22021005]], support:2
+pattern:[[23110009], [23132068]], support:2
+pattern:[[23110009], [15004058]], support:2
+pattern:[[23110009], [22007027]], support:3
+pattern:[[23110009], [15110015]], support:3
+pattern:[[23110009], [23121052]], support:3
+pattern:[[23110009], [22111004]], support:3
+pattern:[[23110009], [27100542]], support:3
+pattern:[[23110009], [23132063]], support:3
+pattern:[[23110009], [27000574]], support:3
+pattern:[[23110009], [23132061]], support:3
+pattern:[[23110009], [27002173]], support:3
+pattern:[[23110009], [27300282]], support:4
+pattern:[[23110009], [22013022]], support:4
+pattern:[[23110009], [22103001]], support:4
+pattern:[[23110009], [27410044]], support:4
+pattern:[[23110009], [23134003]], support:4
+pattern:[[23110009], [22102014]], support:7
+pattern:[[23110009], [23131002]], support:8
+pattern:[[30380002]], support:207
+pattern:[[30380002], [14932002]], support:2
+pattern:[[30380002], [15119001]], support:2
+pattern:[[30380002], [10000009]], support:2
+pattern:[[30380002], [15402019]], support:2
+pattern:[[30380002], [15114000]], support:2
+pattern:[[30380002], [14054001]], support:2
+pattern:[[30380002], [23134002]], support:2
+pattern:[[30380002], [15130009]], support:2
+pattern:[[30380002], [10113000]], support:2
+pattern:[[30380002], [10435004]], support:2
+pattern:[[30380002], [22007005]], support:2
+pattern:[[30380002], [15502030]], support:2
+pattern:[[30380002], [15114031]], support:2
+pattern:[[30380002], [15114031], [23110009]], support:2
+pattern:[[30380002], [27400145]], support:2
+pattern:[[30380002], [27400145], [23110009]], support:2
+pattern:[[30380002], [15110031]], support:2
+pattern:[[30380002], [14801002]], support:2
+pattern:[[30380002], [11531038]], support:2
+pattern:[[30380002], [11230070]], support:2
+pattern:[[30380002], [10150006]], support:2
+pattern:[[30380002], [24011002]], support:2
+pattern:[[30380002], [15202044]], support:2
+pattern:[[30380002], [22713001]], support:2
+pattern:[[30380002], [22630000]], support:2
+pattern:[[30380002], [14630008]], support:2
+pattern:[[30380002], [14050015]], support:2
+pattern:[[30380002], [10151002]], support:2
+pattern:[[30380002], [23113026]], support:2
+pattern:[[30380002], [15005000]], support:2
+pattern:[[30380002], [14076012]], support:2
+pattern:[[30380002], [10141039]], support:2
+pattern:[[30380002], [10141039], [23110009]], support:2
+pattern:[[30380002], [22036000]], support:2
+pattern:[[30380002], [10119081]], support:2
+pattern:[[30380002], [10119082]], support:2
+pattern:[[30380002], [15130015]], support:2
+pattern:[[30380002], [22102000]], support:2
+pattern:[[30380002], [15110051]], support:2
+pattern:[[30380002], [14275023]], support:2
+pattern:[[30380002], [14815001]], support:2
+pattern:[[30380002], [14093002]], support:2
+pattern:[[30380002], [14845008]], support:2
+pattern:[[30380002], [14845008], [23110009]], support:2
+pattern:[[30380002], [22500022]], support:2
+pattern:[[30380002], [27002555]], support:2
+pattern:[[30380002], [22102013]], support:2
+pattern:[[30380002], [14513009]], support:2
+pattern:[[30380002], [15104009]], support:2
+pattern:[[30380002], [14661007]], support:2
+pattern:[[30380002], [22714002]], support:2
+pattern:[[30380002], [22715006]], support:2
+pattern:[[30380002], [14661002]], support:2
+pattern:[[30380002], [22111015]], support:2
+pattern:[[30380002], [14280008]], support:2
+pattern:[[30380002], [22008011]], support:2
+pattern:[[30380002], [14860020]], support:2
+pattern:[[30380002], [22103006]], support:2
+pattern:[[30380002], [14020011]], support:2
+pattern:[[30380002], [15503022]], support:2
+pattern:[[30380002], [14901002]], support:2
+pattern:[[30380002], [14655001]], support:2
+pattern:[[30380002], [14750012]], support:2
+pattern:[[30380002], [14750042]], support:2
+pattern:[[30380002], [14721044]], support:2
+pattern:[[30380002], [27200939]], support:2
+pattern:[[30380002], [22102001]], support:2
+pattern:[[30380002], [15115000]], support:2
+pattern:[[30380002], [32416009]], support:2
+pattern:[[30380002], [15502036]], support:2
+pattern:[[30380002], [14905009]], support:2
+pattern:[[30380002], [14905009], [27300282]], support:2
+pattern:[[30380002], [14802056]], support:2
+pattern:[[30380002], [25120014]], support:2
+pattern:[[30380002], [15200007]], support:2
+pattern:[[30380002], [15200007], [15130027]], support:2
+pattern:[[30380002], [20121061]], support:2
+pattern:[[30380002], [15004058]], support:2
+pattern:[[30380002], [10141005]], support:2
+pattern:[[30380002], [10141005], [15110079]], support:2
+pattern:[[30380002], [15110079]], support:2
+pattern:[[30380002], [22101000]], support:2
+pattern:[[30380002], [22101000], [23110009]], support:2
+pattern:[[30380002], [15231004]], support:2
+pattern:[[30380002], [24030062]], support:2
+pattern:[[30380002], [27002194]], support:2
+pattern:[[30380002], [22110004]], support:2
+pattern:[[30380002], [27400302]], support:2
+pattern:[[30380002], [27410045]], support:2
+pattern:[[30380002], [27410045], [27000574]], support:2
+pattern:[[30380002], [14010021]], support:2
+pattern:[[30380002], [24010384]], support:2
+pattern:[[30380002], [24010384], [22170001]], support:2
+pattern:[[30380002], [22130010]], support:2
+pattern:[[30380002], [22001001]], support:2
+pattern:[[30380002], [22001001], [15115031]], support:2
+pattern:[[30380002], [22170003]], support:2
+pattern:[[30380002], [15115031]], support:2
+pattern:[[30380002], [25100113]], support:2
+pattern:[[30380002], [14722066]], support:2
+pattern:[[30380002], [30444029]], support:2
+pattern:[[30380002], [14403013]], support:2
+pattern:[[30380002], [15116003]], support:2
+pattern:[[30380002], [14900008]], support:2
+pattern:[[30380002], [14860025]], support:2
+pattern:[[30380002], [10137012]], support:2
+pattern:[[30380002], [10137012], [23110009]], support:2
+pattern:[[30380002], [15202077]], support:2
+pattern:[[30380002], [22120028]], support:2
+pattern:[[30380002], [14092023]], support:2
+pattern:[[30380002], [15004024]], support:2
+pattern:[[30380002], [22000010]], support:2
+pattern:[[30380002], [14105014]], support:2
+pattern:[[30380002], [14091000]], support:2
+pattern:[[30380002], [15115002]], support:2
+pattern:[[30380002], [14091069]], support:2
+pattern:[[30380002], [10141044]], support:2
+pattern:[[30380002], [14839012]], support:2
+pattern:[[30380002], [15231006]], support:2
+pattern:[[30380002], [14200040]], support:2
+pattern:[[30380002], [22007026]], support:2
+pattern:[[30380002], [14722047]], support:2
+pattern:[[30380002], [22020008]], support:2
+pattern:[[30380002], [15149006]], support:2
+pattern:[[30380002], [24010829]], support:2
+pattern:[[30380002], [15200004]], support:2
+pattern:[[30380002], [10000006]], support:2
+pattern:[[30380002], [14091022]], support:2
+pattern:[[30380002], [15230001]], support:2
+pattern:[[30380002], [15230001], [23135028]], support:2
+pattern:[[30380002], [15114015]], support:2
+pattern:[[30380002], [14013011]], support:2
+pattern:[[30380002], [14202011]], support:2
+pattern:[[30380002], [10200006]], support:2
+pattern:[[30380002], [10200006], [22034000]], support:2
+pattern:[[30380002], [10201020]], support:2
+pattern:[[30380002], [10000010]], support:2
+pattern:[[30380002], [22172012]], support:2
+pattern:[[30380002], [14722073]], support:2
+pattern:[[30380002], [22008019]], support:2
+pattern:[[30380002], [14812007]], support:2
+pattern:[[30380002], [10150003]], support:2
+pattern:[[30380002], [14200020]], support:2
+pattern:[[30380002], [15113000]], support:2
+pattern:[[30380002], [27002169]], support:2
+pattern:[[30380002], [27002169], [22102014]], support:2
+pattern:[[30380002], [14076009]], support:2
+pattern:[[30380002], [10310042]], support:2
+pattern:[[30380002], [10102002]], support:3
+pattern:[[30380002], [22120039]], support:3
+pattern:[[30380002], [22120039], [27300274]], support:2
+pattern:[[30380002], [22120039], [24030062]], support:2
+pattern:[[30380002], [25111048]], support:3
+pattern:[[30380002], [24000333]], support:3
+pattern:[[30380002], [24000333], [27300274]], support:2
+pattern:[[30380002], [10150004]], support:3
+pattern:[[30380002], [14082022]], support:3
+pattern:[[30380002], [14092067]], support:3
+pattern:[[30380002], [14092067], [10137009]], support:2
+pattern:[[30380002], [10137009]], support:3
+pattern:[[30380002], [23113027]], support:3
+pattern:[[30380002], [22013008]], support:3
+pattern:[[30380002], [27200925]], support:3
+pattern:[[30380002], [14860021]], support:3
+pattern:[[30380002], [15202028]], support:3
+pattern:[[30380002], [23135028]], support:3
+pattern:[[30380002], [15000006]], support:3
+pattern:[[30380002], [15000006], [23110009]], support:2
+pattern:[[30380002], [15110069]], support:3
+pattern:[[30380002], [23110175]], support:3
+pattern:[[30380002], [14091005]], support:3
+pattern:[[30380002], [15231007]], support:3
+pattern:[[30380002], [15111001]], support:3
+pattern:[[30380002], [22012011]], support:3
+pattern:[[30380002], [22103004]], support:3
+pattern:[[30380002], [15115034]], support:3
+pattern:[[30380002], [15202037]], support:3
+pattern:[[30380002], [30304027]], support:3
+pattern:[[30380002], [15111005]], support:3
+pattern:[[30380002], [15115007]], support:3
+pattern:[[30380002], [21400005]], support:3
+pattern:[[30380002], [22172007]], support:3
+pattern:[[30380002], [22172007], [22130007]], support:2
+pattern:[[30380002], [22190000]], support:3
+pattern:[[30380002], [22190000], [22111004]], support:2
+pattern:[[30380002], [15115003]], support:3
+pattern:[[30380002], [22102006]], support:3
+pattern:[[30380002], [10008011]], support:3
+pattern:[[30380002], [14845010]], support:3
+pattern:[[30380002], [14845010], [23110009]], support:2
+pattern:[[30380002], [14845010], [14750012]], support:2
+pattern:[[30380002], [23132068]], support:3
+pattern:[[30380002], [22802001]], support:3
+pattern:[[30380002], [27200924]], support:3
+pattern:[[30380002], [25121003]], support:3
+pattern:[[30380002], [22008020]], support:3
+pattern:[[30380002], [22111012]], support:3
+pattern:[[30380002], [22111012], [22111031]], support:2
+pattern:[[30380002], [22111012], [22102014]], support:2
+pattern:[[30380002], [22001038]], support:3
+pattern:[[30380002], [22103001]], support:3
+pattern:[[30380002], [22103001], [22102014]], support:2
+pattern:[[30380002], [15231005]], support:3
+pattern:[[30380002], [27000581]], support:3
+pattern:[[30380002], [22103005]], support:3
+pattern:[[30380002], [20012187]], support:3
+pattern:[[30380002], [22830002]], support:3
+pattern:[[30380002], [23110028]], support:3
+pattern:[[30380002], [22013022]], support:3
+pattern:[[30380002], [23110174]], support:3
+pattern:[[30380002], [23110174], [23110175]], support:2
+pattern:[[30380002], [22034026]], support:3
+pattern:[[30380002], [15110014]], support:3
+pattern:[[30380002], [23110006]], support:3
+pattern:[[30380002], [23110006], [23110009]], support:3
+pattern:[[30380002], [27410003]], support:3
+pattern:[[30380002], [23113023]], support:3
+pattern:[[30380002], [14091007]], support:3
+pattern:[[30380002], [21021043]], support:3
+pattern:[[30380002], [15130035]], support:3
+pattern:[[30380002], [15130035], [23110009]], support:2
+pattern:[[30380002], [27000582]], support:3
+pattern:[[30380002], [15110071]], support:3
+pattern:[[30380002], [24010823]], support:4
+pattern:[[30380002], [24010823], [27300274]], support:2
+pattern:[[30380002], [24010823], [22102014]], support:2
+pattern:[[30380002], [25012012]], support:4
+pattern:[[30380002], [10001003]], support:4
+pattern:[[30380002], [14837003]], support:4
+pattern:[[30380002], [21801125]], support:4
+pattern:[[30380002], [21801125], [22111004]], support:2
+pattern:[[30380002], [23134003]], support:4
+pattern:[[30380002], [25101011]], support:4
+pattern:[[30380002], [25101011], [22102014]], support:2
+pattern:[[30380002], [22021260]], support:4
+pattern:[[30380002], [22021260], [23110009]], support:3
+pattern:[[30380002], [10141038]], support:4
+pattern:[[30380002], [22102004]], support:4
+pattern:[[30380002], [22102004], [22102014]], support:2
+pattern:[[30380002], [22111031]], support:4
+pattern:[[30380002], [22111031], [22171000]], support:2
+pattern:[[30380002], [22111031], [22130007]], support:2
+pattern:[[30380002], [22111031], [22102014]], support:2
+pattern:[[30380002], [22008021]], support:4
+pattern:[[30380002], [22008021], [23132063]], support:2
+pattern:[[30380002], [27300282]], support:4
+pattern:[[30380002], [15115028]], support:4
+pattern:[[30380002], [22111026]], support:4
+pattern:[[30380002], [22111026], [22111004]], support:2
+pattern:[[30380002], [22111026], [22102014]], support:2
+pattern:[[30380002], [27410044]], support:4
+pattern:[[30380002], [27410044], [15110014]], support:2
+pattern:[[30380002], [27100542]], support:4
+pattern:[[30380002], [27000573]], support:4
+pattern:[[30380002], [22103011]], support:4
+pattern:[[30380002], [22103011], [22170001]], support:2
+pattern:[[30380002], [22103011], [22170001], [23110009]], support:2
+pattern:[[30380002], [22103011], [23110009]], support:2
+pattern:[[30380002], [22130011]], support:4
+pattern:[[30380002], [27300276]], support:4
+pattern:[[30380002], [27300276], [22102005]], support:2
+pattern:[[30380002], [15004036]], support:4
+pattern:[[30380002], [15004036], [23110009]], support:2
+pattern:[[30380002], [20121037]], support:4
+pattern:[[30380002], [20121037], [15110014]], support:2
+pattern:[[30380002], [22001006]], support:4
+pattern:[[30380002], [22035000]], support:4
+pattern:[[30380002], [24010809]], support:5
+pattern:[[30380002], [23121052]], support:5
+pattern:[[30380002], [22601000]], support:5
+pattern:[[30380002], [25101044]], support:5
+pattern:[[30380002], [27200938]], support:5
+pattern:[[30380002], [27200938], [20121037]], support:2
+pattern:[[30380002], [22172008]], support:5
+pattern:[[30380002], [22172008], [22170001]], support:2
+pattern:[[30380002], [22172008], [24010809]], support:2
+pattern:[[30380002], [22172008], [22102014]], support:3
+pattern:[[30380002], [22171000]], support:5
+pattern:[[30380002], [22171000], [22102014]], support:3
+pattern:[[30380002], [22130007]], support:5
+pattern:[[30380002], [22130007], [15111001]], support:2
+pattern:[[30380002], [23132063]], support:5
+pattern:[[30380002], [22132010]], support:5
+pattern:[[30380002], [22132010], [22170001]], support:2
+pattern:[[30380002], [22132010], [22102014]], support:2
+pattern:[[30380002], [22132010], [22111031]], support:2
+pattern:[[30380002], [22132010], [22130007]], support:2
+pattern:[[30380002], [22132010], [22172008]], support:2
+pattern:[[30380002], [14092075]], support:5
+pattern:[[30380002], [14092075], [22802001]], support:2
+pattern:[[30380002], [14092075], [15230001]], support:2
+pattern:[[30380002], [14092075], [15230001], [23135028]], support:2
+pattern:[[30380002], [14092075], [23135028]], support:2
+pattern:[[30380002], [27410001]], support:5
+pattern:[[30380002], [27410001], [27410044]], support:2
+pattern:[[30380002], [27410001], [27410044], [15110014]], support:2
+pattern:[[30380002], [27410001], [15110014]], support:2
+pattern:[[30380002], [22008012]], support:6
+pattern:[[30380002], [22008012], [22001006]], support:2
+pattern:[[30380002], [22172005]], support:6
+pattern:[[30380002], [22172005], [22170001]], support:3
+pattern:[[30380002], [23110007]], support:6
+pattern:[[30380002], [22701014]], support:6
+pattern:[[30380002], [22101001]], support:7
+pattern:[[30380002], [22101001], [22008012]], support:2
+pattern:[[30380002], [22101001], [22103005]], support:2
+pattern:[[30380002], [22101001], [27002194]], support:2
+pattern:[[30380002], [22101001], [27300274]], support:2
+pattern:[[30380002], [22101001], [22130000]], support:2
+pattern:[[30380002], [22101001], [22102014]], support:3
+pattern:[[30380002], [25120016]], support:7
+pattern:[[30380002], [25120016], [22111004]], support:2
+pattern:[[30380002], [22130000]], support:7
+pattern:[[30380002], [22130000], [27300274]], support:2
+pattern:[[30380002], [22130000], [22130007]], support:2
+pattern:[[30380002], [22130000], [22190000]], support:2
+pattern:[[30380002], [22130000], [22130011]], support:2
+pattern:[[30380002], [22102005]], support:7
+pattern:[[30380002], [22102005], [22102014]], support:2
+pattern:[[30380002], [22034000]], support:8
+pattern:[[30380002], [22034000], [23110009]], support:2
+pattern:[[30380002], [22034000], [15115003]], support:2
+pattern:[[30380002], [22034000], [22102014]], support:2
+pattern:[[30380002], [22111004]], support:8
+pattern:[[30380002], [22111004], [22102014]], support:2
+pattern:[[30380002], [27410000]], support:9
+pattern:[[30380002], [27410000], [22102005]], support:2
+pattern:[[30380002], [27410000], [15111001]], support:2
+pattern:[[30380002], [27410000], [15502036]], support:2
+pattern:[[30380002], [27410000], [27410001]], support:2
+pattern:[[30380002], [27410000], [27410001], [27410044]], support:2
+pattern:[[30380002], [27410000], [27410001], [27410044], [15110014]], support:2
+pattern:[[30380002], [27410000], [27410001], [15110014]], support:2
+pattern:[[30380002], [27410000], [27410044]], support:2
+pattern:[[30380002], [27410000], [27410044], [15110014]], support:2
+pattern:[[30380002], [27410000], [15110014]], support:2
+pattern:[[30380002], [23110001]], support:9
+pattern:[[30380002], [23110001], [23110009]], support:2
+pattern:[[30380002], [27000574]], support:9
+pattern:[[30380002], [27300274]], support:10
+pattern:[[30380002], [27300274], [22111004]], support:2
+pattern:[[30380002], [23131002]], support:10
+pattern:[[30380002], [15130027]], support:12
+pattern:[[30380002], [15130027], [22170001]], support:2
+pattern:[[30380002], [15130027], [27300274]], support:2
+pattern:[[30380002], [15130027], [23110009]], support:2
+pattern:[[30380002], [15130027], [15110071]], support:2
+pattern:[[30380002], [30380003]], support:13
+pattern:[[30380002], [30380003], [23110009]], support:2
+pattern:[[30380002], [30380003], [23132063]], support:2
+pattern:[[30380002], [30380003], [27300274]], support:2
+pattern:[[30380002], [30380003], [22035000]], support:2
+pattern:[[30380002], [22170001]], support:13
+pattern:[[30380002], [22170001], [22102004]], support:2
+pattern:[[30380002], [22170001], [23110009]], support:2
+pattern:[[30380002], [22170001], [27300276]], support:2
+pattern:[[30380002], [22170001], [22171000]], support:3
+pattern:[[30380002], [22170001], [22171000], [22102014]], support:3
+pattern:[[30380002], [22170001], [22102005]], support:3
+pattern:[[30380002], [22170001], [22102005], [22102014]], support:2
+pattern:[[30380002], [22170001], [22102014]], support:8
+pattern:[[30380002], [22102014]], support:18
+pattern:[[30380002], [23110009]], support:34
+pattern:[[30380002], [23110009], [22013022]], support:2
+pattern:[[30380002], [23110009], [15231005]], support:2
+pattern:[[30380002], [23110009], [15114015]], support:2
+pattern:[[30380002], [23110009], [22102014]], support:3
+pattern:[[30380002], [23110009], [23131002]], support:4
+pattern:[[30380003]], support:382
+pattern:[[30380003], [11220040]], support:2
+pattern:[[30380003], [27400302]], support:2
+pattern:[[30380003], [23110175]], support:2
+pattern:[[30380003], [22713001]], support:2
+pattern:[[30380003], [15111000]], support:2
+pattern:[[30380003], [11532008]], support:2
+pattern:[[30380003], [15110076]], support:2
+pattern:[[30380003], [22103013]], support:2
+pattern:[[30380003], [14837006]], support:2
+pattern:[[30380003], [10201015]], support:2
+pattern:[[30380003], [27410042]], support:2
+pattern:[[30380003], [15202012]], support:2
+pattern:[[30380003], [10119101]], support:2
+pattern:[[30380003], [15410036]], support:2
+pattern:[[30380003], [27002042]], support:2
+pattern:[[30380003], [10141080]], support:2
+pattern:[[30380003], [15110014]], support:2
+pattern:[[30380003], [15110030]], support:2
+pattern:[[30380003], [15115026]], support:2
+pattern:[[30380003], [14834007]], support:2
+pattern:[[30380003], [10201030]], support:2
+pattern:[[30380003], [14750040]], support:2
+pattern:[[30380003], [22711000]], support:2
+pattern:[[30380003], [10151002]], support:2
+pattern:[[30380003], [15242042]], support:2
+pattern:[[30380003], [14750057]], support:2
+pattern:[[30380003], [14750029]], support:2
+pattern:[[30380003], [14223000]], support:2
+pattern:[[30380003], [10000011]], support:2
+pattern:[[30380003], [14121043]], support:2
+pattern:[[30380003], [22102013]], support:2
+pattern:[[30380003], [14200037]], support:2
+pattern:[[30380003], [14054014]], support:2
+pattern:[[30380003], [24010811]], support:2
+pattern:[[30380003], [14082009]], support:2
+pattern:[[30380003], [22111029]], support:2
+pattern:[[30380003], [22102006]], support:2
+pattern:[[30380003], [25111048]], support:2
+pattern:[[30380003], [15503022]], support:2
+pattern:[[30380003], [15503022], [27300274]], support:2
+pattern:[[30380003], [24000333]], support:2
+pattern:[[30380003], [24000333], [27300274]], support:2
+pattern:[[30380003], [15502036]], support:2
+pattern:[[30380003], [15115028]], support:2
+pattern:[[30380003], [22830005]], support:2
+pattern:[[30380003], [33060006]], support:2
+pattern:[[30380003], [33060007]], support:2
+pattern:[[30380003], [11141002]], support:2
+pattern:[[30380003], [14091028]], support:2
+pattern:[[30380003], [22172012]], support:2
+pattern:[[30380003], [22120005]], support:2
+pattern:[[30380003], [10119028]], support:2
+pattern:[[30380003], [10113007]], support:2
+pattern:[[30380003], [14200022]], support:2
+pattern:[[30380003], [22171000]], support:2
+pattern:[[30380003], [22171004]], support:2
+pattern:[[30380003], [27300284]], support:2
+pattern:[[30380003], [10300030]], support:2
+pattern:[[30380003], [22110003]], support:2
+pattern:[[30380003], [14721073]], support:2
+pattern:[[30380003], [14830004]], support:2
+pattern:[[30380003], [14010011]], support:2
+pattern:[[30380003], [14900011]], support:2
+pattern:[[30380003], [27400048]], support:2
+pattern:[[30380003], [22601000]], support:2
+pattern:[[30380003], [22601000], [22102014]], support:2
+pattern:[[30380003], [15201005]], support:2
+pattern:[[30380003], [15110031]], support:2
+pattern:[[30380003], [10150006]], support:2
+pattern:[[30380003], [14835060]], support:2
+pattern:[[30380003], [22008011]], support:2
+pattern:[[30380003], [14260007]], support:2
+pattern:[[30380003], [23110174]], support:2
+pattern:[[30380003], [22103011]], support:2
+pattern:[[30380003], [22100025]], support:2
+pattern:[[30380003], [15404010]], support:2
+pattern:[[30380003], [11531047]], support:2
+pattern:[[30380003], [22034026]], support:2
+pattern:[[30380003], [15121001]], support:2
+pattern:[[30380003], [22001038]], support:2
+pattern:[[30380003], [10113011]], support:2
+pattern:[[30380003], [27000583]], support:2
+pattern:[[30380003], [27000583], [27200938]], support:2
+pattern:[[30380003], [27401715]], support:2
+pattern:[[30380003], [22007031]], support:2
+pattern:[[30380003], [11500027]], support:2
+pattern:[[30380003], [10119102]], support:2
+pattern:[[30380003], [10130002]], support:2
+pattern:[[30380003], [14083002]], support:2
+pattern:[[30380003], [15209009]], support:2
+pattern:[[30380003], [22071000]], support:2
+pattern:[[30380003], [14860022]], support:2
+pattern:[[30380003], [14032018]], support:2
+pattern:[[30380003], [22103006]], support:2
+pattern:[[30380003], [22671079]], support:2
+pattern:[[30380003], [22190002]], support:2
+pattern:[[30380003], [15242044]], support:2
+pattern:[[30380003], [15110013]], support:2
+pattern:[[30380003], [15110000]], support:2
+pattern:[[30380003], [23130075]], support:2
+pattern:[[30380003], [14082011]], support:2
+pattern:[[30380003], [22500022]], support:2
+pattern:[[30380003], [27002440]], support:2
+pattern:[[30380003], [22701009]], support:2
+pattern:[[30380003], [10119013]], support:2
+pattern:[[30380003], [15115014]], support:2
+pattern:[[30380003], [24101000]], support:2
+pattern:[[30380003], [22001001]], support:2
+pattern:[[30380003], [15240010]], support:2
+pattern:[[30380003], [23132072]], support:2
+pattern:[[30380003], [23132072], [23110009]], support:2
+pattern:[[30380003], [10116022]], support:2
+pattern:[[30380003], [10119078]], support:2
+pattern:[[30380003], [14630008]], support:2
+pattern:[[30380003], [14142041]], support:2
+pattern:[[30380003], [15130013]], support:2
+pattern:[[30380003], [32917000]], support:2
+pattern:[[30380003], [10002015]], support:2
+pattern:[[30380003], [10152013]], support:2
+pattern:[[30380003], [14075022]], support:2
+pattern:[[30380003], [14043012]], support:2
+pattern:[[30380003], [14052005]], support:2
+pattern:[[30380003], [14845008]], support:2
+pattern:[[30380003], [14107003]], support:2
+pattern:[[30380003], [15130009]], support:2
+pattern:[[30380003], [14860025]], support:2
+pattern:[[30380003], [22007026]], support:2
+pattern:[[30380003], [14721020]], support:2
+pattern:[[30380003], [22021003]], support:2
+pattern:[[30380003], [27002188]], support:2
+pattern:[[30380003], [27300276]], support:2
+pattern:[[30380003], [11056012]], support:2
+pattern:[[30380003], [14091021]], support:2
+pattern:[[30380003], [14833009]], support:2
+pattern:[[30380003], [22111012]], support:2
+pattern:[[30380003], [15231005]], support:2
+pattern:[[30380003], [10140006]], support:2
+pattern:[[30380003], [24011146]], support:2
+pattern:[[30380003], [30701033]], support:2
+pattern:[[30380003], [11303097]], support:2
+pattern:[[30380003], [22103001]], support:2
+pattern:[[30380003], [21110004]], support:2
+pattern:[[30380003], [22132010]], support:2
+pattern:[[30380003], [22021268]], support:2
+pattern:[[30380003], [22103005]], support:2
+pattern:[[30380003], [11056017]], support:2
+pattern:[[30380003], [34220016]], support:2
+pattern:[[30380003], [27000556]], support:2
+pattern:[[30380003], [22021005]], support:2
+pattern:[[30380003], [15200004]], support:2
+pattern:[[30380003], [15004017]], support:2
+pattern:[[30380003], [15004017], [15004058]], support:2
+pattern:[[30380003], [15004017], [15004058], [15502043]], support:2
+pattern:[[30380003], [15004017], [15502043]], support:2
+pattern:[[30380003], [15004058]], support:2
+pattern:[[30380003], [15004058], [15502043]], support:2
+pattern:[[30380003], [15502043]], support:2
+pattern:[[30380003], [10002022]], support:2
+pattern:[[30380003], [14083003]], support:3
+pattern:[[30380003], [22010001]], support:3
+pattern:[[30380003], [27410002]], support:3
+pattern:[[30380003], [15130034]], support:3
+pattern:[[30380003], [15119007]], support:3
+pattern:[[30380003], [22172006]], support:3
+pattern:[[30380003], [22172006], [23110009]], support:2
+pattern:[[30380003], [22172006], [22172008]], support:2
+pattern:[[30380003], [15012007]], support:3
+pattern:[[30380003], [15012007], [23110009]], support:2
+pattern:[[30380003], [22007027]], support:3
+pattern:[[30380003], [27300281]], support:3
+pattern:[[30380003], [15000006]], support:3
+pattern:[[30380003], [15130024]], support:3
+pattern:[[30380003], [15230001]], support:3
+pattern:[[30380003], [25005060]], support:3
+pattern:[[30380003], [25005060], [23110009]], support:2
+pattern:[[30380003], [22172007]], support:3
+pattern:[[30380003], [15200008]], support:3
+pattern:[[30380003], [10141030]], support:3
+pattern:[[30380003], [27410044]], support:3
+pattern:[[30380003], [22111026]], support:3
+pattern:[[30380003], [22111026], [22110003]], support:2
+pattern:[[30380003], [22172008]], support:3
+pattern:[[30380003], [24101002]], support:3
+pattern:[[30380003], [15230003]], support:3
+pattern:[[30380003], [23121052]], support:3
+pattern:[[30380003], [24012151]], support:3
+pattern:[[30380003], [22034000]], support:3
+pattern:[[30380003], [22111031]], support:3
+pattern:[[30380003], [15114032]], support:3
+pattern:[[30380003], [24010384]], support:3
+pattern:[[30380003], [27400855]], support:3
+pattern:[[30380003], [15231007]], support:3
+pattern:[[30380003], [23134002]], support:3
+pattern:[[30380003], [27410001]], support:3
+pattern:[[30380003], [27410001], [22102005]], support:2
+pattern:[[30380003], [23110190]], support:3
+pattern:[[30380003], [27002555]], support:3
+pattern:[[30380003], [15114031]], support:3
+pattern:[[30380003], [22130010]], support:3
+pattern:[[30380003], [15115034]], support:3
+pattern:[[30380003], [11056085]], support:3
+pattern:[[30380003], [14120013]], support:3
+pattern:[[30380003], [14860020]], support:3
+pattern:[[30380003], [15110071]], support:3
+pattern:[[30380003], [15110038]], support:3
+pattern:[[30380003], [27400158]], support:3
+pattern:[[30380003], [15114013]], support:3
+pattern:[[30380003], [15110069]], support:3
+pattern:[[30380003], [27400118]], support:3
+pattern:[[30380003], [27400118], [15130013]], support:2
+pattern:[[30380003], [27400118], [27400158]], support:2
+pattern:[[30380003], [22103004]], support:3
+pattern:[[30380003], [22830002]], support:3
+pattern:[[30380003], [22830002], [23132063]], support:2
+pattern:[[30380003], [25101046]], support:3
+pattern:[[30380003], [27410045]], support:3
+pattern:[[30380003], [24010809]], support:3
+pattern:[[30380003], [22610103]], support:3
+pattern:[[30380003], [20110014]], support:4
+pattern:[[30380003], [22040009]], support:4
+pattern:[[30380003], [22007005]], support:4
+pattern:[[30380003], [10201016]], support:4
+pattern:[[30380003], [25012012]], support:4
+pattern:[[30380003], [15502039]], support:4
+pattern:[[30380003], [15000007]], support:4
+pattern:[[30380003], [27300282]], support:4
+pattern:[[30380003], [25121003]], support:4
+pattern:[[30380003], [25121003], [22013008]], support:2
+pattern:[[30380003], [15110015]], support:4
+pattern:[[30380003], [22102001]], support:4
+pattern:[[30380003], [15115001]], support:4
+pattern:[[30380003], [15115000]], support:4
+pattern:[[30380003], [15115000], [15115001]], support:3
+pattern:[[30380003], [27400708]], support:4
+pattern:[[30380003], [27400708], [27400126]], support:2
+pattern:[[30380003], [27400708], [27400126], [27400118]], support:2
+pattern:[[30380003], [27400708], [27400126], [27400118], [27400158]], support:2
+pattern:[[30380003], [27400708], [27400126], [27400158]], support:2
+pattern:[[30380003], [27400708], [27400118]], support:2
+pattern:[[30380003], [27400708], [27400118], [27400158]], support:2
+pattern:[[30380003], [27400708], [27400158]], support:2
+pattern:[[30380003], [22103003]], support:4
+pattern:[[30380003], [27200939]], support:4
+pattern:[[30380003], [15114000]], support:4
+pattern:[[30380003], [15114000], [15110038]], support:2
+pattern:[[30380003], [21021043]], support:4
+pattern:[[30380003], [22701014]], support:4
+pattern:[[30380003], [22701014], [23110007]], support:2
+pattern:[[30380003], [15114015]], support:4
+pattern:[[30380003], [15004024]], support:4
+pattern:[[30380003], [22101000]], support:4
+pattern:[[30380003], [22101000], [22102004]], support:2
+pattern:[[30380003], [22000049]], support:4
+pattern:[[30380003], [22000049], [23110009]], support:2
+pattern:[[30380003], [27400126]], support:4
+pattern:[[30380003], [27400126], [27400118]], support:2
+pattern:[[30380003], [27400126], [27400118], [27400158]], support:2
+pattern:[[30380003], [27400126], [27400158]], support:2
+pattern:[[30380003], [21801125]], support:4
+pattern:[[30380003], [15202044]], support:4
+pattern:[[30380003], [22035000]], support:4
+pattern:[[30380003], [15115002]], support:5
+pattern:[[30380003], [15115002], [15110013]], support:2
+pattern:[[30380003], [15115003]], support:5
+pattern:[[30380003], [25101044]], support:5
+pattern:[[30380003], [25101044], [27200924]], support:2
+pattern:[[30380003], [15110044]], support:5
+pattern:[[30380003], [22013008]], support:5
+pattern:[[30380003], [22101001]], support:5
+pattern:[[30380003], [22008012]], support:5
+pattern:[[30380003], [22008012], [23110009]], support:2
+pattern:[[30380003], [24101006]], support:5
+pattern:[[30380003], [15200007]], support:5
+pattern:[[30380003], [15200007], [22102014]], support:2
+pattern:[[30380003], [24010823]], support:5
+pattern:[[30380003], [22130000]], support:5
+pattern:[[30380003], [22130000], [22102014]], support:2
+pattern:[[30380003], [23132068]], support:5
+pattern:[[30380003], [27000574]], support:5
+pattern:[[30380003], [24000373]], support:5
+pattern:[[30380003], [27000573]], support:5
+pattern:[[30380003], [15119000]], support:5
+pattern:[[30380003], [25120036]], support:5
+pattern:[[30380003], [25120036], [23110009]], support:4
+pattern:[[30380003], [22020006]], support:5
+pattern:[[30380003], [22701003]], support:6
+pattern:[[30380003], [27000582]], support:6
+pattern:[[30380003], [22190000]], support:6
+pattern:[[30380003], [22120039]], support:6
+pattern:[[30380003], [22120039], [25121003]], support:2
+pattern:[[30380003], [22120039], [22190000]], support:2
+pattern:[[30380003], [22111004]], support:6
+pattern:[[30380003], [22111004], [22102014]], support:2
+pattern:[[30380003], [15115015]], support:6
+pattern:[[30380003], [22013022]], support:6
+pattern:[[30380003], [22170001]], support:6
+pattern:[[30380003], [22170001], [22102005]], support:2
+pattern:[[30380003], [22170001], [22102005], [27100542]], support:2
+pattern:[[30380003], [22170001], [27100542]], support:2
+pattern:[[30380003], [27410005]], support:6
+pattern:[[30380003], [27410005], [27400855]], support:2
+pattern:[[30380003], [27300273]], support:7
+pattern:[[30380003], [27410003]], support:7
+pattern:[[30380003], [23134003]], support:7
+pattern:[[30380003], [27000581]], support:7
+pattern:[[30380003], [27000581], [25120016]], support:2
+pattern:[[30380003], [27000581], [27000583]], support:2
+pattern:[[30380003], [27000581], [27000583], [27200938]], support:2
+pattern:[[30380003], [27000581], [27200938]], support:2
+pattern:[[30380003], [27000581], [27000582]], support:2
+pattern:[[30380003], [27000581], [22102005]], support:2
+pattern:[[30380003], [27100542]], support:7
+pattern:[[30380003], [27200924]], support:7
+pattern:[[30380003], [22102004]], support:7
+pattern:[[30380003], [22102004], [22111031]], support:2
+pattern:[[30380003], [22102004], [23110009]], support:2
+pattern:[[30380003], [22102004], [22102005]], support:2
+pattern:[[30380003], [22001006]], support:7
+pattern:[[30380003], [22001006], [15202044]], support:2
+pattern:[[30380003], [15130027]], support:8
+pattern:[[30380003], [22008019]], support:8
+pattern:[[30380003], [22008019], [22008021]], support:2
+pattern:[[30380003], [15110001]], support:8
+pattern:[[30380003], [23132063]], support:8
+pattern:[[30380003], [23110007]], support:8
+pattern:[[30380003], [23131002]], support:9
+pattern:[[30380003], [22008020]], support:9
+pattern:[[30380003], [25120016]], support:9
+pattern:[[30380003], [25120016], [23110009]], support:2
+pattern:[[30380003], [25120016], [23110006]], support:2
+pattern:[[30380003], [22008021]], support:9
+pattern:[[30380003], [23110006]], support:10
+pattern:[[30380003], [27200938]], support:10
+pattern:[[30380003], [27200938], [27410000]], support:2
+pattern:[[30380003], [27200938], [25120016]], support:2
+pattern:[[30380003], [27200938], [27300274]], support:2
+pattern:[[30380003], [27300274]], support:11
+pattern:[[30380003], [27300274], [22102014]], support:2
+pattern:[[30380003], [27300274], [27300284]], support:2
+pattern:[[30380003], [27300274], [10300030]], support:2
+pattern:[[30380003], [27410000]], support:11
+pattern:[[30380003], [27410000], [27300273]], support:2
+pattern:[[30380003], [23110001]], support:13
+pattern:[[30380003], [23110001], [23110009]], support:2
+pattern:[[30380003], [23110001], [27300276]], support:2
+pattern:[[30380003], [22102014]], support:14
+pattern:[[30380003], [22102005]], support:15
+pattern:[[30380003], [22102005], [22102014]], support:2
+pattern:[[30380003], [22102005], [23110006]], support:2
+pattern:[[30380003], [22102005], [22111031]], support:2
+pattern:[[30380003], [22102005], [23110009]], support:2
+pattern:[[30380003], [22102005], [27100542]], support:3
+pattern:[[30380003], [23110009]], support:27
+pattern:[[30380003], [23110009], [22007027]], support:2
+pattern:[[30380003], [23110009], [27300282]], support:2
+pattern:[[30380003], [23110009], [23131002]], support:2
+pattern:[[30380003], [23110009], [22102014]], support:2
