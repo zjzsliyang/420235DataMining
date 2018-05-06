@@ -44,7 +44,13 @@ lenth of pattern in `trade_new.csv`:
 
 time cost in different support:
 
+- new
 
+  ![](../res/aii_new.jpg)
+
+- old
+
+  ![](../res/aii_old.jpg)
 
 ### Performance
 

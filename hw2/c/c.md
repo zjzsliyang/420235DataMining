@@ -76,8 +76,6 @@ with different support, we have the following precision and recall:
 
 ![](../res/cline.png)
 
-![](../res/cmem.png)
-
 ### Screenshot
 
 ![](../res/c.jpg)
