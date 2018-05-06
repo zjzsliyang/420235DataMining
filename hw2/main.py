@@ -30,7 +30,7 @@ def find_frequent_patterns(sequential: bool, combined: bool, threshold: int,
                 item_no].apply(set).as_matrix()
         patterns = pyfpgrowth.find_frequent_patterns(data, threshold)
         logging.info('len of frequent patterns: {}'.format(len(patterns)))
-        print(patterns)
+        # print(patterns)
         return patterns
     else:
         if combined:
@@ -47,7 +47,7 @@ def find_frequent_patterns(sequential: bool, combined: bool, threshold: int,
             data = [[[j] for j in i] for i in data]
         patterns = prefixSpan(SquencePattern([], sys.maxsize), data, threshold)
         logging.info('len of frequent patterns: {}'.format(len(patterns)))
-        print_patterns(patterns)
+        # print_patterns(patterns)
         return patterns
 
 
@@ -91,8 +91,10 @@ def verification(patterns, sequential: bool, item_no: str, is_new: bool):
 
 def main():
     logging.basicConfig(level=logging.INFO)
-    patterns = find_frequent_patterns(sequential=True, combined=True,
-                                      threshold=2, item_no='pluno', is_new=True)
+    thresholds = [10, 8, 6, 4, 2]
+    for threshold in thresholds:
+        patterns = find_frequent_patterns(sequential=True, combined=True,
+                                      threshold=threshold, item_no='bndno', is_new=True)
     # verification(patterns=patterns, sequential=False, item_no='pluno', is_new=True)
 
 
