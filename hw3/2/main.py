@@ -1,14 +1,19 @@
+import os
 import math
 import pandas
+import pickle
 import logging
 from datetime import datetime
 from collections import defaultdict
+
+preprocessed_path = os.getcwd() + '/preprocessed_trade.pkl'
 
 
 def preprocessing():
     start = datetime.now()
 
-    types = {'uid': str, 'vipno': str, 'pluno': str, 'spec': str, 'pkunit': str, 'dptno': str, 'bndname': str}
+    types = {'uid': str, 'vipno': str, 'pluno': str, 'spec': str, 'pkunit': str,
+             'dptno': str, 'bndname': str}
     df = pandas.read_csv('../../data/reco_data/trade_new.csv',
                          dtype=types)
     df['sldatime'] = pandas.to_datetime(df['sldatime'])
@@ -30,7 +35,8 @@ def preprocessing():
             return 5
 
     df['age_range'] = [condition(x) for x in df['cmrid']]
-    df.drop(['pno', 'cno', 'cmrid', 'bcd', 'id', 'disamt', 'mdocno', 'isdel'], axis=1, inplace=True)
+    df.drop(['pno', 'cno', 'cmrid', 'bcd', 'id', 'disamt', 'mdocno', 'isdel'],
+            axis=1, inplace=True)
     alias = {'uid': 'order_id', 'sldatime': 'order_time', 'vipno': 'vip_no',
              'pluno': 'item_id', 'pluname': 'item_name',
              'spec': 'item_specification', 'pkunit': 'item_unit',
@@ -39,20 +45,15 @@ def preprocessing():
              'ismmx': 'promotion', 'mtype': 'promotion_type'}
     df.rename(columns=alias, inplace=True)
 
-    print(df)
-    for index, row in df.iterrows():
-        if type(row['promotion_type']) is str:
-            if '快讯促销' not in row['promotion_type']:
-                print(row['promotion_type'])
-        else:
-            if not math.isnan(row['promotion_type']):
-                print(row['promotion_type'])
-
+    f = open(preprocessed_path, 'wb')
+    pickle.dump(df, f)
     logging.info('time cost in preprocessing: ' + str(datetime.now() - start))
 
 
 def features():
-    pass
+    f = open(preprocessed_path, 'rb')
+    df = pickle.load(f)
+    print(df)
 
 
 if __name__ == '__main__':

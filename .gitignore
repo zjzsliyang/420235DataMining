@@ -104,3 +104,4 @@ ENV/
 *.docx
 *.lprof
 *.pdf
+*.pkl
