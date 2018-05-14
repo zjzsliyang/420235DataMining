@@ -19,13 +19,12 @@ august = pandas.Timestamp(2016, 8, 1)
 def preprocessing():
     start = datetime.now()
 
-    types = {'uid': str, 'vipno': str, 'pluno': str, 'spec': str, 'pkunit': str,
-             'dptno': str, 'bndname': str}
-    df = pandas.read_csv('../../data/reco_data/trade_new.csv',
-                         dtype=types)
+    types = {'uid': str, 'vipno': str, 'pluno': str, 'spec': str, 'pkunit': str, 'dptno': str, 'bndname': str}
+    df = pandas.read_csv('../../data/reco_data/trade_new.csv', dtype=types)
     df['sldatime'] = pandas.to_datetime(df['sldatime'])
     df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
     df = df[df.isdel == 0]
+    df['count'] = 1
     df['purchase_day'] = df['sldatime'].dt.date
     df['bndno'].fillna(-1, inplace=True)
     df['gender'] = [1 if '男' in x else 0 for x in df['cmrid']]
@@ -43,14 +42,11 @@ def preprocessing():
             return 5
 
     df['age_range'] = [condition(x) for x in df['cmrid']]
-    df.drop(['pno', 'cno', 'cmrid', 'bcd', 'id', 'disamt', 'mdocno', 'isdel'],
-            axis=1, inplace=True)
-    alias = {'uid': 'order_id', 'sldatime': 'order_time', 'vipno': 'vip_no',
-             'pluno': 'item_id', 'pluname': 'item_name',
-             'spec': 'item_specification', 'pkunit': 'item_unit',
-             'dptno': 'category_no', 'bndno': 'brand_no',
-             'bndname': 'brand_name', 'qty': 'quantity', 'amt': 'amount',
-             'ismmx': 'promotion', 'mtype': 'promotion_type'}
+    df.drop(['pno', 'cno', 'cmrid', 'bcd', 'id', 'disamt', 'mdocno', 'isdel'], axis=1, inplace=True)
+    alias = {'uid': 'order_id', 'sldatime': 'order_time', 'vipno': 'vip_no', 'pluno': 'item_id', 'pluname': 'item_name',
+             'spec': 'item_specification', 'pkunit': 'item_unit', 'dptno': 'category_no', 'bndno': 'brand_no',
+             'bndname': 'brand_name', 'qty': 'quantity', 'amt': 'amount', 'ismmx': 'promotion',
+             'mtype': 'promotion_type'}
     df.rename(columns=alias, inplace=True)
 
     f = open(preprocessed_path, 'wb')
@@ -75,5 +71,5 @@ def features():
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
-    # preprocessing()
+    preprocessing()
     features()
