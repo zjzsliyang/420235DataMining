@@ -26,7 +26,6 @@ def preprocessing():
     df['sldatime'] = pandas.to_datetime(df['sldatime'])
     df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
     df = df[df.isdel == 0]
-    df['count'] = 1
     df['purchase_day'] = df['sldatime'].dt.date
     df['bndno'].fillna(-1, inplace=True)
     df['gender'] = [1 if '男' in x else 0 for x in df['cmrid']]
@@ -61,16 +60,20 @@ def preprocessing():
 
 
 def features():
+    start = datetime.now()
+
     f = open(preprocessed_path, 'rb')
     df = pickle.load(f)
     df_feb_april = df.loc[(df['order_time'] > feb) & (df['order_time'] < may)]
     df_may = df.loc[(df['order_time'] > may) & (df['order_time'] < june)]
 
-    feature = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    feature = defaultdict(lambda: defaultdict(dict))
     generate_features.count(df_feb_april, feature)
+
+    logging.info('time cost in features: ' + str(datetime.now() - start))
 
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.DEBUG)
-    preprocessing()
+    # preprocessing()
     features()
