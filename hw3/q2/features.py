@@ -37,9 +37,9 @@ def count(df: pandas.DataFrame, features: defaultdict):
                 for time, item in obj_value.items():
                     tmp += item
                     features[period[0] + brief(objects[duo_index[0]], objects[duo_index[1]]) + norm][obj_key][time] = \
-                    norms[norm](item)
+                        norms[norm](item)
                 features[period[1] + brief(objects[duo_index[0]], objects[duo_index[1]]) + norm][obj_key][period[1]] = \
-                norms[norm](item)
+                    norms[norm](tmp)
 
 
 def product_diversity(df: pandas.DataFrame, features: defaultdict):
