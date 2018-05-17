@@ -75,7 +75,15 @@ def penetration(df: pandas.DataFrame, features: defaultdict):
 
     for index, row in df.iterrows():
         for obj in objects[1:]:
-            raw[period[0] + brief(obj) + 'unique'][row[obj]][row['order_time'].month].add(row[objects[0]])
+            raw[period[0] + brief(obj) + 'unique_vip'][row[obj]][row['order_time'].month].add(row[objects[0]])
+
+    for obj in objects[1:]:
+        for obj_key, obj_value in raw[period[0] + brief(obj) + 'unique_vip'].items():
+            tmp = set()
+            for time, item in obj_value.items():
+                tmp.update(item)
+                features[period[0] + brief(obj) + 'unique_vip'][obj_key][time] = len(item)
+            features[period[1] + brief(obj) + 'unique_vip'][obj_key][period[1]] = len(tmp)
 
 
 # PART II: AGG feature
