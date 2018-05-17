@@ -50,9 +50,22 @@ def product_diversity(df: pandas.DataFrame, features: defaultdict):
     for index, row in df.iterrows():
         for obj in objects[1:]:
             raw[period[0] + brief(obj) + 'unique'][row[objects[0]]][row['order_time'].month].add(row[obj])
-
         raw[period[0] + brief(objects[1], object[2]) + 'unique'][(row[objects[1]], row[objects[2]])][
             row['order_time'].month].add(row[objects[3]])
+
+    for obj in objects[1:]:
+        for obj_key, obj_value in raw[period[0] + brief(obj) + 'unique'].items():
+            tmp = set()
+            for time, item in obj_value.items():
+                tmp.update(item)
+                features[period[0] + brief(obj) + 'unique'][obj_key][time] = len(item)
+            features[period[1] + brief(obj) + 'unique'][obj_key][period[1]] = len(tmp)
+        for obj_key, obj_value in raw[period[0] + brief(objects[1], object[2]) + 'unique'].items():
+            tmp = set()
+            for time, item in obj_value.items():
+                tmp.update(item)
+                features[period[0] + brief(objects[1], object[2]) + 'unique'][obj_key][time] = len(item)
+            features[period[1] + brief(objects[1], object[2]) + 'unique'][obj_key][period[1]] = len(tmp)
 
 
 def penetration(df: pandas.DataFrame, features: defaultdict):
