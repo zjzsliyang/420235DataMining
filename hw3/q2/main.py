@@ -64,7 +64,7 @@ def features():
     df_may = df.loc[(df['order_time'] > may) & (df['order_time'] < june)]
 
     feature = defaultdict(lambda: defaultdict(dict))
-    generate_features.count(df_feb_april, feature)
+    generate_features.generate_feature(df_feb_april, feature)
 
     logging.info('time cost in features: ' + str(datetime.now() - start))
 

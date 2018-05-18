@@ -1,3 +1,4 @@
+import numpy
 import pandas
 from collections import defaultdict
 
@@ -88,7 +89,14 @@ def penetration(df: pandas.DataFrame, features: defaultdict):
 
 # PART II: AGG feature
 def month_agg(df: pandas.DataFrame, features: defaultdict):
-    pass
+    agg = {'mean': numpy.mean, 'std': numpy.std, 'max': numpy.max, 'median': numpy.median}
+
+    for raw_feature in features.keys():
+        if 'month' in raw_feature:
+            for obj_key, obj_value in features[raw_feature].item():
+                agg_feature = raw_feature.replace('month', 'agg')
+                for agg_name, agg_method in agg.items():
+                    features[agg_feature][obj_key][agg_name] = agg_method(numpy.array(obj_value.values()))
 
 
 def user_agg(df: pandas.DataFrame, features: defaultdict):
@@ -115,3 +123,23 @@ def repeat_feature(df: pandas.DataFrame, features: defaultdict):
 
 def market_share(df: pandas.DataFrame, features: defaultdict):
     pass
+
+
+def generate_feature(df: pandas.DataFrame, features: defaultdict):
+    # PART I: count/ratio
+    count(df, features)
+    product_diversity(df, features)
+    penetration(df, features)
+
+    # PART II: AGG feature
+    month_agg(df, features)
+    user_agg(df, features)
+    obj_agg(df, features)
+
+    # PART III: last week/ last month feature
+    recent_feature(df, features)
+
+    # PART IV: complex feature
+    trend(df, features)
+    repeat_feature(df, features)
+    market_share(df, features)
