@@ -94,22 +94,37 @@ def month_agg(df: pandas.DataFrame, features: defaultdict):
     for raw_feature in features.keys():
         if 'month' in raw_feature:
             for obj_key, obj_value in features[raw_feature].item():
-                agg_feature = raw_feature.replace('month', 'agg')
+                agg_feature = raw_feature.replace('month', 'month_agg')
                 for agg_name, agg_method in agg.items():
                     features[agg_feature][obj_key][agg_name] = agg_method(numpy.array(obj_value.values()))
 
 
 def user_agg(df: pandas.DataFrame, features: defaultdict):
-    pass
+    # TODO:
+    objects = ['vip_no', 'brand_no', 'category_no', 'item_id']
+    norms = {'count': list.__len__, 'amount': sum, 'purchase_day': (lambda x: len(set(x)))}
+    agg = {'mean': numpy.mean, 'std': numpy.std, 'max': numpy.max, 'median': numpy.median}
+
+    for raw_feature in features.keys():
+        norm = set(norms.keys()).intersection(set(raw_feature.split('_')))
+        if 'month' in raw_feature and brief(objects[0]) in raw_feature and norm:
+            for obj_key, obj_value in features[raw_feature].item():
+                agg_feature = raw_feature.replace('month', 'user_agg')
 
 
 def obj_agg(df: pandas.DataFrame, features: defaultdict):
-    pass
+    # TODO:
+    agg = {'mean': numpy.mean, 'std': numpy.std, 'max': numpy.max, 'median': numpy.median}
 
 
 # PART III: last week/ last month feature
 def recent_feature(df: pandas.DataFrame, features: defaultdict):
-    pass
+    period = ['last_month', 'last_week']
+    month_begin = df['order_time'].max - pandas.offsets.relativedelta(months=1)
+    week_begin = df['order_time'].max - pandas.offsets.relativedelta(weeks=1)
+    last_month_df = df.loc[(df['order_time'] > month_begin)]
+    last_week_df = df.loc[(df['order_time'] > week_begin)]
+    # TODO: partial function
 
 
 # PART IV: complex feature
