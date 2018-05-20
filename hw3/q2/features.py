@@ -100,16 +100,26 @@ def month_agg(df: pandas.DataFrame, features: defaultdict):
 
 
 def user_agg(df: pandas.DataFrame, features: defaultdict):
-    # TODO:
     objects = ['vip_no', 'brand_no', 'category_no', 'item_id']
     norms = {'count': list.__len__, 'amount': sum, 'purchase_day': (lambda x: len(set(x)))}
     agg = {'mean': numpy.mean, 'std': numpy.std, 'max': numpy.max, 'median': numpy.median}
+    raw = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    tmp = defaultdict(lambda: defaultdict(dict))
 
-    for raw_feature in features.keys():
-        norm = set(norms.keys()).intersection(set(raw_feature.split('_')))
-        if 'month' in raw_feature and brief(objects[0]) in raw_feature and norm:
-            for obj_key, obj_value in features[raw_feature].item():
-                agg_feature = raw_feature.replace('month', 'user_agg')
+    for index, row in df.iterrows():
+        for norm in norms.keys():
+            for obj in objects[1:]:
+                raw['user_agg' + brief(obj) + norm][row[obj]][row[objects[0]]].append(row[norm])
+
+    for norm in norms.keys():
+        for obj in objects[1:]:
+            agg_feature = 'user_agg' + brief(obj) + norm
+            for obj_key, obj_value in raw[agg_feature].items():
+                for user, item in obj_value.items():
+                    tmp[agg_feature][obj_key][user] = norms[norm](item)
+            for obj_key, obj_value in tmp[agg_feature].items():
+                for agg_name, agg_method in agg.items():
+                    features[agg_feature][obj_key][agg_name] = agg_method(numpy.array(obj_value.values()))
 
 
 def obj_agg(df: pandas.DataFrame, features: defaultdict):
@@ -129,6 +139,9 @@ def recent_feature(df: pandas.DataFrame, features: defaultdict):
 
 # PART IV: complex feature
 def trend(df: pandas.DataFrame, features: defaultdict):
+    # regression using least squares, using slope as trend
+
+    # calculate normalized mean of the last month and the previous months
     pass
 
 
@@ -137,6 +150,10 @@ def repeat_feature(df: pandas.DataFrame, features: defaultdict):
 
 
 def market_share(df: pandas.DataFrame, features: defaultdict):
+    pass
+
+
+def similarity(df: pandas.DataFrame, features: defaultdict):
     pass
 
 
