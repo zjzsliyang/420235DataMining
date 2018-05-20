@@ -51,7 +51,7 @@ def product_diversity(df: pandas.DataFrame, features: defaultdict):
     for index, row in df.iterrows():
         for obj in objects[1:]:
             raw[period[0] + brief(obj) + 'unique'][row[objects[0]]][row['order_time'].month].add(row[obj])
-        raw[period[0] + brief(objects[1], object[2]) + 'unique'][(row[objects[1]], row[objects[2]])][
+        raw[period[0] + brief(objects[1], objects[2]) + 'unique'][(row[objects[1]], row[objects[2]])][
             row['order_time'].month].add(row[objects[3]])
 
     for obj in objects[1:]:
@@ -61,12 +61,12 @@ def product_diversity(df: pandas.DataFrame, features: defaultdict):
                 tmp.update(item)
                 features[period[0] + brief(obj) + 'unique'][obj_key][time] = len(item)
             features[period[1] + brief(obj) + 'unique'][obj_key][period[1]] = len(tmp)
-        for obj_key, obj_value in raw[period[0] + brief(objects[1], object[2]) + 'unique'].items():
+        for obj_key, obj_value in raw[period[0] + brief(objects[1], objects[2]) + 'unique'].items():
             tmp = set()
             for time, item in obj_value.items():
                 tmp.update(item)
-                features[period[0] + brief(objects[1], object[2]) + 'unique'][obj_key][time] = len(item)
-            features[period[1] + brief(objects[1], object[2]) + 'unique'][obj_key][period[1]] = len(tmp)
+                features[period[0] + brief(objects[1], objects[2]) + 'unique'][obj_key][time] = len(item)
+            features[period[1] + brief(objects[1], objects[2]) + 'unique'][obj_key][period[1]] = len(tmp)
 
 
 def penetration(df: pandas.DataFrame, features: defaultdict):
@@ -123,8 +123,26 @@ def user_agg(df: pandas.DataFrame, features: defaultdict):
 
 
 def obj_agg(df: pandas.DataFrame, features: defaultdict):
-    # TODO:
+    objects = ['vip_no', 'brand_no', 'category_no', 'item_id']
+    norms = {'count': list.__len__, 'amount': sum, 'purchase_day': (lambda x: len(set(x)))}
     agg = {'mean': numpy.mean, 'std': numpy.std, 'max': numpy.max, 'median': numpy.median}
+    raw = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    tmp = defaultdict(lambda: defaultdict(dict))
+
+    for index, row in df.iterrows():
+        for norm in norms.keys():
+            for obj in objects[1:]:
+                raw['obj_agg' + brief(obj) + norm][row[objects[0]]][row[obj]].append(row[norm])
+
+    for norm in norms.keys():
+        for obj in objects[1:]:
+            agg_feature = 'obj_agg' + brief(obj) + norm
+            for user_key, user_value in raw[agg_feature].items():
+                for obj_name, item in user_value.items():
+                    tmp[agg_feature][user_key][obj_name] = norms[norm](item)
+            for user_key, user_value in tmp[agg_feature].items():
+                for agg_name, agg_method in agg.items():
+                    features[agg_feature][user_key][agg_name] = agg_method(numpy.array(user_value.values()))
 
 
 # PART III: last week/ last month feature
