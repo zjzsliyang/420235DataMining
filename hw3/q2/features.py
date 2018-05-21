@@ -1,5 +1,7 @@
 import numpy
 import pandas
+import operator
+from scipy import stats
 from collections import defaultdict
 
 
@@ -152,19 +154,70 @@ def recent_feature(df: pandas.DataFrame, features: defaultdict):
     week_begin = df['order_time'].max - pandas.offsets.relativedelta(weeks=1)
     last_month_df = df.loc[(df['order_time'] > month_begin)]
     last_week_df = df.loc[(df['order_time'] > week_begin)]
-    # TODO: partial function
+    # TODO: use partial function
 
 
 # PART IV: complex feature
 def trend(df: pandas.DataFrame, features: defaultdict):
-    # regression using least squares, using slope as trend
+    # use z-score to normalize
+    for feature_name, feature_value in features.keys():
+        if 'monthly' in feature_name:
+            for obj_key, obj_value in feature_value.items():
+                coefficient = numpy.vstack([obj_value.keys(), numpy.ones(len(obj_value.keys()))]).T
+                trend_slope = feature_name.replace('monthly', 'trend_slope')
+                features[trend_slope][obj_key]['slope'] = numpy.linalg.lstsq(coefficient, obj_value.values())[0]
 
-    # calculate normalized mean of the last month and the previous months
-    pass
+                trend_bias = feature_name.replace('monthly', 'trend_bias')
+                index, last_month = max(enumerate(obj_value.keys()), key=operator.itemgetter(1))
+                all_value = numpy.array(obj_value.values())
+                features[trend_bias][obj_key]['bias'] = stats.zscore(all_value)[index]
 
 
 def repeat_feature(df: pandas.DataFrame, features: defaultdict):
-    pass
+    objects = ['vip_no', 'brand_no', 'category_no', 'item_id']
+    raw = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+
+    # group by brand/category/item
+    for index, row in df.iterrows():
+        for obj in objects[1:]:
+            raw['repeat' + brief(obj) + brief(objects[0])][row[obj]][row['order_time']].append(row[objects[0]])
+
+    for obj in objects[1:]:
+        for obj_key, obj_value in raw['repeat' + brief(obj) + brief(objects[0])].items():
+            tmp = {}
+            for time, vips in obj_value.items():
+                for vip in vips:
+                    tmp.setdefault(vip, set()).add(time)
+            count = [key for key, values in tmp.items() if len(values) > 1].__len__()
+            total = tmp.keys().__len__()
+            features['repeat' + brief(obj) + brief(objects[0])][obj_key]['count'] = count
+            features['repeat' + brief(obj) + brief(objects[0])][obj_key]['total'] = total
+
+            count = [key for key, values in obj_value.items() if len(values) > 1].__len__()
+            total = obj_value.keys().__len__()
+            features['repeat' + brief(obj) + 'day'][obj_key]['count'] = count
+            features['repeat' + brief(obj) + 'day'][obj_key]['total'] = total
+
+    # group by vip
+    for index, row in df.iterrows():
+        for obj in objects[1:]:
+            raw['repeat' + brief(objects[0]) + brief(obj)][row[objects[0]]][row['order_time']].append(row[obj])
+
+    for obj in objects[1:]:
+        for obj_key, obj_value in raw['repeat' + brief(objects[0]) + brief(obj)].items():
+            tmp = {}
+            for time, vips in obj_value.items():
+                for vip in vips:
+                    tmp.setdefault(vip, set()).add(time)
+            count = [key for key, values in tmp.items() if len(values) > 1].__len__()
+            total = tmp.keys().__len__()
+            features['repeat' + brief(objects[0]) + brief(obj)][obj_key]['count'] = count
+            features['repeat' + brief(objects[0]) + brief(obj)][obj_key]['total'] = total
+
+            count = [key for key, values in obj_value.items() if len(values) > 1].__len__()
+            total = obj_value.keys().__len__()
+            features['repeat' + brief(objects[0]) + 'day'][obj_key]['count'] = count
+            features['repeat' + brief(objects[0]) + 'day'][obj_key]['total'] = total
 
 
 def market_share(df: pandas.DataFrame, features: defaultdict):
@@ -193,3 +246,4 @@ def generate_feature(df: pandas.DataFrame, features: defaultdict):
     trend(df, features)
     repeat_feature(df, features)
     market_share(df, features)
+    similarity(df, features)

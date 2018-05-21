@@ -65,6 +65,7 @@ def features():
 
     feature = defaultdict(lambda: defaultdict(dict))
     generate_features.generate_feature(df_feb_april, feature)
+    generate_labels.generate_labels(df_may, feature)
 
     logging.info('time cost in features: ' + str(datetime.now() - start))
 
