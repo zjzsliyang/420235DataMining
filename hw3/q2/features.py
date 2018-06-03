@@ -232,7 +232,7 @@ def repeat_feature(df: pandas.DataFrame, features: defaultdict):
 
 def market_share(df: pandas.DataFrame, features: defaultdict):
     objects = ['brand_no', 'category_no']
-    objects.append(list(objects))
+    objects.append(tuple(objects))
     norms = {'order_id': set.__len__, 'vip_no': set.__len__}
     raw = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))
 
@@ -264,7 +264,7 @@ def market_share(df: pandas.DataFrame, features: defaultdict):
                 for obj_key, obj_value in vars()[norm.split('_')[0] + '_cnt']:
                     if type(obj_key) is not tuple:
                         features['market_share' + brief(norm) + brief(obj)][obj_key] = \
-                        vars()[norm.split('_')[0] + '_cnt'][(row[objects[0]], row[objects[1]])] / \
+                        vars()[norm.split('_')[0] + '_cnt'][(objects[0], objects[1])] / \
                         vars()[norm.split('_')[0] + '_cnt'][obj_key]
 
 
