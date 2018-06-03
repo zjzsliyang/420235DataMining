@@ -10,8 +10,8 @@ def brief(object1: str, object2='_'):
 
 
 # PART I: count/ratio
-def count(df: pandas.DataFrame, features: defaultdict):
-    period = ['monthly', 'whole']
+def count(df: pandas.DataFrame, features: defaultdict, recent=''):
+    period = ['monthly', 'whole'] if recent is '' else [recent]
     objects = ['vip_no', 'brand_no', 'category_no', 'item_id']
     duo_objs = [(0, 1), (0, 2), (0, 3), (1, 2)]
     norms = {'count': list.__len__, 'amount': sum, 'purchase_day': (lambda x: len(set(x)))}
@@ -45,8 +45,8 @@ def count(df: pandas.DataFrame, features: defaultdict):
                     norms[norm](tmp)
 
 
-def product_diversity(df: pandas.DataFrame, features: defaultdict):
-    period = ['monthly', 'whole']
+def product_diversity(df: pandas.DataFrame, features: defaultdict, recent=''):
+    period = ['monthly', 'whole'] if recent is '' else [recent]
     objects = ['vip_no', 'brand_no', 'category_no', 'item_id']
     raw = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))
 
@@ -71,8 +71,8 @@ def product_diversity(df: pandas.DataFrame, features: defaultdict):
             features[period[1] + brief(objects[1], objects[2]) + 'unique'][obj_key][period[1]] = len(tmp)
 
 
-def penetration(df: pandas.DataFrame, features: defaultdict):
-    period = ['monthly', 'whole']
+def penetration(df: pandas.DataFrame, features: defaultdict, recent=''):
+    period = ['monthly', 'whole'] if recent is '' else [recent]
     objects = ['vip_no', 'brand_no', 'category_no', 'item_id']
     raw = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))
 
@@ -150,11 +150,21 @@ def obj_agg(df: pandas.DataFrame, features: defaultdict):
 # PART III: last week/ last month feature
 def recent_feature(df: pandas.DataFrame, features: defaultdict):
     period = ['last_month', 'last_week']
+    recent_df = {}
     month_begin = df['order_time'].max - pandas.offsets.relativedelta(months=1)
     week_begin = df['order_time'].max - pandas.offsets.relativedelta(weeks=1)
-    last_month_df = df.loc[(df['order_time'] > month_begin)]
-    last_week_df = df.loc[(df['order_time'] > week_begin)]
-    # TODO: use partial function
+    recent_df[period[0]] = df.loc[(df['order_time'] > month_begin)]
+    recent_df[period[1]] = df.loc[(df['order_time'] > week_begin)]
+
+    for recent in period:
+        # PART I: count/ratio
+        count(recent_df[recent], features, recent)
+        product_diversity(recent_df[recent], features, recent)
+        penetration(recent_df[recent], features, recent)
+
+        # PART II: AGG feature
+        user_agg(recent_df[recent], features)
+        obj_agg(recent_df[recent], features)
 
 
 # PART IV: complex feature
@@ -221,11 +231,54 @@ def repeat_feature(df: pandas.DataFrame, features: defaultdict):
 
 
 def market_share(df: pandas.DataFrame, features: defaultdict):
-    pass
+    objects = ['brand_no', 'category_no']
+    objects.append(list(objects))
+    norms = {'order_id': set.__len__, 'vip_no': set.__len__}
+    raw = defaultdict(lambda: defaultdict(lambda: defaultdict(set)))
+
+    for index, row in df.iterrows():
+        for norm in norms.keys():
+            for obj in objects:
+                if type(obj) is not list:
+                    raw['market_share' + brief(obj) + norm][(row[obj])][row['order_time']].add(row[norm])
+                else:
+                    raw['market_share' + brief(*obj) + norm][(row[objects[0]], row[objects[1]])][row['order_time']].add(
+                        row[norm])
+
+    # TODO: optimize brief func to reduce duplicated code
+    for norm in norms.keys():
+        vars()[norm.split('_')[0] + '_cnt'] = defaultdict(lambda: defaultdict(int))
+        for obj in objects:
+            if type(obj) is not list:
+                for obj_key, obj_value in raw['market_share' + brief(obj) + norm].items():
+                    for time, item in obj_value:
+                        vars()[norm.split('_')[0] + '_cnt'][obj_key] += norms[norm](item)
+            else:
+                for obj_key, obj_value in raw['market_share' + brief(*obj) + norm].items():
+                    for time, item in obj_value:
+                        vars()[norm.split('_')[0] + '_cnt'][obj_key] += norms[norm](item)
+
+    for norm in norms.keys():
+        for obj in objects:
+            if type(obj) is not list:
+                for obj_key, obj_value in vars()[norm.split('_')[0] + '_cnt']:
+                    if type(obj_key) is not tuple:
+                        features['market_share' + brief(norm) + brief(obj)][obj_key] = \
+                        vars()[norm.split('_')[0] + '_cnt'][(row[objects[0]], row[objects[1]])] / \
+                        vars()[norm.split('_')[0] + '_cnt'][obj_key]
 
 
 def similarity(df: pandas.DataFrame, features: defaultdict):
-    pass
+    objects = ['brand_no', 'category_no']
+    methods = {'max': numpy.max, 'sum': numpy.sum, 'avg': numpy.mean}
+    proportions = {'purchase_cnt': 'quantity', 'vip_cnt': 'vip_no'}
+
+    # for index, row in df.iteritems():
+    #
+    #
+    # for obj in objects:
+    #     for pro in proportions:
+    #         for method in methods:
 
 
 def generate_feature(df: pandas.DataFrame, features: defaultdict):
