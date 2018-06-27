@@ -6,7 +6,7 @@ import logging
 from datetime import datetime
 from collections import defaultdict
 import hw3.q2.features as generate_features
-import hw3.q2.labels as generate_labels
+import hw3.q2.prediction
 
 preprocessed_path = os.getcwd() + '/preprocessed_trade.pkl'
 feb = pandas.Timestamp(2016, 2, 1)
